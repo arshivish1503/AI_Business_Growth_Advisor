@@ -1,0 +1,35 @@
+SKU_ID,Product_Name,Category,Subcategory,Pack_Size_ml,MRP,Margin_Percent,Channel,Launch_Date
+SKU001,Cola Classic,CSD,Cola,250,21,25.3,Convenience,2025-06-08
+SKU002,Cola Classic,CSD,Cola,500,40,24.4,Grocery,2025-11-10
+SKU003,Cola Classic,CSD,Cola,750,58,27.7,Modern Trade,2025-09-19
+SKU004,Cola Classic,CSD,Cola,1250,96,17.5,Convenience,2025-10-14
+SKU005,Cola Classic,CSD,Cola,2000,152,20.4,Eating & Dining,2025-10-13
+SKU006,Orange Fizz,CSD,Orange,250,21,25.9,Convenience,2025-08-24
+SKU007,Orange Fizz,CSD,Orange,500,40,18.7,Convenience,2025-11-21
+SKU008,Orange Fizz,CSD,Orange,750,58,25.9,Convenience,2025-01-24
+SKU009,Orange Fizz,CSD,Orange,1250,96,25.1,Grocery,2025-01-25
+SKU010,Lemon Lime,CSD,Lemon,250,21,26.7,Modern Trade,2025-12-21
+SKU011,Lemon Lime,CSD,Lemon,500,40,18.3,Convenience,2025-07-01
+SKU012,Lemon Lime,CSD,Lemon,750,58,17.9,Convenience,2025-01-16
+SKU013,Pure Water,Water,Pure,500,10,24.9,Eating & Dining,2025-05-30
+SKU014,Pure Water,Water,Pure,750,12,20.4,Convenience,2025-04-29
+SKU015,Pure Water,Water,Pure,1500,21,18.3,Grocery,2025-09-08
+SKU016,Mineral Plus,Water,Mineral,500,10,18.7,Convenience,2025-06-23
+SKU017,Mineral Plus,Water,Mineral,1000,15,21.2,Modern Trade,2025-08-18
+SKU018,Mineral Plus,Water,Mineral,2000,27,19.7,Modern Trade,2025-09-13
+SKU019,Mango,Juice,Mango,200,16,25.7,Grocery,2025-11-24
+SKU020,Mango,Juice,Mango,500,36,24.2,Grocery,2025-04-16
+SKU021,Mango,Juice,Mango,1000,68,18.4,Grocery,2025-10-18
+SKU022,Mixed Fruit,Juice,Mixed,200,16,24.0,Modern Trade,2025-10-15
+SKU023,Mixed Fruit,Juice,Mixed,500,36,25.4,Convenience,2025-07-04
+SKU024,Mixed Fruit,Juice,Mixed,1000,68,17.7,Grocery,2025-07-27
+SKU025,Orange,Juice,Orange,200,16,24.0,Convenience,2025-11-09
+SKU026,Orange,Juice,Orange,500,36,25.2,Convenience,2025-07-26
+SKU027,Energy Original,Energy Drink,Energy,250,35,22.6,Convenience,2025-10-18
+SKU028,Energy Original,Energy Drink,Energy,330,43,16.4,Convenience,2025-04-21
+SKU029,Energy Zero,Energy Drink,Energy,250,35,18.6,Convenience,2025-12-29
+SKU030,Energy Zero,Energy Drink,Energy,330,43,18.8,Grocery,2025-11-08
+SKU031,Sports Hydrate,Sports Drink,Sports,300,34,19.4,Grocery,2025-06-08
+SKU032,Sports Hydrate,Sports Drink,Sports,500,50,22.7,Modern Trade,2025-08-30
+SKU033,Sports Active,Sports Drink,Sports,300,34,24.0,Convenience,2025-06-02
+SKU034,Sports Active,Sports Drink,Sports,500,50,18.0,Grocery,2025-10-25

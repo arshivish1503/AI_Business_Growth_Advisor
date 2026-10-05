@@ -1,0 +1,751 @@
+Outlet_ID,Outlet_Name,City,Region,Outlet_Type,Tier,Monthly_Footfall,Distributor_ID,Active
+OUT0001,Outlet 1,Gurgaon,North,Convenience Store,C,1319,DIST001,True
+OUT0002,Outlet 2,Bengaluru,South,Supermarket,B,2129,DIST029,True
+OUT0003,Outlet 3,Mumbai,West,Eating & Dining,B,4336,DIST009,True
+OUT0004,Outlet 4,Delhi,North,Kirana,B,2408,DIST010,True
+OUT0005,Outlet 5,Mumbai,West,Convenience Store,A,1108,DIST021,True
+OUT0006,Outlet 6,Delhi,North,Kirana,A,2758,DIST008,True
+OUT0007,Outlet 7,Bengaluru,South,Supermarket,A,3771,DIST012,True
+OUT0008,Outlet 8,Jaipur,North,Convenience Store,C,1925,DIST022,True
+OUT0009,Outlet 9,Chandigarh,North,Kirana,B,1284,DIST018,True
+OUT0010,Outlet 10,Noida,North,Kirana,C,1892,DIST020,True
+OUT0011,Outlet 11,Ahmedabad,West,Hypermarket,B,2362,DIST001,True
+OUT0012,Outlet 12,Chandigarh,North,Kirana,A,7181,DIST014,True
+OUT0013,Outlet 13,Gurgaon,North,Convenience Store,A,1610,DIST015,True
+OUT0014,Outlet 14,Gurgaon,North,Kirana,C,891,DIST019,True
+OUT0015,Outlet 15,Bhubaneswar,East,Eating & Dining,B,1355,DIST005,True
+OUT0016,Outlet 16,Kolkata,East,Kirana,C,898,DIST005,True
+OUT0017,Outlet 17,Bengaluru,South,Kirana,A,1511,DIST023,True
+OUT0018,Outlet 18,Delhi,North,Hypermarket,B,448,DIST021,True
+OUT0019,Outlet 19,Bhubaneswar,East,Eating & Dining,C,921,DIST025,True
+OUT0020,Outlet 20,Hyderabad,South,Kirana,B,1837,DIST009,True
+OUT0021,Outlet 21,Bengaluru,South,Convenience Store,B,1246,DIST030,True
+OUT0022,Outlet 22,Jaipur,North,Supermarket,C,2676,DIST009,True
+OUT0023,Outlet 23,Noida,North,Hypermarket,B,1565,DIST020,True
+OUT0024,Outlet 24,Gurgaon,North,Kirana,B,2782,DIST005,True
+OUT0025,Outlet 25,Kolkata,East,Convenience Store,B,1750,DIST028,True
+OUT0026,Outlet 26,Jaipur,North,Supermarket,B,2257,DIST010,True
+OUT0027,Outlet 27,Delhi,North,Supermarket,C,1270,DIST025,True
+OUT0028,Outlet 28,Noida,North,Supermarket,C,2074,DIST010,True
+OUT0029,Outlet 29,Pune,West,Convenience Store,B,1595,DIST024,True
+OUT0030,Outlet 30,Delhi,North,Kirana,C,1400,DIST014,True
+OUT0031,Outlet 31,Chennai,South,Eating & Dining,B,1835,DIST002,True
+OUT0032,Outlet 32,Bengaluru,South,Hypermarket,A,1981,DIST006,True
+OUT0033,Outlet 33,Bengaluru,South,Supermarket,B,1867,DIST021,True
+OUT0034,Outlet 34,Jaipur,North,Kirana,C,3062,DIST006,True
+OUT0035,Outlet 35,Pune,West,Kirana,A,1997,DIST009,True
+OUT0036,Outlet 36,Pune,West,Supermarket,B,1879,DIST017,True
+OUT0037,Outlet 37,Ahmedabad,West,Kirana,B,2740,DIST008,True
+OUT0038,Outlet 38,Gurgaon,North,Eating & Dining,C,1871,DIST004,True
+OUT0039,Outlet 39,Jaipur,North,Kirana,A,2268,DIST019,True
+OUT0040,Outlet 40,Gurgaon,North,Supermarket,B,532,DIST021,True
+OUT0041,Outlet 41,Mumbai,West,Hypermarket,C,1413,DIST022,True
+OUT0042,Outlet 42,Noida,North,Kirana,B,573,DIST029,True
+OUT0043,Outlet 43,Delhi,North,Kirana,A,4372,DIST004,True
+OUT0044,Outlet 44,Gurgaon,North,Convenience Store,A,2435,DIST013,True
+OUT0045,Outlet 45,Pune,West,Convenience Store,B,2440,DIST008,True
+OUT0046,Outlet 46,Delhi,North,Kirana,B,1036,DIST028,True
+OUT0047,Outlet 47,Kolkata,East,Convenience Store,C,557,DIST017,True
+OUT0048,Outlet 48,Pune,West,Eating & Dining,B,1749,DIST003,True
+OUT0049,Outlet 49,Noida,North,Convenience Store,B,1532,DIST021,True
+OUT0050,Outlet 50,Pune,West,Kirana,C,898,DIST002,True
+OUT0051,Outlet 51,Gurgaon,North,Kirana,B,1616,DIST009,True
+OUT0052,Outlet 52,Bhubaneswar,East,Kirana,B,5406,DIST022,True
+OUT0053,Outlet 53,Mumbai,West,Kirana,C,1631,DIST016,True
+OUT0054,Outlet 54,Hyderabad,South,Kirana,B,2495,DIST023,True
+OUT0055,Outlet 55,Gurgaon,North,Convenience Store,C,1638,DIST018,True
+OUT0056,Outlet 56,Mumbai,West,Kirana,C,2180,DIST026,True
+OUT0057,Outlet 57,Mumbai,West,Eating & Dining,A,2071,DIST017,True
+OUT0058,Outlet 58,Kolkata,East,Kirana,B,617,DIST002,True
+OUT0059,Outlet 59,Pune,West,Kirana,B,1429,DIST003,True
+OUT0060,Outlet 60,Mumbai,West,Supermarket,A,3251,DIST024,True
+OUT0061,Outlet 61,Delhi,North,Hypermarket,B,1005,DIST002,True
+OUT0062,Outlet 62,Noida,North,Kirana,B,1437,DIST012,True
+OUT0063,Outlet 63,Mumbai,West,Kirana,C,820,DIST001,True
+OUT0064,Outlet 64,Jaipur,North,Kirana,C,2202,DIST010,True
+OUT0065,Outlet 65,Gurgaon,North,Convenience Store,C,1569,DIST018,True
+OUT0066,Outlet 66,Hyderabad,South,Convenience Store,B,2086,DIST006,True
+OUT0067,Outlet 67,Kolkata,East,Kirana,B,2058,DIST014,True
+OUT0068,Outlet 68,Delhi,North,Kirana,B,1530,DIST030,True
+OUT0069,Outlet 69,Mumbai,West,Convenience Store,A,2466,DIST003,True
+OUT0070,Outlet 70,Gurgaon,North,Eating & Dining,C,657,DIST002,True
+OUT0071,Outlet 71,Ahmedabad,West,Convenience Store,B,581,DIST009,True
+OUT0072,Outlet 72,Noida,North,Convenience Store,B,1664,DIST025,True
+OUT0073,Outlet 73,Ahmedabad,West,Kirana,C,1296,DIST013,True
+OUT0074,Outlet 74,Bengaluru,South,Kirana,B,2681,DIST020,True
+OUT0075,Outlet 75,Bengaluru,South,Kirana,A,4576,DIST002,True
+OUT0076,Outlet 76,Gurgaon,North,Supermarket,A,4573,DIST023,True
+OUT0077,Outlet 77,Kolkata,East,Hypermarket,B,993,DIST003,True
+OUT0078,Outlet 78,Delhi,North,Eating & Dining,C,956,DIST022,True
+OUT0079,Outlet 79,Gurgaon,North,Eating & Dining,B,1931,DIST005,True
+OUT0080,Outlet 80,Mumbai,West,Eating & Dining,C,3501,DIST026,True
+OUT0081,Outlet 81,Chandigarh,North,Eating & Dining,C,2181,DIST009,True
+OUT0082,Outlet 82,Hyderabad,South,Kirana,C,1854,DIST006,True
+OUT0083,Outlet 83,Hyderabad,South,Kirana,B,1307,DIST011,True
+OUT0084,Outlet 84,Noida,North,Kirana,A,1516,DIST001,True
+OUT0085,Outlet 85,Bhubaneswar,East,Convenience Store,C,1597,DIST005,True
+OUT0086,Outlet 86,Noida,North,Kirana,B,948,DIST018,True
+OUT0087,Outlet 87,Mumbai,West,Supermarket,B,1397,DIST010,True
+OUT0088,Outlet 88,Delhi,North,Convenience Store,C,1064,DIST011,True
+OUT0089,Outlet 89,Kolkata,East,Convenience Store,A,4621,DIST025,True
+OUT0090,Outlet 90,Delhi,North,Kirana,C,955,DIST004,True
+OUT0091,Outlet 91,Gurgaon,North,Kirana,C,373,DIST012,True
+OUT0092,Outlet 92,Jaipur,North,Kirana,C,1405,DIST006,True
+OUT0093,Outlet 93,Patna,East,Hypermarket,B,1136,DIST015,True
+OUT0094,Outlet 94,Kolkata,East,Convenience Store,C,1142,DIST010,True
+OUT0095,Outlet 95,Bengaluru,South,Supermarket,B,1496,DIST002,True
+OUT0096,Outlet 96,Kolkata,East,Kirana,C,990,DIST003,True
+OUT0097,Outlet 97,Kolkata,East,Kirana,C,1599,DIST026,True
+OUT0098,Outlet 98,Mumbai,West,Kirana,C,562,DIST002,True
+OUT0099,Outlet 99,Noida,North,Supermarket,B,1233,DIST024,True
+OUT0100,Outlet 100,Hyderabad,South,Supermarket,A,3069,DIST028,True
+OUT0101,Outlet 101,Ahmedabad,West,Kirana,B,1180,DIST014,True
+OUT0102,Outlet 102,Chandigarh,North,Eating & Dining,B,754,DIST010,True
+OUT0103,Outlet 103,Gurgaon,North,Kirana,B,2102,DIST024,True
+OUT0104,Outlet 104,Bengaluru,South,Hypermarket,B,2579,DIST030,True
+OUT0105,Outlet 105,Delhi,North,Kirana,B,1525,DIST004,True
+OUT0106,Outlet 106,Kolkata,East,Kirana,C,463,DIST029,True
+OUT0107,Outlet 107,Delhi,North,Supermarket,C,1539,DIST029,True
+OUT0108,Outlet 108,Gurgaon,North,Kirana,B,737,DIST005,True
+OUT0109,Outlet 109,Hyderabad,South,Kirana,C,1287,DIST002,True
+OUT0110,Outlet 110,Delhi,North,Convenience Store,B,1043,DIST022,True
+OUT0111,Outlet 111,Delhi,North,Kirana,B,923,DIST003,True
+OUT0112,Outlet 112,Pune,West,Supermarket,A,1849,DIST019,True
+OUT0113,Outlet 113,Chennai,South,Hypermarket,C,1031,DIST002,True
+OUT0114,Outlet 114,Delhi,North,Hypermarket,C,838,DIST021,True
+OUT0115,Outlet 115,Noida,North,Kirana,C,1460,DIST007,True
+OUT0116,Outlet 116,Hyderabad,South,Convenience Store,C,916,DIST003,True
+OUT0117,Outlet 117,Patna,East,Kirana,C,1741,DIST002,True
+OUT0118,Outlet 118,Mumbai,West,Kirana,B,1766,DIST006,True
+OUT0119,Outlet 119,Delhi,North,Kirana,B,1136,DIST017,True
+OUT0120,Outlet 120,Gurgaon,North,Eating & Dining,B,1053,DIST003,True
+OUT0121,Outlet 121,Delhi,North,Hypermarket,C,533,DIST025,True
+OUT0122,Outlet 122,Gurgaon,North,Supermarket,A,2571,DIST019,True
+OUT0123,Outlet 123,Ahmedabad,West,Convenience Store,B,1326,DIST009,True
+OUT0124,Outlet 124,Gurgaon,North,Convenience Store,C,385,DIST030,True
+OUT0125,Outlet 125,Mumbai,West,Convenience Store,B,1222,DIST020,True
+OUT0126,Outlet 126,Bengaluru,South,Convenience Store,C,746,DIST021,True
+OUT0127,Outlet 127,Pune,West,Convenience Store,B,3162,DIST006,True
+OUT0128,Outlet 128,Delhi,North,Kirana,C,520,DIST022,True
+OUT0129,Outlet 129,Hyderabad,South,Kirana,C,585,DIST017,True
+OUT0130,Outlet 130,Bengaluru,South,Eating & Dining,B,2564,DIST030,True
+OUT0131,Outlet 131,Bengaluru,South,Convenience Store,C,2063,DIST015,True
+OUT0132,Outlet 132,Gurgaon,North,Eating & Dining,B,1112,DIST021,True
+OUT0133,Outlet 133,Gurgaon,North,Kirana,B,1170,DIST011,True
+OUT0134,Outlet 134,Kolkata,East,Convenience Store,B,2053,DIST002,True
+OUT0135,Outlet 135,Chandigarh,North,Kirana,C,393,DIST004,True
+OUT0136,Outlet 136,Noida,North,Kirana,A,976,DIST027,True
+OUT0137,Outlet 137,Mumbai,West,Kirana,B,1371,DIST023,True
+OUT0138,Outlet 138,Ahmedabad,West,Kirana,C,2250,DIST011,True
+OUT0139,Outlet 139,Bhubaneswar,East,Eating & Dining,B,1279,DIST021,True
+OUT0140,Outlet 140,Noida,North,Kirana,B,1628,DIST001,True
+OUT0141,Outlet 141,Kolkata,East,Convenience Store,A,3758,DIST002,True
+OUT0142,Outlet 142,Gurgaon,North,Convenience Store,B,4016,DIST016,True
+OUT0143,Outlet 143,Mumbai,West,Kirana,C,864,DIST019,True
+OUT0144,Outlet 144,Ahmedabad,West,Convenience Store,A,2239,DIST029,True
+OUT0145,Outlet 145,Gurgaon,North,Kirana,B,3533,DIST023,True
+OUT0146,Outlet 146,Delhi,North,Eating & Dining,C,564,DIST008,True
+OUT0147,Outlet 147,Jaipur,North,Supermarket,A,3583,DIST025,True
+OUT0148,Outlet 148,Bhubaneswar,East,Supermarket,C,708,DIST015,True
+OUT0149,Outlet 149,Pune,West,Convenience Store,B,1629,DIST025,True
+OUT0150,Outlet 150,Kolkata,East,Kirana,C,1004,DIST006,True
+OUT0151,Outlet 151,Hyderabad,South,Eating & Dining,C,728,DIST001,True
+OUT0152,Outlet 152,Mumbai,West,Kirana,C,719,DIST002,True
+OUT0153,Outlet 153,Hyderabad,South,Kirana,B,1762,DIST030,True
+OUT0154,Outlet 154,Gurgaon,North,Kirana,B,2435,DIST003,True
+OUT0155,Outlet 155,Gurgaon,North,Supermarket,C,1056,DIST029,True
+OUT0156,Outlet 156,Hyderabad,South,Convenience Store,B,1606,DIST022,True
+OUT0157,Outlet 157,Hyderabad,South,Supermarket,B,2012,DIST005,True
+OUT0158,Outlet 158,Delhi,North,Supermarket,A,1457,DIST026,True
+OUT0159,Outlet 159,Mumbai,West,Kirana,C,1562,DIST005,True
+OUT0160,Outlet 160,Pune,West,Eating & Dining,C,1620,DIST005,True
+OUT0161,Outlet 161,Chennai,South,Convenience Store,B,5022,DIST018,True
+OUT0162,Outlet 162,Pune,West,Convenience Store,C,946,DIST009,True
+OUT0163,Outlet 163,Jaipur,North,Kirana,B,1266,DIST009,True
+OUT0164,Outlet 164,Chandigarh,North,Eating & Dining,B,2199,DIST006,True
+OUT0165,Outlet 165,Jaipur,North,Kirana,B,2249,DIST019,True
+OUT0166,Outlet 166,Ahmedabad,West,Kirana,B,1223,DIST001,True
+OUT0167,Outlet 167,Chennai,South,Convenience Store,B,1297,DIST008,True
+OUT0168,Outlet 168,Jaipur,North,Kirana,C,1429,DIST017,True
+OUT0169,Outlet 169,Delhi,North,Kirana,C,772,DIST015,True
+OUT0170,Outlet 170,Delhi,North,Convenience Store,B,1293,DIST021,True
+OUT0171,Outlet 171,Bengaluru,South,Kirana,B,1620,DIST007,True
+OUT0172,Outlet 172,Hyderabad,South,Eating & Dining,A,3532,DIST020,True
+OUT0173,Outlet 173,Gurgaon,North,Kirana,C,853,DIST023,True
+OUT0174,Outlet 174,Gurgaon,North,Supermarket,C,489,DIST012,True
+OUT0175,Outlet 175,Pune,West,Convenience Store,C,472,DIST008,True
+OUT0176,Outlet 176,Delhi,North,Convenience Store,B,882,DIST017,True
+OUT0177,Outlet 177,Hyderabad,South,Convenience Store,A,1249,DIST018,True
+OUT0178,Outlet 178,Noida,North,Convenience Store,B,1451,DIST003,True
+OUT0179,Outlet 179,Delhi,North,Eating & Dining,A,1321,DIST017,True
+OUT0180,Outlet 180,Kolkata,East,Kirana,A,1644,DIST005,True
+OUT0181,Outlet 181,Delhi,North,Kirana,A,1592,DIST018,True
+OUT0182,Outlet 182,Noida,North,Convenience Store,C,918,DIST028,True
+OUT0183,Outlet 183,Delhi,North,Supermarket,A,4091,DIST017,True
+OUT0184,Outlet 184,Gurgaon,North,Kirana,A,3039,DIST023,True
+OUT0185,Outlet 185,Gurgaon,North,Convenience Store,C,1128,DIST010,True
+OUT0186,Outlet 186,Gurgaon,North,Hypermarket,B,1264,DIST028,True
+OUT0187,Outlet 187,Delhi,North,Supermarket,C,921,DIST025,True
+OUT0188,Outlet 188,Gurgaon,North,Eating & Dining,B,1803,DIST028,True
+OUT0189,Outlet 189,Pune,West,Convenience Store,C,1457,DIST023,True
+OUT0190,Outlet 190,Ahmedabad,West,Convenience Store,B,1034,DIST020,True
+OUT0191,Outlet 191,Chandigarh,North,Kirana,B,1581,DIST016,True
+OUT0192,Outlet 192,Noida,North,Eating & Dining,C,449,DIST028,True
+OUT0193,Outlet 193,Mumbai,West,Kirana,B,1711,DIST026,True
+OUT0194,Outlet 194,Chennai,South,Supermarket,B,2192,DIST013,True
+OUT0195,Outlet 195,Chennai,South,Kirana,B,1371,DIST003,True
+OUT0196,Outlet 196,Gurgaon,North,Convenience Store,A,5110,DIST001,True
+OUT0197,Outlet 197,Delhi,North,Supermarket,C,753,DIST008,True
+OUT0198,Outlet 198,Delhi,North,Convenience Store,B,1716,DIST002,True
+OUT0199,Outlet 199,Delhi,North,Eating & Dining,A,2220,DIST007,True
+OUT0200,Outlet 200,Pune,West,Kirana,B,1487,DIST004,True
+OUT0201,Outlet 201,Jaipur,North,Convenience Store,C,1064,DIST030,True
+OUT0202,Outlet 202,Gurgaon,North,Kirana,B,1633,DIST003,True
+OUT0203,Outlet 203,Chandigarh,North,Kirana,B,2279,DIST019,True
+OUT0204,Outlet 204,Mumbai,West,Convenience Store,C,2082,DIST011,True
+OUT0205,Outlet 205,Gurgaon,North,Kirana,A,2254,DIST006,True
+OUT0206,Outlet 206,Hyderabad,South,Kirana,C,1617,DIST022,True
+OUT0207,Outlet 207,Gurgaon,North,Convenience Store,B,1134,DIST030,True
+OUT0208,Outlet 208,Kolkata,East,Convenience Store,B,2196,DIST024,True
+OUT0209,Outlet 209,Gurgaon,North,Convenience Store,B,1104,DIST030,True
+OUT0210,Outlet 210,Chennai,South,Kirana,C,1830,DIST018,True
+OUT0211,Outlet 211,Kolkata,East,Kirana,B,4208,DIST021,True
+OUT0212,Outlet 212,Patna,East,Kirana,B,1473,DIST005,True
+OUT0213,Outlet 213,Hyderabad,South,Supermarket,B,580,DIST026,True
+OUT0214,Outlet 214,Hyderabad,South,Hypermarket,B,1216,DIST023,True
+OUT0215,Outlet 215,Ahmedabad,West,Kirana,B,2709,DIST008,True
+OUT0216,Outlet 216,Hyderabad,South,Convenience Store,B,1995,DIST011,True
+OUT0217,Outlet 217,Gurgaon,North,Kirana,B,1740,DIST019,True
+OUT0218,Outlet 218,Mumbai,West,Kirana,A,3552,DIST001,True
+OUT0219,Outlet 219,Mumbai,West,Kirana,B,1935,DIST025,True
+OUT0220,Outlet 220,Chennai,South,Kirana,B,2691,DIST009,True
+OUT0221,Outlet 221,Mumbai,West,Convenience Store,B,2353,DIST003,True
+OUT0222,Outlet 222,Chandigarh,North,Eating & Dining,A,4475,DIST010,True
+OUT0223,Outlet 223,Ahmedabad,West,Kirana,B,1828,DIST026,True
+OUT0224,Outlet 224,Delhi,North,Convenience Store,B,2338,DIST009,True
+OUT0225,Outlet 225,Gurgaon,North,Supermarket,A,1965,DIST017,True
+OUT0226,Outlet 226,Mumbai,West,Eating & Dining,B,1187,DIST025,True
+OUT0227,Outlet 227,Jaipur,North,Convenience Store,B,3354,DIST002,True
+OUT0228,Outlet 228,Delhi,North,Kirana,C,1234,DIST023,True
+OUT0229,Outlet 229,Chandigarh,North,Convenience Store,B,2235,DIST009,True
+OUT0230,Outlet 230,Chandigarh,North,Kirana,C,1184,DIST021,True
+OUT0231,Outlet 231,Noida,North,Eating & Dining,B,1195,DIST006,True
+OUT0232,Outlet 232,Chandigarh,North,Kirana,C,1126,DIST005,True
+OUT0233,Outlet 233,Ahmedabad,West,Convenience Store,B,2969,DIST024,True
+OUT0234,Outlet 234,Noida,North,Kirana,B,1997,DIST025,True
+OUT0235,Outlet 235,Bhubaneswar,East,Kirana,B,720,DIST030,True
+OUT0236,Outlet 236,Kolkata,East,Hypermarket,C,1017,DIST021,True
+OUT0237,Outlet 237,Mumbai,West,Convenience Store,B,3470,DIST014,True
+OUT0238,Outlet 238,Noida,North,Convenience Store,B,1413,DIST006,True
+OUT0239,Outlet 239,Mumbai,West,Eating & Dining,B,692,DIST009,True
+OUT0240,Outlet 240,Chennai,South,Hypermarket,C,2626,DIST020,True
+OUT0241,Outlet 241,Ahmedabad,West,Kirana,A,3067,DIST011,True
+OUT0242,Outlet 242,Hyderabad,South,Convenience Store,B,1507,DIST015,True
+OUT0243,Outlet 243,Mumbai,West,Convenience Store,B,1316,DIST006,True
+OUT0244,Outlet 244,Ahmedabad,West,Convenience Store,C,1823,DIST014,True
+OUT0245,Outlet 245,Noida,North,Kirana,B,1219,DIST008,True
+OUT0246,Outlet 246,Bengaluru,South,Kirana,B,2608,DIST004,True
+OUT0247,Outlet 247,Delhi,North,Eating & Dining,C,1430,DIST004,True
+OUT0248,Outlet 248,Bengaluru,South,Eating & Dining,B,1737,DIST016,True
+OUT0249,Outlet 249,Chennai,South,Supermarket,A,2409,DIST011,True
+OUT0250,Outlet 250,Gurgaon,North,Eating & Dining,B,1438,DIST003,True
+OUT0251,Outlet 251,Pune,West,Supermarket,A,3612,DIST016,True
+OUT0252,Outlet 252,Gurgaon,North,Supermarket,A,1528,DIST005,True
+OUT0253,Outlet 253,Bengaluru,South,Supermarket,B,750,DIST001,True
+OUT0254,Outlet 254,Gurgaon,North,Convenience Store,C,1477,DIST004,True
+OUT0255,Outlet 255,Kolkata,East,Convenience Store,C,1488,DIST014,True
+OUT0256,Outlet 256,Gurgaon,North,Kirana,A,2800,DIST029,True
+OUT0257,Outlet 257,Bhubaneswar,East,Convenience Store,B,1869,DIST008,True
+OUT0258,Outlet 258,Hyderabad,South,Kirana,A,1953,DIST009,True
+OUT0259,Outlet 259,Pune,West,Kirana,C,1596,DIST008,True
+OUT0260,Outlet 260,Hyderabad,South,Convenience Store,A,2210,DIST011,True
+OUT0261,Outlet 261,Hyderabad,South,Kirana,B,1249,DIST022,True
+OUT0262,Outlet 262,Bhubaneswar,East,Kirana,B,1352,DIST010,True
+OUT0263,Outlet 263,Delhi,North,Supermarket,B,3863,DIST020,True
+OUT0264,Outlet 264,Pune,West,Hypermarket,B,712,DIST027,True
+OUT0265,Outlet 265,Gurgaon,North,Kirana,C,1403,DIST029,True
+OUT0266,Outlet 266,Pune,West,Kirana,B,730,DIST017,True
+OUT0267,Outlet 267,Delhi,North,Kirana,C,1067,DIST022,True
+OUT0268,Outlet 268,Pune,West,Supermarket,B,1280,DIST028,True
+OUT0269,Outlet 269,Pune,West,Supermarket,C,438,DIST024,True
+OUT0270,Outlet 270,Mumbai,West,Kirana,C,1334,DIST009,True
+OUT0271,Outlet 271,Mumbai,West,Supermarket,C,944,DIST004,True
+OUT0272,Outlet 272,Bengaluru,South,Kirana,B,605,DIST004,True
+OUT0273,Outlet 273,Hyderabad,South,Kirana,B,2270,DIST027,True
+OUT0274,Outlet 274,Mumbai,West,Eating & Dining,B,2968,DIST017,True
+OUT0275,Outlet 275,Pune,West,Kirana,B,3042,DIST009,True
+OUT0276,Outlet 276,Kolkata,East,Kirana,B,1829,DIST011,True
+OUT0277,Outlet 277,Gurgaon,North,Convenience Store,C,1143,DIST009,True
+OUT0278,Outlet 278,Gurgaon,North,Convenience Store,C,2036,DIST025,True
+OUT0279,Outlet 279,Gurgaon,North,Eating & Dining,B,3317,DIST019,True
+OUT0280,Outlet 280,Ahmedabad,West,Eating & Dining,B,2591,DIST027,True
+OUT0281,Outlet 281,Jaipur,North,Kirana,C,733,DIST010,True
+OUT0282,Outlet 282,Hyderabad,South,Kirana,C,1226,DIST015,True
+OUT0283,Outlet 283,Ahmedabad,West,Supermarket,B,1896,DIST004,True
+OUT0284,Outlet 284,Noida,North,Kirana,B,689,DIST030,True
+OUT0285,Outlet 285,Kolkata,East,Hypermarket,C,1383,DIST016,True
+OUT0286,Outlet 286,Bengaluru,South,Convenience Store,B,4327,DIST017,True
+OUT0287,Outlet 287,Noida,North,Kirana,B,2075,DIST013,True
+OUT0288,Outlet 288,Chandigarh,North,Supermarket,C,2174,DIST009,True
+OUT0289,Outlet 289,Noida,North,Kirana,C,1216,DIST029,True
+OUT0290,Outlet 290,Delhi,North,Convenience Store,C,1084,DIST015,True
+OUT0291,Outlet 291,Delhi,North,Convenience Store,C,1330,DIST021,True
+OUT0292,Outlet 292,Kolkata,East,Convenience Store,B,1078,DIST002,True
+OUT0293,Outlet 293,Jaipur,North,Convenience Store,B,1008,DIST009,True
+OUT0294,Outlet 294,Chandigarh,North,Convenience Store,B,2751,DIST025,True
+OUT0295,Outlet 295,Bengaluru,South,Eating & Dining,B,2885,DIST003,True
+OUT0296,Outlet 296,Mumbai,West,Eating & Dining,B,996,DIST004,True
+OUT0297,Outlet 297,Kolkata,East,Convenience Store,B,2405,DIST025,True
+OUT0298,Outlet 298,Hyderabad,South,Kirana,B,1496,DIST010,True
+OUT0299,Outlet 299,Mumbai,West,Supermarket,C,1305,DIST009,True
+OUT0300,Outlet 300,Chandigarh,North,Eating & Dining,B,1914,DIST017,True
+OUT0301,Outlet 301,Patna,East,Kirana,B,2434,DIST006,True
+OUT0302,Outlet 302,Bengaluru,South,Convenience Store,A,2342,DIST002,True
+OUT0303,Outlet 303,Bhubaneswar,East,Convenience Store,A,4256,DIST001,True
+OUT0304,Outlet 304,Gurgaon,North,Kirana,C,1287,DIST003,True
+OUT0305,Outlet 305,Chennai,South,Convenience Store,B,2060,DIST005,True
+OUT0306,Outlet 306,Ahmedabad,West,Kirana,B,1069,DIST021,True
+OUT0307,Outlet 307,Gurgaon,North,Supermarket,C,2959,DIST009,True
+OUT0308,Outlet 308,Pune,West,Supermarket,B,1922,DIST003,True
+OUT0309,Outlet 309,Ahmedabad,West,Supermarket,A,3110,DIST001,True
+OUT0310,Outlet 310,Gurgaon,North,Kirana,B,754,DIST015,True
+OUT0311,Outlet 311,Jaipur,North,Kirana,A,1558,DIST026,True
+OUT0312,Outlet 312,Hyderabad,South,Supermarket,B,2716,DIST011,True
+OUT0313,Outlet 313,Noida,North,Supermarket,B,1770,DIST002,True
+OUT0314,Outlet 314,Jaipur,North,Convenience Store,A,953,DIST007,True
+OUT0315,Outlet 315,Jaipur,North,Hypermarket,A,3600,DIST015,True
+OUT0316,Outlet 316,Noida,North,Kirana,B,1218,DIST006,True
+OUT0317,Outlet 317,Kolkata,East,Hypermarket,A,4258,DIST030,True
+OUT0318,Outlet 318,Hyderabad,South,Kirana,C,1077,DIST023,True
+OUT0319,Outlet 319,Gurgaon,North,Kirana,A,2474,DIST011,True
+OUT0320,Outlet 320,Patna,East,Convenience Store,B,2645,DIST029,True
+OUT0321,Outlet 321,Chennai,South,Kirana,B,1039,DIST010,True
+OUT0322,Outlet 322,Noida,North,Kirana,B,995,DIST005,True
+OUT0323,Outlet 323,Hyderabad,South,Kirana,A,2065,DIST029,True
+OUT0324,Outlet 324,Gurgaon,North,Convenience Store,C,1625,DIST029,True
+OUT0325,Outlet 325,Patna,East,Supermarket,C,615,DIST010,True
+OUT0326,Outlet 326,Ahmedabad,West,Kirana,A,1065,DIST018,True
+OUT0327,Outlet 327,Ahmedabad,West,Convenience Store,A,3268,DIST006,True
+OUT0328,Outlet 328,Gurgaon,North,Supermarket,C,854,DIST020,True
+OUT0329,Outlet 329,Kolkata,East,Kirana,B,1304,DIST021,True
+OUT0330,Outlet 330,Gurgaon,North,Kirana,A,978,DIST022,True
+OUT0331,Outlet 331,Delhi,North,Hypermarket,B,1146,DIST018,True
+OUT0332,Outlet 332,Delhi,North,Supermarket,B,1550,DIST022,True
+OUT0333,Outlet 333,Hyderabad,South,Convenience Store,C,1703,DIST017,True
+OUT0334,Outlet 334,Delhi,North,Supermarket,B,1099,DIST025,True
+OUT0335,Outlet 335,Kolkata,East,Kirana,C,2362,DIST006,True
+OUT0336,Outlet 336,Ahmedabad,West,Kirana,B,1143,DIST015,True
+OUT0337,Outlet 337,Gurgaon,North,Supermarket,B,1144,DIST013,True
+OUT0338,Outlet 338,Gurgaon,North,Kirana,B,3108,DIST017,True
+OUT0339,Outlet 339,Gurgaon,North,Supermarket,B,1711,DIST005,True
+OUT0340,Outlet 340,Pune,West,Convenience Store,B,1213,DIST010,True
+OUT0341,Outlet 341,Hyderabad,South,Supermarket,A,2104,DIST029,True
+OUT0342,Outlet 342,Delhi,North,Convenience Store,B,2860,DIST004,True
+OUT0343,Outlet 343,Chennai,South,Kirana,C,2167,DIST020,True
+OUT0344,Outlet 344,Gurgaon,North,Kirana,A,1562,DIST020,True
+OUT0345,Outlet 345,Hyderabad,South,Kirana,B,1526,DIST015,True
+OUT0346,Outlet 346,Kolkata,East,Supermarket,B,1620,DIST002,True
+OUT0347,Outlet 347,Hyderabad,South,Kirana,B,998,DIST002,True
+OUT0348,Outlet 348,Bengaluru,South,Kirana,C,1092,DIST009,True
+OUT0349,Outlet 349,Hyderabad,South,Kirana,C,1123,DIST004,True
+OUT0350,Outlet 350,Gurgaon,North,Kirana,C,1871,DIST003,True
+OUT0351,Outlet 351,Delhi,North,Supermarket,A,3885,DIST005,True
+OUT0352,Outlet 352,Gurgaon,North,Kirana,B,1341,DIST006,True
+OUT0353,Outlet 353,Mumbai,West,Eating & Dining,B,1413,DIST026,True
+OUT0354,Outlet 354,Bengaluru,South,Kirana,B,2098,DIST020,True
+OUT0355,Outlet 355,Ahmedabad,West,Convenience Store,A,1734,DIST001,True
+OUT0356,Outlet 356,Chennai,South,Convenience Store,B,2028,DIST019,True
+OUT0357,Outlet 357,Delhi,North,Kirana,B,1495,DIST005,True
+OUT0358,Outlet 358,Bengaluru,South,Hypermarket,B,1006,DIST013,True
+OUT0359,Outlet 359,Delhi,North,Eating & Dining,A,1467,DIST002,True
+OUT0360,Outlet 360,Noida,North,Hypermarket,C,2148,DIST003,True
+OUT0361,Outlet 361,Bengaluru,South,Kirana,C,1044,DIST004,True
+OUT0362,Outlet 362,Patna,East,Kirana,B,3255,DIST014,True
+OUT0363,Outlet 363,Pune,West,Convenience Store,C,889,DIST014,True
+OUT0364,Outlet 364,Gurgaon,North,Kirana,A,2572,DIST011,True
+OUT0365,Outlet 365,Pune,West,Supermarket,C,3288,DIST019,True
+OUT0366,Outlet 366,Gurgaon,North,Convenience Store,C,696,DIST022,True
+OUT0367,Outlet 367,Chennai,South,Convenience Store,A,960,DIST022,True
+OUT0368,Outlet 368,Bengaluru,South,Supermarket,C,1999,DIST018,True
+OUT0369,Outlet 369,Delhi,North,Supermarket,C,772,DIST017,True
+OUT0370,Outlet 370,Gurgaon,North,Kirana,C,1110,DIST015,True
+OUT0371,Outlet 371,Delhi,North,Kirana,C,860,DIST008,True
+OUT0372,Outlet 372,Patna,East,Convenience Store,B,1755,DIST015,True
+OUT0373,Outlet 373,Jaipur,North,Convenience Store,A,1471,DIST001,True
+OUT0374,Outlet 374,Hyderabad,South,Kirana,C,1033,DIST029,True
+OUT0375,Outlet 375,Ahmedabad,West,Kirana,B,1905,DIST012,True
+OUT0376,Outlet 376,Pune,West,Supermarket,B,988,DIST023,True
+OUT0377,Outlet 377,Delhi,North,Supermarket,B,1135,DIST029,True
+OUT0378,Outlet 378,Bhubaneswar,East,Convenience Store,B,1330,DIST015,True
+OUT0379,Outlet 379,Noida,North,Kirana,A,1186,DIST026,True
+OUT0380,Outlet 380,Pune,West,Kirana,C,926,DIST015,True
+OUT0381,Outlet 381,Bengaluru,South,Convenience Store,A,2380,DIST004,True
+OUT0382,Outlet 382,Ahmedabad,West,Kirana,C,936,DIST001,True
+OUT0383,Outlet 383,Bhubaneswar,East,Convenience Store,C,991,DIST005,True
+OUT0384,Outlet 384,Delhi,North,Convenience Store,B,1542,DIST029,True
+OUT0385,Outlet 385,Mumbai,West,Kirana,B,1158,DIST015,True
+OUT0386,Outlet 386,Chandigarh,North,Kirana,B,2123,DIST010,True
+OUT0387,Outlet 387,Mumbai,West,Kirana,C,2138,DIST014,True
+OUT0388,Outlet 388,Gurgaon,North,Hypermarket,C,909,DIST008,True
+OUT0389,Outlet 389,Gurgaon,North,Convenience Store,B,1935,DIST027,True
+OUT0390,Outlet 390,Noida,North,Kirana,A,2025,DIST030,True
+OUT0391,Outlet 391,Noida,North,Hypermarket,B,1834,DIST003,True
+OUT0392,Outlet 392,Jaipur,North,Convenience Store,B,3148,DIST022,True
+OUT0393,Outlet 393,Pune,West,Convenience Store,C,1408,DIST011,True
+OUT0394,Outlet 394,Ahmedabad,West,Eating & Dining,C,504,DIST002,True
+OUT0395,Outlet 395,Jaipur,North,Kirana,B,1908,DIST028,True
+OUT0396,Outlet 396,Chandigarh,North,Kirana,C,1951,DIST002,True
+OUT0397,Outlet 397,Delhi,North,Convenience Store,B,1408,DIST007,True
+OUT0398,Outlet 398,Pune,West,Kirana,C,1753,DIST001,True
+OUT0399,Outlet 399,Noida,North,Convenience Store,B,1140,DIST015,True
+OUT0400,Outlet 400,Gurgaon,North,Kirana,B,797,DIST018,True
+OUT0401,Outlet 401,Jaipur,North,Kirana,C,1193,DIST010,True
+OUT0402,Outlet 402,Mumbai,West,Kirana,B,705,DIST003,True
+OUT0403,Outlet 403,Delhi,North,Convenience Store,B,1397,DIST004,True
+OUT0404,Outlet 404,Pune,West,Kirana,C,1999,DIST029,True
+OUT0405,Outlet 405,Pune,West,Kirana,A,955,DIST025,True
+OUT0406,Outlet 406,Bengaluru,South,Hypermarket,A,1268,DIST029,True
+OUT0407,Outlet 407,Ahmedabad,West,Kirana,B,978,DIST016,True
+OUT0408,Outlet 408,Ahmedabad,West,Kirana,B,1512,DIST017,True
+OUT0409,Outlet 409,Noida,North,Kirana,A,1914,DIST024,True
+OUT0410,Outlet 410,Hyderabad,South,Kirana,B,2920,DIST019,True
+OUT0411,Outlet 411,Mumbai,West,Kirana,C,1721,DIST014,True
+OUT0412,Outlet 412,Jaipur,North,Convenience Store,B,1944,DIST009,True
+OUT0413,Outlet 413,Pune,West,Kirana,B,1661,DIST015,True
+OUT0414,Outlet 414,Chandigarh,North,Hypermarket,C,1337,DIST002,True
+OUT0415,Outlet 415,Mumbai,West,Eating & Dining,B,1055,DIST006,True
+OUT0416,Outlet 416,Bengaluru,South,Kirana,C,1647,DIST023,True
+OUT0417,Outlet 417,Chennai,South,Kirana,B,943,DIST027,True
+OUT0418,Outlet 418,Kolkata,East,Kirana,C,1631,DIST004,True
+OUT0419,Outlet 419,Mumbai,West,Convenience Store,B,2653,DIST003,True
+OUT0420,Outlet 420,Mumbai,West,Kirana,A,2481,DIST003,True
+OUT0421,Outlet 421,Hyderabad,South,Hypermarket,C,1035,DIST024,True
+OUT0422,Outlet 422,Noida,North,Supermarket,B,1863,DIST010,True
+OUT0423,Outlet 423,Hyderabad,South,Supermarket,A,622,DIST010,True
+OUT0424,Outlet 424,Mumbai,West,Convenience Store,A,2585,DIST001,True
+OUT0425,Outlet 425,Gurgaon,North,Eating & Dining,B,1478,DIST030,True
+OUT0426,Outlet 426,Gurgaon,North,Kirana,A,2205,DIST014,True
+OUT0427,Outlet 427,Chennai,South,Kirana,B,2138,DIST024,True
+OUT0428,Outlet 428,Gurgaon,North,Kirana,A,2181,DIST022,True
+OUT0429,Outlet 429,Noida,North,Eating & Dining,B,931,DIST005,True
+OUT0430,Outlet 430,Noida,North,Convenience Store,B,1460,DIST025,True
+OUT0431,Outlet 431,Delhi,North,Supermarket,B,1604,DIST017,True
+OUT0432,Outlet 432,Noida,North,Kirana,B,1638,DIST019,True
+OUT0433,Outlet 433,Bengaluru,South,Eating & Dining,A,2427,DIST007,True
+OUT0434,Outlet 434,Gurgaon,North,Convenience Store,B,2484,DIST026,True
+OUT0435,Outlet 435,Hyderabad,South,Convenience Store,B,954,DIST028,True
+OUT0436,Outlet 436,Chennai,South,Eating & Dining,B,1684,DIST013,True
+OUT0437,Outlet 437,Chandigarh,North,Kirana,A,4032,DIST003,True
+OUT0438,Outlet 438,Delhi,North,Kirana,A,1033,DIST026,True
+OUT0439,Outlet 439,Pune,West,Convenience Store,B,1687,DIST027,True
+OUT0440,Outlet 440,Gurgaon,North,Kirana,B,1195,DIST016,True
+OUT0441,Outlet 441,Chandigarh,North,Kirana,B,1317,DIST018,True
+OUT0442,Outlet 442,Bhubaneswar,East,Kirana,C,745,DIST007,True
+OUT0443,Outlet 443,Patna,East,Kirana,B,1441,DIST003,True
+OUT0444,Outlet 444,Hyderabad,South,Hypermarket,B,3563,DIST029,True
+OUT0445,Outlet 445,Noida,North,Convenience Store,B,880,DIST015,True
+OUT0446,Outlet 446,Ahmedabad,West,Kirana,A,1333,DIST009,True
+OUT0447,Outlet 447,Bengaluru,South,Kirana,B,866,DIST021,True
+OUT0448,Outlet 448,Chandigarh,North,Convenience Store,B,3385,DIST001,True
+OUT0449,Outlet 449,Ahmedabad,West,Convenience Store,B,1263,DIST003,True
+OUT0450,Outlet 450,Gurgaon,North,Eating & Dining,A,2230,DIST008,True
+OUT0451,Outlet 451,Delhi,North,Eating & Dining,C,934,DIST014,True
+OUT0452,Outlet 452,Mumbai,West,Kirana,C,732,DIST012,True
+OUT0453,Outlet 453,Delhi,North,Kirana,A,2029,DIST006,True
+OUT0454,Outlet 454,Delhi,North,Convenience Store,B,4704,DIST011,True
+OUT0455,Outlet 455,Hyderabad,South,Convenience Store,C,2096,DIST011,True
+OUT0456,Outlet 456,Patna,East,Convenience Store,B,1060,DIST016,True
+OUT0457,Outlet 457,Mumbai,West,Convenience Store,C,1499,DIST017,True
+OUT0458,Outlet 458,Hyderabad,South,Convenience Store,B,1070,DIST027,True
+OUT0459,Outlet 459,Patna,East,Kirana,C,503,DIST025,True
+OUT0460,Outlet 460,Delhi,North,Kirana,C,1772,DIST009,True
+OUT0461,Outlet 461,Jaipur,North,Kirana,A,3803,DIST028,True
+OUT0462,Outlet 462,Chandigarh,North,Kirana,B,2491,DIST016,True
+OUT0463,Outlet 463,Gurgaon,North,Kirana,B,1259,DIST006,True
+OUT0464,Outlet 464,Bengaluru,South,Supermarket,A,2093,DIST011,True
+OUT0465,Outlet 465,Jaipur,North,Kirana,B,2180,DIST023,True
+OUT0466,Outlet 466,Mumbai,West,Kirana,C,1336,DIST025,True
+OUT0467,Outlet 467,Delhi,North,Convenience Store,A,1890,DIST012,True
+OUT0468,Outlet 468,Delhi,North,Supermarket,B,751,DIST005,True
+OUT0469,Outlet 469,Kolkata,East,Kirana,C,1179,DIST006,True
+OUT0470,Outlet 470,Gurgaon,North,Supermarket,B,2528,DIST004,True
+OUT0471,Outlet 471,Delhi,North,Eating & Dining,B,907,DIST021,True
+OUT0472,Outlet 472,Noida,North,Convenience Store,C,1493,DIST016,True
+OUT0473,Outlet 473,Mumbai,West,Convenience Store,B,1806,DIST014,True
+OUT0474,Outlet 474,Pune,West,Kirana,A,3162,DIST021,True
+OUT0475,Outlet 475,Mumbai,West,Eating & Dining,A,3340,DIST025,True
+OUT0476,Outlet 476,Gurgaon,North,Kirana,C,819,DIST024,True
+OUT0477,Outlet 477,Delhi,North,Eating & Dining,B,751,DIST005,True
+OUT0478,Outlet 478,Chennai,South,Convenience Store,B,1224,DIST018,True
+OUT0479,Outlet 479,Ahmedabad,West,Kirana,A,3366,DIST027,True
+OUT0480,Outlet 480,Ahmedabad,West,Kirana,B,1219,DIST024,True
+OUT0481,Outlet 481,Ahmedabad,West,Convenience Store,C,819,DIST010,True
+OUT0482,Outlet 482,Bengaluru,South,Convenience Store,B,685,DIST012,True
+OUT0483,Outlet 483,Gurgaon,North,Kirana,C,2465,DIST027,True
+OUT0484,Outlet 484,Chandigarh,North,Supermarket,B,2256,DIST001,True
+OUT0485,Outlet 485,Mumbai,West,Hypermarket,B,2200,DIST016,True
+OUT0486,Outlet 486,Noida,North,Convenience Store,C,1731,DIST004,True
+OUT0487,Outlet 487,Chennai,South,Convenience Store,B,2017,DIST027,True
+OUT0488,Outlet 488,Mumbai,West,Kirana,B,1394,DIST002,True
+OUT0489,Outlet 489,Bengaluru,South,Supermarket,C,1040,DIST001,True
+OUT0490,Outlet 490,Chennai,South,Kirana,B,1283,DIST010,True
+OUT0491,Outlet 491,Mumbai,West,Hypermarket,B,5093,DIST007,True
+OUT0492,Outlet 492,Kolkata,East,Kirana,C,1438,DIST015,True
+OUT0493,Outlet 493,Pune,West,Convenience Store,A,1831,DIST009,True
+OUT0494,Outlet 494,Chennai,South,Kirana,B,1918,DIST011,True
+OUT0495,Outlet 495,Noida,North,Kirana,A,1431,DIST017,True
+OUT0496,Outlet 496,Mumbai,West,Supermarket,B,3062,DIST017,True
+OUT0497,Outlet 497,Mumbai,West,Convenience Store,B,1155,DIST029,True
+OUT0498,Outlet 498,Gurgaon,North,Convenience Store,B,1949,DIST015,True
+OUT0499,Outlet 499,Chandigarh,North,Eating & Dining,A,3645,DIST017,True
+OUT0500,Outlet 500,Kolkata,East,Eating & Dining,B,1850,DIST021,True
+OUT0501,Outlet 501,Ahmedabad,West,Hypermarket,B,1623,DIST006,True
+OUT0502,Outlet 502,Delhi,North,Kirana,B,1563,DIST021,True
+OUT0503,Outlet 503,Noida,North,Convenience Store,B,1517,DIST026,True
+OUT0504,Outlet 504,Delhi,North,Hypermarket,C,864,DIST010,True
+OUT0505,Outlet 505,Gurgaon,North,Kirana,B,1271,DIST006,True
+OUT0506,Outlet 506,Kolkata,East,Kirana,B,3028,DIST011,True
+OUT0507,Outlet 507,Jaipur,North,Supermarket,C,1067,DIST009,True
+OUT0508,Outlet 508,Noida,North,Convenience Store,B,1092,DIST018,True
+OUT0509,Outlet 509,Pune,West,Convenience Store,B,1233,DIST026,True
+OUT0510,Outlet 510,Gurgaon,North,Eating & Dining,C,1838,DIST018,True
+OUT0511,Outlet 511,Noida,North,Convenience Store,B,2109,DIST004,True
+OUT0512,Outlet 512,Bengaluru,South,Convenience Store,A,2903,DIST010,True
+OUT0513,Outlet 513,Ahmedabad,West,Kirana,B,1385,DIST021,True
+OUT0514,Outlet 514,Patna,East,Kirana,A,2920,DIST010,True
+OUT0515,Outlet 515,Pune,West,Kirana,B,1164,DIST018,True
+OUT0516,Outlet 516,Mumbai,West,Supermarket,C,996,DIST021,True
+OUT0517,Outlet 517,Bengaluru,South,Supermarket,A,3491,DIST010,True
+OUT0518,Outlet 518,Kolkata,East,Kirana,C,1660,DIST020,True
+OUT0519,Outlet 519,Bengaluru,South,Kirana,C,720,DIST012,True
+OUT0520,Outlet 520,Bhubaneswar,East,Hypermarket,B,1058,DIST005,True
+OUT0521,Outlet 521,Hyderabad,South,Kirana,C,1176,DIST012,True
+OUT0522,Outlet 522,Chennai,South,Convenience Store,C,2436,DIST014,True
+OUT0523,Outlet 523,Gurgaon,North,Convenience Store,C,473,DIST001,True
+OUT0524,Outlet 524,Bengaluru,South,Supermarket,B,1763,DIST027,True
+OUT0525,Outlet 525,Jaipur,North,Kirana,A,1214,DIST016,True
+OUT0526,Outlet 526,Mumbai,West,Convenience Store,B,1169,DIST002,True
+OUT0527,Outlet 527,Ahmedabad,West,Kirana,B,1320,DIST027,True
+OUT0528,Outlet 528,Bhubaneswar,East,Convenience Store,A,1867,DIST026,True
+OUT0529,Outlet 529,Patna,East,Kirana,B,1223,DIST001,True
+OUT0530,Outlet 530,Noida,North,Convenience Store,A,2263,DIST005,True
+OUT0531,Outlet 531,Bengaluru,South,Convenience Store,C,880,DIST011,True
+OUT0532,Outlet 532,Bengaluru,South,Kirana,B,805,DIST016,True
+OUT0533,Outlet 533,Noida,North,Kirana,A,3205,DIST022,True
+OUT0534,Outlet 534,Gurgaon,North,Kirana,A,3166,DIST013,True
+OUT0535,Outlet 535,Gurgaon,North,Kirana,B,2274,DIST019,True
+OUT0536,Outlet 536,Hyderabad,South,Kirana,B,777,DIST001,True
+OUT0537,Outlet 537,Mumbai,West,Eating & Dining,A,2581,DIST020,True
+OUT0538,Outlet 538,Patna,East,Kirana,B,2109,DIST028,True
+OUT0539,Outlet 539,Mumbai,West,Supermarket,A,1418,DIST016,True
+OUT0540,Outlet 540,Patna,East,Eating & Dining,B,1562,DIST014,True
+OUT0541,Outlet 541,Jaipur,North,Kirana,B,1476,DIST009,True
+OUT0542,Outlet 542,Hyderabad,South,Convenience Store,B,3565,DIST029,True
+OUT0543,Outlet 543,Gurgaon,North,Hypermarket,B,3699,DIST001,True
+OUT0544,Outlet 544,Mumbai,West,Convenience Store,A,1066,DIST009,True
+OUT0545,Outlet 545,Hyderabad,South,Convenience Store,A,6931,DIST005,True
+OUT0546,Outlet 546,Kolkata,East,Convenience Store,B,1030,DIST026,True
+OUT0547,Outlet 547,Hyderabad,South,Kirana,C,1742,DIST015,True
+OUT0548,Outlet 548,Gurgaon,North,Convenience Store,C,1734,DIST028,True
+OUT0549,Outlet 549,Chandigarh,North,Eating & Dining,C,715,DIST020,True
+OUT0550,Outlet 550,Gurgaon,North,Eating & Dining,B,1942,DIST017,True
+OUT0551,Outlet 551,Gurgaon,North,Kirana,B,1482,DIST016,True
+OUT0552,Outlet 552,Ahmedabad,West,Supermarket,B,1997,DIST007,True
+OUT0553,Outlet 553,Bengaluru,South,Kirana,C,1243,DIST017,True
+OUT0554,Outlet 554,Hyderabad,South,Eating & Dining,C,1919,DIST021,True
+OUT0555,Outlet 555,Chennai,South,Kirana,C,1159,DIST029,True
+OUT0556,Outlet 556,Bengaluru,South,Eating & Dining,C,1038,DIST017,True
+OUT0557,Outlet 557,Hyderabad,South,Supermarket,B,2548,DIST029,True
+OUT0558,Outlet 558,Gurgaon,North,Kirana,C,1454,DIST029,True
+OUT0559,Outlet 559,Delhi,North,Kirana,C,1557,DIST016,True
+OUT0560,Outlet 560,Pune,West,Supermarket,B,1153,DIST014,True
+OUT0561,Outlet 561,Chennai,South,Kirana,C,700,DIST005,True
+OUT0562,Outlet 562,Gurgaon,North,Convenience Store,A,1747,DIST009,True
+OUT0563,Outlet 563,Mumbai,West,Eating & Dining,C,847,DIST027,True
+OUT0564,Outlet 564,Ahmedabad,West,Convenience Store,C,1596,DIST005,True
+OUT0565,Outlet 565,Gurgaon,North,Kirana,A,3500,DIST012,True
+OUT0566,Outlet 566,Chandigarh,North,Convenience Store,B,1451,DIST021,True
+OUT0567,Outlet 567,Kolkata,East,Kirana,A,4296,DIST008,True
+OUT0568,Outlet 568,Ahmedabad,West,Eating & Dining,C,2074,DIST030,True
+OUT0569,Outlet 569,Delhi,North,Kirana,C,1250,DIST020,True
+OUT0570,Outlet 570,Chennai,South,Kirana,B,1075,DIST001,True
+OUT0571,Outlet 571,Noida,North,Kirana,C,2276,DIST008,True
+OUT0572,Outlet 572,Chennai,South,Eating & Dining,A,2195,DIST023,True
+OUT0573,Outlet 573,Noida,North,Kirana,B,1647,DIST026,True
+OUT0574,Outlet 574,Pune,West,Hypermarket,B,1335,DIST028,True
+OUT0575,Outlet 575,Chandigarh,North,Supermarket,A,1511,DIST026,True
+OUT0576,Outlet 576,Noida,North,Supermarket,B,803,DIST003,True
+OUT0577,Outlet 577,Chennai,South,Eating & Dining,B,2068,DIST022,True
+OUT0578,Outlet 578,Delhi,North,Supermarket,B,1093,DIST004,True
+OUT0579,Outlet 579,Gurgaon,North,Eating & Dining,B,6165,DIST003,True
+OUT0580,Outlet 580,Noida,North,Kirana,C,687,DIST021,True
+OUT0581,Outlet 581,Bengaluru,South,Supermarket,B,883,DIST015,True
+OUT0582,Outlet 582,Hyderabad,South,Convenience Store,C,1409,DIST020,True
+OUT0583,Outlet 583,Patna,East,Convenience Store,B,3097,DIST026,True
+OUT0584,Outlet 584,Noida,North,Hypermarket,B,1602,DIST003,True
+OUT0585,Outlet 585,Chandigarh,North,Eating & Dining,B,2013,DIST016,True
+OUT0586,Outlet 586,Gurgaon,North,Supermarket,B,678,DIST026,True
+OUT0587,Outlet 587,Pune,West,Convenience Store,B,1147,DIST014,True
+OUT0588,Outlet 588,Patna,East,Convenience Store,B,959,DIST016,True
+OUT0589,Outlet 589,Bengaluru,South,Kirana,A,961,DIST015,True
+OUT0590,Outlet 590,Pune,West,Kirana,B,1640,DIST028,True
+OUT0591,Outlet 591,Chandigarh,North,Kirana,B,567,DIST002,True
+OUT0592,Outlet 592,Kolkata,East,Kirana,B,858,DIST027,True
+OUT0593,Outlet 593,Mumbai,West,Kirana,C,879,DIST025,True
+OUT0594,Outlet 594,Gurgaon,North,Supermarket,B,1070,DIST025,True
+OUT0595,Outlet 595,Chandigarh,North,Convenience Store,C,1339,DIST013,True
+OUT0596,Outlet 596,Gurgaon,North,Eating & Dining,C,1285,DIST016,True
+OUT0597,Outlet 597,Delhi,North,Convenience Store,C,1675,DIST012,True
+OUT0598,Outlet 598,Gurgaon,North,Kirana,C,1571,DIST008,True
+OUT0599,Outlet 599,Jaipur,North,Kirana,A,3770,DIST027,True
+OUT0600,Outlet 600,Ahmedabad,West,Kirana,B,1554,DIST016,True
+OUT0601,Outlet 601,Noida,North,Eating & Dining,A,2586,DIST022,True
+OUT0602,Outlet 602,Jaipur,North,Kirana,C,1410,DIST004,True
+OUT0603,Outlet 603,Bhubaneswar,East,Convenience Store,B,1658,DIST024,True
+OUT0604,Outlet 604,Bengaluru,South,Eating & Dining,B,1301,DIST020,True
+OUT0605,Outlet 605,Mumbai,West,Eating & Dining,C,964,DIST030,True
+OUT0606,Outlet 606,Noida,North,Kirana,A,1561,DIST005,True
+OUT0607,Outlet 607,Kolkata,East,Kirana,B,1881,DIST017,True
+OUT0608,Outlet 608,Delhi,North,Kirana,C,1074,DIST016,True
+OUT0609,Outlet 609,Noida,North,Kirana,A,1674,DIST017,True
+OUT0610,Outlet 610,Kolkata,East,Kirana,B,1155,DIST002,True
+OUT0611,Outlet 611,Mumbai,West,Convenience Store,C,649,DIST015,True
+OUT0612,Outlet 612,Bengaluru,South,Eating & Dining,A,3505,DIST009,True
+OUT0613,Outlet 613,Pune,West,Convenience Store,B,1612,DIST019,True
+OUT0614,Outlet 614,Ahmedabad,West,Convenience Store,B,1055,DIST007,True
+OUT0615,Outlet 615,Noida,North,Kirana,B,2239,DIST014,True
+OUT0616,Outlet 616,Delhi,North,Supermarket,A,1753,DIST019,True
+OUT0617,Outlet 617,Noida,North,Convenience Store,C,595,DIST002,True
+OUT0618,Outlet 618,Delhi,North,Hypermarket,C,1774,DIST024,True
+OUT0619,Outlet 619,Chennai,South,Eating & Dining,A,1772,DIST022,True
+OUT0620,Outlet 620,Noida,North,Kirana,B,1294,DIST002,True
+OUT0621,Outlet 621,Pune,West,Kirana,B,1585,DIST002,True
+OUT0622,Outlet 622,Hyderabad,South,Kirana,C,1873,DIST026,True
+OUT0623,Outlet 623,Hyderabad,South,Convenience Store,B,1570,DIST009,True
+OUT0624,Outlet 624,Jaipur,North,Eating & Dining,A,1315,DIST026,True
+OUT0625,Outlet 625,Mumbai,West,Kirana,A,2882,DIST015,True
+OUT0626,Outlet 626,Patna,East,Supermarket,C,900,DIST011,True
+OUT0627,Outlet 627,Ahmedabad,West,Convenience Store,B,3639,DIST009,True
+OUT0628,Outlet 628,Hyderabad,South,Kirana,C,1119,DIST020,True
+OUT0629,Outlet 629,Kolkata,East,Kirana,B,569,DIST004,True
+OUT0630,Outlet 630,Hyderabad,South,Convenience Store,C,1315,DIST013,True
+OUT0631,Outlet 631,Delhi,North,Convenience Store,A,5413,DIST011,True
+OUT0632,Outlet 632,Pune,West,Convenience Store,A,4585,DIST005,True
+OUT0633,Outlet 633,Gurgaon,North,Kirana,C,2554,DIST011,True
+OUT0634,Outlet 634,Ahmedabad,West,Supermarket,C,708,DIST016,True
+OUT0635,Outlet 635,Bhubaneswar,East,Kirana,B,2346,DIST021,True
+OUT0636,Outlet 636,Mumbai,West,Eating & Dining,B,1124,DIST003,True
+OUT0637,Outlet 637,Jaipur,North,Kirana,B,1721,DIST027,True
+OUT0638,Outlet 638,Gurgaon,North,Kirana,B,877,DIST027,True
+OUT0639,Outlet 639,Bhubaneswar,East,Convenience Store,A,1688,DIST021,True
+OUT0640,Outlet 640,Gurgaon,North,Convenience Store,C,826,DIST028,True
+OUT0641,Outlet 641,Gurgaon,North,Convenience Store,B,2331,DIST013,True
+OUT0642,Outlet 642,Delhi,North,Convenience Store,C,1606,DIST025,True
+OUT0643,Outlet 643,Gurgaon,North,Eating & Dining,A,2555,DIST022,True
+OUT0644,Outlet 644,Jaipur,North,Convenience Store,A,1228,DIST017,True
+OUT0645,Outlet 645,Mumbai,West,Convenience Store,B,1352,DIST006,True
+OUT0646,Outlet 646,Noida,North,Convenience Store,B,1112,DIST017,True
+OUT0647,Outlet 647,Gurgaon,North,Kirana,B,2301,DIST028,True
+OUT0648,Outlet 648,Gurgaon,North,Convenience Store,A,3834,DIST030,True
+OUT0649,Outlet 649,Chandigarh,North,Kirana,C,1802,DIST014,True
+OUT0650,Outlet 650,Gurgaon,North,Convenience Store,C,797,DIST008,True
+OUT0651,Outlet 651,Bengaluru,South,Kirana,C,326,DIST023,True
+OUT0652,Outlet 652,Delhi,North,Eating & Dining,A,1018,DIST003,True
+OUT0653,Outlet 653,Noida,North,Convenience Store,B,2950,DIST005,True
+OUT0654,Outlet 654,Chandigarh,North,Hypermarket,B,1299,DIST017,True
+OUT0655,Outlet 655,Jaipur,North,Convenience Store,B,1110,DIST030,True
+OUT0656,Outlet 656,Gurgaon,North,Kirana,B,3259,DIST010,True
+OUT0657,Outlet 657,Gurgaon,North,Supermarket,A,3987,DIST014,True
+OUT0658,Outlet 658,Chennai,South,Convenience Store,B,1573,DIST010,True
+OUT0659,Outlet 659,Gurgaon,North,Supermarket,B,1363,DIST014,True
+OUT0660,Outlet 660,Mumbai,West,Convenience Store,B,1466,DIST001,True
+OUT0661,Outlet 661,Mumbai,West,Convenience Store,A,2499,DIST018,True
+OUT0662,Outlet 662,Noida,North,Hypermarket,B,3197,DIST018,True
+OUT0663,Outlet 663,Jaipur,North,Convenience Store,B,1882,DIST010,True
+OUT0664,Outlet 664,Hyderabad,South,Kirana,B,2157,DIST008,True
+OUT0665,Outlet 665,Chennai,South,Convenience Store,B,2633,DIST023,True
+OUT0666,Outlet 666,Delhi,North,Convenience Store,B,919,DIST006,True
+OUT0667,Outlet 667,Noida,North,Eating & Dining,C,1573,DIST002,True
+OUT0668,Outlet 668,Delhi,North,Kirana,B,1363,DIST002,True
+OUT0669,Outlet 669,Mumbai,West,Convenience Store,B,501,DIST027,True
+OUT0670,Outlet 670,Ahmedabad,West,Supermarket,C,430,DIST011,True
+OUT0671,Outlet 671,Delhi,North,Convenience Store,B,984,DIST004,True
+OUT0672,Outlet 672,Noida,North,Supermarket,C,1423,DIST027,True
+OUT0673,Outlet 673,Kolkata,East,Convenience Store,C,1179,DIST005,True
+OUT0674,Outlet 674,Gurgaon,North,Kirana,A,2451,DIST011,True
+OUT0675,Outlet 675,Mumbai,West,Supermarket,B,3744,DIST001,True
+OUT0676,Outlet 676,Bengaluru,South,Kirana,B,879,DIST021,True
+OUT0677,Outlet 677,Delhi,North,Kirana,C,1106,DIST021,True
+OUT0678,Outlet 678,Gurgaon,North,Convenience Store,B,1784,DIST023,True
+OUT0679,Outlet 679,Gurgaon,North,Supermarket,A,1620,DIST008,True
+OUT0680,Outlet 680,Kolkata,East,Hypermarket,B,1576,DIST010,True
+OUT0681,Outlet 681,Gurgaon,North,Kirana,A,1098,DIST029,True
+OUT0682,Outlet 682,Delhi,North,Kirana,C,2113,DIST025,True
+OUT0683,Outlet 683,Gurgaon,North,Eating & Dining,B,1145,DIST002,True
+OUT0684,Outlet 684,Gurgaon,North,Kirana,C,2795,DIST021,True
+OUT0685,Outlet 685,Pune,West,Kirana,C,1104,DIST025,True
+OUT0686,Outlet 686,Delhi,North,Kirana,B,2471,DIST017,True
+OUT0687,Outlet 687,Pune,West,Convenience Store,B,1519,DIST020,True
+OUT0688,Outlet 688,Pune,West,Hypermarket,C,1105,DIST001,True
+OUT0689,Outlet 689,Chennai,South,Supermarket,C,861,DIST001,True
+OUT0690,Outlet 690,Gurgaon,North,Supermarket,C,1182,DIST002,True
+OUT0691,Outlet 691,Chennai,South,Kirana,A,2603,DIST005,True
+OUT0692,Outlet 692,Pune,West,Kirana,B,1093,DIST030,True
+OUT0693,Outlet 693,Delhi,North,Convenience Store,B,1471,DIST020,True
+OUT0694,Outlet 694,Hyderabad,South,Kirana,C,851,DIST024,True
+OUT0695,Outlet 695,Chennai,South,Kirana,B,4380,DIST009,True
+OUT0696,Outlet 696,Delhi,North,Kirana,B,1494,DIST029,True
+OUT0697,Outlet 697,Kolkata,East,Kirana,A,4522,DIST006,True
+OUT0698,Outlet 698,Jaipur,North,Convenience Store,B,1425,DIST028,True
+OUT0699,Outlet 699,Pune,West,Supermarket,C,1259,DIST001,True
+OUT0700,Outlet 700,Patna,East,Kirana,B,858,DIST001,True
+OUT0701,Outlet 701,Chandigarh,North,Convenience Store,A,1845,DIST003,True
+OUT0702,Outlet 702,Hyderabad,South,Supermarket,C,1231,DIST024,True
+OUT0703,Outlet 703,Noida,North,Supermarket,C,2287,DIST008,True
+OUT0704,Outlet 704,Hyderabad,South,Supermarket,A,2493,DIST014,True
+OUT0705,Outlet 705,Pune,West,Convenience Store,B,2900,DIST015,True
+OUT0706,Outlet 706,Delhi,North,Supermarket,C,1494,DIST024,True
+OUT0707,Outlet 707,Jaipur,North,Kirana,C,2330,DIST011,True
+OUT0708,Outlet 708,Noida,North,Kirana,B,1515,DIST001,True
+OUT0709,Outlet 709,Gurgaon,North,Kirana,B,4562,DIST012,True
+OUT0710,Outlet 710,Gurgaon,North,Convenience Store,B,1250,DIST009,True
+OUT0711,Outlet 711,Noida,North,Kirana,A,1598,DIST022,True
+OUT0712,Outlet 712,Gurgaon,North,Kirana,C,649,DIST023,True
+OUT0713,Outlet 713,Delhi,North,Supermarket,A,6441,DIST003,True
+OUT0714,Outlet 714,Bengaluru,South,Kirana,A,3262,DIST024,True
+OUT0715,Outlet 715,Bengaluru,South,Kirana,C,964,DIST003,True
+OUT0716,Outlet 716,Bengaluru,South,Kirana,C,1965,DIST019,True
+OUT0717,Outlet 717,Noida,North,Convenience Store,C,1526,DIST012,True
+OUT0718,Outlet 718,Kolkata,East,Kirana,B,3769,DIST010,True
+OUT0719,Outlet 719,Pune,West,Kirana,B,775,DIST015,True
+OUT0720,Outlet 720,Gurgaon,North,Kirana,B,1381,DIST010,True
+OUT0721,Outlet 721,Delhi,North,Supermarket,B,1263,DIST024,True
+OUT0722,Outlet 722,Bengaluru,South,Eating & Dining,B,640,DIST030,True
+OUT0723,Outlet 723,Delhi,North,Convenience Store,B,2507,DIST025,True
+OUT0724,Outlet 724,Mumbai,West,Convenience Store,B,1377,DIST014,True
+OUT0725,Outlet 725,Patna,East,Hypermarket,C,1562,DIST016,True
+OUT0726,Outlet 726,Gurgaon,North,Eating & Dining,C,3240,DIST014,True
+OUT0727,Outlet 727,Gurgaon,North,Convenience Store,A,1924,DIST024,True
+OUT0728,Outlet 728,Patna,East,Hypermarket,B,1287,DIST017,True
+OUT0729,Outlet 729,Pune,West,Eating & Dining,A,2380,DIST015,True
+OUT0730,Outlet 730,Gurgaon,North,Supermarket,B,2426,DIST013,True
+OUT0731,Outlet 731,Kolkata,East,Convenience Store,B,1205,DIST012,True
+OUT0732,Outlet 732,Chennai,South,Kirana,A,1698,DIST017,True
+OUT0733,Outlet 733,Mumbai,West,Kirana,C,1803,DIST021,True
+OUT0734,Outlet 734,Pune,West,Convenience Store,B,1845,DIST013,True
+OUT0735,Outlet 735,Noida,North,Convenience Store,C,446,DIST025,True
+OUT0736,Outlet 736,Gurgaon,North,Kirana,A,1300,DIST025,True
+OUT0737,Outlet 737,Pune,West,Convenience Store,A,4434,DIST013,True
+OUT0738,Outlet 738,Noida,North,Convenience Store,B,1864,DIST028,True
+OUT0739,Outlet 739,Ahmedabad,West,Supermarket,A,1601,DIST006,True
+OUT0740,Outlet 740,Hyderabad,South,Kirana,B,1441,DIST028,True
+OUT0741,Outlet 741,Gurgaon,North,Kirana,C,1127,DIST009,True
+OUT0742,Outlet 742,Pune,West,Supermarket,B,2166,DIST017,True
+OUT0743,Outlet 743,Delhi,North,Supermarket,A,1224,DIST009,True
+OUT0744,Outlet 744,Chennai,South,Eating & Dining,B,1065,DIST014,True
+OUT0745,Outlet 745,Delhi,North,Hypermarket,B,1759,DIST011,True
+OUT0746,Outlet 746,Pune,West,Hypermarket,B,1487,DIST022,True
+OUT0747,Outlet 747,Mumbai,West,Kirana,B,2012,DIST003,True
+OUT0748,Outlet 748,Chandigarh,North,Kirana,C,644,DIST026,True
+OUT0749,Outlet 749,Ahmedabad,West,Kirana,A,2649,DIST028,True
+OUT0750,Outlet 750,Bengaluru,South,Convenience Store,B,2543,DIST017,True

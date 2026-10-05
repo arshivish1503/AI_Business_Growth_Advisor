@@ -1,0 +1,2017 @@
+Date,Competitor,Competitor_SKU,Category,Pack_Size_ml,Price,Promotion,City,Availability_Percent
+2025-01-01,Brand X,BR100,Water,750,10.69,None,Gurgaon,91.6
+2025-01-01,Brand Y,BR101,Sports Drink,750,64.49,None,Gurgaon,95.4
+2025-01-01,Brand Z,BR102,Water,1000,16.79,None,Gurgaon,86.9
+2025-01-01,Brand Q,BR103,Juice,330,24.37,None,Gurgaon,92.0
+2025-01-01,Brand M,BR104,CSD,750,59.65,10% Off,Gurgaon,91.8
+2025-01-01,Brand N,BR105,CSD,1500,115.16,None,Gurgaon,86.5
+2025-01-01,Brand X,BR106,CSD,330,28.78,None,Delhi,80.3
+2025-01-01,Brand Y,BR107,Energy Drink,1500,154.48,None,Delhi,92.0
+2025-01-01,Brand Z,BR108,Energy Drink,1000,101.91,None,Delhi,92.3
+2025-01-01,Brand Q,BR109,CSD,500,40.95,None,Delhi,94.3
+2025-01-01,Brand M,BR110,CSD,1500,113.65,None,Delhi,90.2
+2025-01-01,Brand N,BR111,CSD,1500,115.76,None,Delhi,79.8
+2025-01-01,Brand X,BR112,Juice,330,23.45,10% Off,Noida,92.8
+2025-01-01,Brand Y,BR113,Juice,1500,97.53,None,Noida,88.0
+2025-01-01,Brand Z,BR114,Juice,250,21.03,10% Off,Noida,84.6
+2025-01-01,Brand Q,BR115,Sports Drink,250,25.59,None,Noida,85.9
+2025-01-01,Brand M,BR116,CSD,250,20.2,None,Noida,83.2
+2025-01-01,Brand N,BR117,Juice,500,37.49,None,Noida,94.2
+2025-01-01,Brand X,BR118,Water,1500,19.59,None,Chandigarh,78.1
+2025-01-01,Brand Y,BR119,CSD,750,58.54,None,Chandigarh,81.0
+2025-01-01,Brand Z,BR120,Sports Drink,750,68.01,Bundle,Chandigarh,85.7
+2025-01-01,Brand Q,BR121,CSD,250,20.27,None,Chandigarh,99.0
+2025-01-01,Brand M,BR122,Juice,750,51.0,None,Chandigarh,95.4
+2025-01-01,Brand N,BR123,Juice,500,35.83,10% Off,Chandigarh,76.5
+2025-01-01,Brand X,BR124,Sports Drink,500,43.15,None,Jaipur,97.5
+2025-01-01,Brand Y,BR125,Water,330,6.07,None,Jaipur,97.4
+2025-01-01,Brand Z,BR126,CSD,330,26.3,None,Jaipur,79.8
+2025-01-01,Brand Q,BR127,Energy Drink,1500,153.38,None,Jaipur,70.3
+2025-01-01,Brand M,BR128,Energy Drink,750,75.68,Bundle,Jaipur,87.5
+2025-01-01,Brand N,BR129,Water,500,7.16,None,Jaipur,95.9
+2025-01-01,Brand X,BR130,Energy Drink,250,28.56,None,Mumbai,99.0
+2025-01-01,Brand Y,BR131,CSD,1000,75.78,10% Off,Mumbai,81.9
+2025-01-01,Brand Z,BR132,Juice,500,34.61,None,Mumbai,99.0
+2025-01-01,Brand Q,BR133,Energy Drink,500,53.56,None,Mumbai,72.4
+2025-01-01,Brand M,BR134,CSD,1000,78.83,None,Mumbai,85.4
+2025-01-01,Brand N,BR135,Water,250,3.47,None,Mumbai,85.1
+2025-01-01,Brand X,BR136,Sports Drink,750,68.01,None,Pune,96.1
+2025-01-01,Brand Y,BR137,Energy Drink,1500,153.62,None,Pune,97.1
+2025-01-01,Brand Z,BR138,Energy Drink,500,51.7,None,Pune,94.7
+2025-01-01,Brand Q,BR139,Water,250,6.82,10% Off,Pune,78.5
+2025-01-01,Brand M,BR140,Sports Drink,330,31.69,10% Off,Pune,94.0
+2025-01-01,Brand N,BR141,CSD,250,21.75,10% Off,Pune,91.6
+2025-01-01,Brand X,BR142,Water,750,11.79,None,Ahmedabad,76.3
+2025-01-01,Brand Y,BR143,Water,500,9.67,Retailer Scheme,Ahmedabad,73.5
+2025-01-01,Brand Z,BR144,Energy Drink,250,30.0,None,Ahmedabad,95.3
+2025-01-01,Brand Q,BR145,Sports Drink,1000,87.89,Bundle,Ahmedabad,86.7
+2025-01-01,Brand M,BR146,Juice,330,25.49,10% Off,Ahmedabad,79.0
+2025-01-01,Brand N,BR147,Juice,500,36.22,None,Ahmedabad,86.5
+2025-01-01,Brand X,BR148,Water,1500,22.28,None,Bengaluru,90.5
+2025-01-01,Brand Y,BR149,Water,250,7.77,10% Off,Bengaluru,87.4
+2025-01-01,Brand Z,BR150,Water,330,4.93,10% Off,Bengaluru,77.1
+2025-01-01,Brand Q,BR151,CSD,330,25.58,None,Bengaluru,99.0
+2025-01-01,Brand M,BR152,Water,750,11.93,10% Off,Bengaluru,95.0
+2025-01-01,Brand N,BR153,Energy Drink,330,35.25,None,Bengaluru,85.7
+2025-01-01,Brand X,BR154,Juice,1500,100.35,None,Hyderabad,85.9
+2025-01-01,Brand Y,BR155,Energy Drink,250,28.99,None,Hyderabad,90.5
+2025-01-01,Brand Z,BR156,Water,1500,22.66,Bundle,Hyderabad,80.1
+2025-01-01,Brand Q,BR157,Water,750,11.09,None,Hyderabad,90.3
+2025-01-01,Brand M,BR158,CSD,250,22.34,None,Hyderabad,78.7
+2025-01-01,Brand N,BR159,Water,250,3.98,None,Hyderabad,87.5
+2025-01-01,Brand X,BR160,Water,250,5.67,None,Chennai,79.8
+2025-01-01,Brand Y,BR161,CSD,330,24.86,None,Chennai,80.2
+2025-01-01,Brand Z,BR162,CSD,330,27.27,None,Chennai,99.0
+2025-01-01,Brand Q,BR163,Juice,750,51.48,10% Off,Chennai,88.4
+2025-01-01,Brand M,BR164,Water,330,7.64,None,Chennai,89.5
+2025-01-01,Brand N,BR165,Water,1000,15.25,None,Chennai,73.9
+2025-01-01,Brand X,BR166,CSD,330,26.54,None,Kolkata,83.8
+2025-01-01,Brand Y,BR167,Water,330,3.99,None,Kolkata,91.2
+2025-01-01,Brand Z,BR168,Water,330,4.54,None,Kolkata,89.4
+2025-01-01,Brand Q,BR169,Water,330,8.83,None,Kolkata,72.9
+2025-01-01,Brand M,BR170,Juice,1500,102.11,None,Kolkata,89.4
+2025-01-01,Brand N,BR171,CSD,330,26.38,None,Kolkata,90.6
+2025-01-01,Brand X,BR172,Sports Drink,330,29.34,None,Bhubaneswar,97.0
+2025-01-01,Brand Y,BR173,CSD,1500,114.68,Bundle,Bhubaneswar,83.4
+2025-01-01,Brand Z,BR174,Water,750,12.45,None,Bhubaneswar,72.3
+2025-01-01,Brand Q,BR175,CSD,330,26.53,None,Bhubaneswar,81.0
+2025-01-01,Brand M,BR176,Water,1500,18.34,None,Bhubaneswar,80.3
+2025-01-01,Brand N,BR177,CSD,330,26.76,None,Bhubaneswar,93.2
+2025-01-01,Brand X,BR178,Energy Drink,250,26.3,None,Patna,69.0
+2025-01-01,Brand Y,BR179,Water,500,7.62,10% Off,Patna,84.9
+2025-01-01,Brand Z,BR180,Juice,1000,65.81,None,Patna,98.0
+2025-01-01,Brand Q,BR181,CSD,330,28.04,None,Patna,88.1
+2025-01-01,Brand M,BR182,CSD,1000,77.63,None,Patna,94.3
+2025-01-01,Brand N,BR183,Water,250,4.35,None,Patna,76.5
+2025-02-01,Brand X,BR184,Water,1000,14.77,Retailer Scheme,Gurgaon,76.8
+2025-02-01,Brand Y,BR185,Water,250,5.46,None,Gurgaon,98.1
+2025-02-01,Brand Z,BR186,Sports Drink,500,46.48,None,Gurgaon,88.7
+2025-02-01,Brand Q,BR187,Juice,750,53.53,None,Gurgaon,88.7
+2025-02-01,Brand M,BR188,Sports Drink,330,28.7,None,Gurgaon,80.2
+2025-02-01,Brand N,BR189,CSD,750,60.67,None,Gurgaon,88.7
+2025-02-01,Brand X,BR190,Energy Drink,1000,103.52,None,Delhi,80.0
+2025-02-01,Brand Y,BR191,Water,750,12.46,None,Delhi,96.3
+2025-02-01,Brand Z,BR192,Juice,500,34.37,None,Delhi,99.0
+2025-02-01,Brand Q,BR193,Sports Drink,1000,86.72,None,Delhi,91.4
+2025-02-01,Brand M,BR194,Juice,1000,65.03,None,Delhi,83.6
+2025-02-01,Brand N,BR195,Energy Drink,330,37.91,None,Delhi,70.3
+2025-02-01,Brand X,BR196,Juice,1000,68.03,Bundle,Noida,76.2
+2025-02-01,Brand Y,BR197,CSD,1500,114.51,None,Noida,98.9
+2025-02-01,Brand Z,BR198,Juice,1000,67.72,Retailer Scheme,Noida,80.8
+2025-02-01,Brand Q,BR199,Water,1000,12.2,Retailer Scheme,Noida,85.4
+2025-02-01,Brand M,BR200,Sports Drink,1000,85.87,None,Noida,92.6
+2025-02-01,Brand N,BR201,Energy Drink,1000,103.12,None,Noida,98.4
+2025-02-01,Brand X,BR202,CSD,330,27.32,Bundle,Chandigarh,86.6
+2025-02-01,Brand Y,BR203,CSD,1000,78.94,None,Chandigarh,85.2
+2025-02-01,Brand Z,BR204,CSD,330,28.04,None,Chandigarh,88.5
+2025-02-01,Brand Q,BR205,Water,500,9.01,None,Chandigarh,83.6
+2025-02-01,Brand M,BR206,CSD,1500,116.58,None,Chandigarh,84.0
+2025-02-01,Brand N,BR207,Juice,330,21.79,Bundle,Chandigarh,90.9
+2025-02-01,Brand X,BR208,Water,1500,21.45,10% Off,Jaipur,89.3
+2025-02-01,Brand Y,BR209,Energy Drink,500,53.58,Bundle,Jaipur,99.0
+2025-02-01,Brand Z,BR210,CSD,330,26.13,10% Off,Jaipur,91.1
+2025-02-01,Brand Q,BR211,Water,250,3.98,None,Jaipur,96.1
+2025-02-01,Brand M,BR212,CSD,750,57.32,None,Jaipur,80.5
+2025-02-01,Brand N,BR213,Energy Drink,500,50.99,Retailer Scheme,Jaipur,91.7
+2025-02-01,Brand X,BR214,CSD,750,58.87,Retailer Scheme,Mumbai,82.9
+2025-02-01,Brand Y,BR215,CSD,250,19.43,Bundle,Mumbai,90.8
+2025-02-01,Brand Z,BR216,CSD,330,28.05,10% Off,Mumbai,92.8
+2025-02-01,Brand Q,BR217,Energy Drink,250,25.53,None,Mumbai,88.3
+2025-02-01,Brand M,BR218,CSD,330,24.88,None,Mumbai,99.0
+2025-02-01,Brand N,BR219,Juice,1500,99.1,Bundle,Mumbai,98.0
+2025-02-01,Brand X,BR220,Juice,250,17.21,None,Pune,96.2
+2025-02-01,Brand Y,BR221,Juice,1000,69.94,None,Pune,93.4
+2025-02-01,Brand Z,BR222,CSD,250,20.26,None,Pune,99.0
+2025-02-01,Brand Q,BR223,CSD,750,57.36,None,Pune,77.9
+2025-02-01,Brand M,BR224,Water,1500,18.98,None,Pune,97.6
+2025-02-01,Brand N,BR225,CSD,500,39.37,None,Pune,81.1
+2025-02-01,Brand X,BR226,Juice,330,24.48,None,Ahmedabad,84.0
+2025-02-01,Brand Y,BR227,CSD,750,60.16,None,Ahmedabad,91.9
+2025-02-01,Brand Z,BR228,Water,330,5.78,None,Ahmedabad,96.6
+2025-02-01,Brand Q,BR229,CSD,1500,115.63,None,Ahmedabad,79.9
+2025-02-01,Brand M,BR230,Juice,1500,99.91,10% Off,Ahmedabad,84.4
+2025-02-01,Brand N,BR231,CSD,750,60.48,None,Ahmedabad,88.7
+2025-02-01,Brand X,BR232,Juice,750,51.6,None,Bengaluru,86.7
+2025-02-01,Brand Y,BR233,CSD,750,57.7,None,Bengaluru,94.0
+2025-02-01,Brand Z,BR234,Sports Drink,1000,88.52,None,Bengaluru,99.0
+2025-02-01,Brand Q,BR235,Juice,500,36.6,Bundle,Bengaluru,90.9
+2025-02-01,Brand M,BR236,CSD,1500,114.83,None,Bengaluru,82.9
+2025-02-01,Brand N,BR237,CSD,500,42.44,None,Bengaluru,78.9
+2025-02-01,Brand X,BR238,CSD,250,23.15,10% Off,Hyderabad,85.7
+2025-02-01,Brand Y,BR239,CSD,1000,75.98,None,Hyderabad,81.4
+2025-02-01,Brand Z,BR240,CSD,750,60.18,Bundle,Hyderabad,91.3
+2025-02-01,Brand Q,BR241,Energy Drink,1500,153.0,Retailer Scheme,Hyderabad,91.2
+2025-02-01,Brand M,BR242,Juice,500,35.17,None,Hyderabad,84.8
+2025-02-01,Brand N,BR243,CSD,500,40.07,Retailer Scheme,Hyderabad,99.0
+2025-02-01,Brand X,BR244,Water,750,13.27,None,Chennai,82.9
+2025-02-01,Brand Y,BR245,CSD,500,40.55,None,Chennai,87.2
+2025-02-01,Brand Z,BR246,Sports Drink,1000,87.69,None,Chennai,92.5
+2025-02-01,Brand Q,BR247,CSD,500,37.74,None,Chennai,94.2
+2025-02-01,Brand M,BR248,Juice,1000,67.24,None,Chennai,96.9
+2025-02-01,Brand N,BR249,Energy Drink,500,54.54,None,Chennai,91.0
+2025-02-01,Brand X,BR250,CSD,330,28.31,None,Kolkata,95.4
+2025-02-01,Brand Y,BR251,CSD,1500,112.75,None,Kolkata,83.3
+2025-02-01,Brand Z,BR252,Water,750,13.42,None,Kolkata,94.4
+2025-02-01,Brand Q,BR253,Energy Drink,1000,104.13,None,Kolkata,94.3
+2025-02-01,Brand M,BR254,Water,750,11.73,None,Kolkata,98.6
+2025-02-01,Brand N,BR255,Juice,500,32.61,None,Kolkata,76.3
+2025-02-01,Brand X,BR256,Energy Drink,1500,152.81,10% Off,Bhubaneswar,81.6
+2025-02-01,Brand Y,BR257,Energy Drink,500,50.27,None,Bhubaneswar,93.8
+2025-02-01,Brand Z,BR258,Water,1500,19.6,10% Off,Bhubaneswar,69.4
+2025-02-01,Brand Q,BR259,Water,500,9.14,None,Bhubaneswar,91.4
+2025-02-01,Brand M,BR260,Juice,250,20.81,None,Bhubaneswar,95.4
+2025-02-01,Brand N,BR261,CSD,250,20.54,Retailer Scheme,Bhubaneswar,84.0
+2025-02-01,Brand X,BR262,Energy Drink,1500,154.3,None,Patna,85.0
+2025-02-01,Brand Y,BR263,CSD,750,60.84,None,Patna,80.5
+2025-02-01,Brand Z,BR264,CSD,500,37.61,None,Patna,84.3
+2025-02-01,Brand Q,BR265,Energy Drink,1000,101.2,None,Patna,84.6
+2025-02-01,Brand M,BR266,CSD,750,59.8,None,Patna,83.2
+2025-02-01,Brand N,BR267,CSD,750,60.03,None,Patna,82.8
+2025-03-01,Brand X,BR268,CSD,1000,76.96,None,Gurgaon,86.1
+2025-03-01,Brand Y,BR269,Water,330,7.24,Retailer Scheme,Gurgaon,86.0
+2025-03-01,Brand Z,BR270,Energy Drink,250,28.06,None,Gurgaon,99.0
+2025-03-01,Brand Q,BR271,CSD,1000,78.7,None,Gurgaon,85.2
+2025-03-01,Brand M,BR272,CSD,250,22.34,Bundle,Gurgaon,90.4
+2025-03-01,Brand N,BR273,Water,1000,12.43,None,Gurgaon,84.0
+2025-03-01,Brand X,BR274,Sports Drink,250,22.04,Bundle,Delhi,83.9
+2025-03-01,Brand Y,BR275,CSD,330,25.41,None,Delhi,76.1
+2025-03-01,Brand Z,BR276,Sports Drink,1000,89.66,None,Delhi,77.0
+2025-03-01,Brand Q,BR277,Energy Drink,750,79.57,Retailer Scheme,Delhi,79.6
+2025-03-01,Brand M,BR278,CSD,1000,78.99,None,Delhi,89.3
+2025-03-01,Brand N,BR279,Energy Drink,750,75.58,Bundle,Delhi,95.5
+2025-03-01,Brand X,BR280,Juice,250,19.12,None,Noida,75.5
+2025-03-01,Brand Y,BR281,Water,1500,18.94,Bundle,Noida,84.2
+2025-03-01,Brand Z,BR282,Water,330,5.8,None,Noida,78.4
+2025-03-01,Brand Q,BR283,Energy Drink,250,26.34,None,Noida,86.2
+2025-03-01,Brand M,BR284,Energy Drink,1500,154.14,None,Noida,95.5
+2025-03-01,Brand N,BR285,Juice,330,22.17,Retailer Scheme,Noida,84.9
+2025-03-01,Brand X,BR286,Sports Drink,750,66.98,None,Chandigarh,87.7
+2025-03-01,Brand Y,BR287,Water,500,10.92,None,Chandigarh,98.2
+2025-03-01,Brand Z,BR288,Energy Drink,1000,103.44,Bundle,Chandigarh,91.2
+2025-03-01,Brand Q,BR289,Energy Drink,250,25.4,None,Chandigarh,82.7
+2025-03-01,Brand M,BR290,CSD,250,23.29,None,Chandigarh,89.1
+2025-03-01,Brand N,BR291,CSD,500,40.72,None,Chandigarh,82.2
+2025-03-01,Brand X,BR292,Water,500,8.28,None,Jaipur,90.9
+2025-03-01,Brand Y,BR293,Energy Drink,1000,103.3,None,Jaipur,91.6
+2025-03-01,Brand Z,BR294,CSD,750,60.65,None,Jaipur,78.4
+2025-03-01,Brand Q,BR295,Juice,250,18.64,None,Jaipur,89.2
+2025-03-01,Brand M,BR296,CSD,1500,115.16,None,Jaipur,87.2
+2025-03-01,Brand N,BR297,CSD,500,39.76,None,Jaipur,91.8
+2025-03-01,Brand X,BR298,Juice,1500,97.86,None,Mumbai,93.8
+2025-03-01,Brand Y,BR299,CSD,1500,116.44,10% Off,Mumbai,91.3
+2025-03-01,Brand Z,BR300,Energy Drink,250,25.63,None,Mumbai,85.9
+2025-03-01,Brand Q,BR301,CSD,750,58.22,None,Mumbai,94.5
+2025-03-01,Brand M,BR302,Sports Drink,500,44.43,None,Mumbai,81.9
+2025-03-01,Brand N,BR303,CSD,500,38.9,None,Mumbai,78.8
+2025-03-01,Brand X,BR304,Sports Drink,330,30.06,10% Off,Pune,65.6
+2025-03-01,Brand Y,BR305,Juice,750,51.84,None,Pune,87.5
+2025-03-01,Brand Z,BR306,CSD,500,39.06,Bundle,Pune,82.2
+2025-03-01,Brand Q,BR307,CSD,330,25.61,10% Off,Pune,90.8
+2025-03-01,Brand M,BR308,CSD,330,29.1,Bundle,Pune,74.2
+2025-03-01,Brand N,BR309,Juice,250,21.1,10% Off,Pune,83.5
+2025-03-01,Brand X,BR310,Energy Drink,1500,152.29,None,Ahmedabad,91.3
+2025-03-01,Brand Y,BR311,Water,1000,13.64,Retailer Scheme,Ahmedabad,80.8
+2025-03-01,Brand Z,BR312,Water,500,6.24,10% Off,Ahmedabad,90.9
+2025-03-01,Brand Q,BR313,Juice,500,32.68,None,Ahmedabad,84.1
+2025-03-01,Brand M,BR314,Water,250,4.96,None,Ahmedabad,87.8
+2025-03-01,Brand N,BR315,Juice,330,26.1,None,Ahmedabad,92.2
+2025-03-01,Brand X,BR316,Water,1500,21.65,None,Bengaluru,94.7
+2025-03-01,Brand Y,BR317,Juice,250,18.0,None,Bengaluru,88.6
+2025-03-01,Brand Z,BR318,Sports Drink,250,26.09,10% Off,Bengaluru,82.3
+2025-03-01,Brand Q,BR319,CSD,1500,114.64,None,Bengaluru,84.8
+2025-03-01,Brand M,BR320,CSD,750,57.63,None,Bengaluru,92.5
+2025-03-01,Brand N,BR321,CSD,250,20.88,None,Bengaluru,80.9
+2025-03-01,Brand X,BR322,Water,500,7.06,None,Hyderabad,86.8
+2025-03-01,Brand Y,BR323,CSD,1000,79.43,None,Hyderabad,85.3
+2025-03-01,Brand Z,BR324,Sports Drink,500,44.31,Bundle,Hyderabad,87.3
+2025-03-01,Brand Q,BR325,Juice,500,35.79,None,Hyderabad,80.9
+2025-03-01,Brand M,BR326,Water,750,10.95,Retailer Scheme,Hyderabad,75.0
+2025-03-01,Brand N,BR327,Energy Drink,750,79.51,10% Off,Hyderabad,91.6
+2025-03-01,Brand X,BR328,CSD,1500,115.71,10% Off,Chennai,94.7
+2025-03-01,Brand Y,BR329,Energy Drink,330,35.44,None,Chennai,75.5
+2025-03-01,Brand Z,BR330,CSD,330,25.41,Bundle,Chennai,90.6
+2025-03-01,Brand Q,BR331,Juice,250,20.76,Retailer Scheme,Chennai,95.6
+2025-03-01,Brand M,BR332,Sports Drink,750,66.48,10% Off,Chennai,92.2
+2025-03-01,Brand N,BR333,Energy Drink,750,76.43,None,Chennai,85.1
+2025-03-01,Brand X,BR334,Energy Drink,500,54.39,10% Off,Kolkata,81.4
+2025-03-01,Brand Y,BR335,Water,1000,12.27,None,Kolkata,88.6
+2025-03-01,Brand Z,BR336,Energy Drink,500,51.57,None,Kolkata,89.7
+2025-03-01,Brand Q,BR337,Water,330,6.64,10% Off,Kolkata,88.7
+2025-03-01,Brand M,BR338,Juice,750,50.45,Bundle,Kolkata,86.7
+2025-03-01,Brand N,BR339,CSD,500,39.88,None,Kolkata,80.4
+2025-03-01,Brand X,BR340,CSD,500,38.82,None,Bhubaneswar,91.0
+2025-03-01,Brand Y,BR341,Water,500,6.65,Bundle,Bhubaneswar,91.3
+2025-03-01,Brand Z,BR342,CSD,1500,112.68,None,Bhubaneswar,89.4
+2025-03-01,Brand Q,BR343,Juice,330,22.24,None,Bhubaneswar,88.8
+2025-03-01,Brand M,BR344,Energy Drink,330,37.76,10% Off,Bhubaneswar,99.0
+2025-03-01,Brand N,BR345,Sports Drink,750,66.63,Bundle,Bhubaneswar,83.6
+2025-03-01,Brand X,BR346,CSD,250,21.19,None,Patna,97.0
+2025-03-01,Brand Y,BR347,Sports Drink,250,23.17,None,Patna,82.9
+2025-03-01,Brand Z,BR348,CSD,750,59.79,None,Patna,95.8
+2025-03-01,Brand Q,BR349,Water,750,9.71,None,Patna,96.6
+2025-03-01,Brand M,BR350,Energy Drink,750,76.38,10% Off,Patna,85.9
+2025-03-01,Brand N,BR351,CSD,250,22.03,Bundle,Patna,99.0
+2025-04-01,Brand X,BR352,CSD,1500,114.9,None,Gurgaon,91.3
+2025-04-01,Brand Y,BR353,CSD,500,41.35,None,Gurgaon,81.9
+2025-04-01,Brand Z,BR354,Water,250,7.49,None,Gurgaon,85.4
+2025-04-01,Brand Q,BR355,Energy Drink,330,37.12,None,Gurgaon,95.9
+2025-04-01,Brand M,BR356,CSD,330,25.67,None,Gurgaon,94.5
+2025-04-01,Brand N,BR357,CSD,500,37.96,None,Gurgaon,80.6
+2025-04-01,Brand X,BR358,Juice,500,33.35,10% Off,Delhi,87.0
+2025-04-01,Brand Y,BR359,CSD,500,41.42,None,Delhi,89.4
+2025-04-01,Brand Z,BR360,Juice,500,37.07,10% Off,Delhi,84.4
+2025-04-01,Brand Q,BR361,Sports Drink,1500,132.13,None,Delhi,99.0
+2025-04-01,Brand M,BR362,Energy Drink,1500,151.49,Bundle,Delhi,89.6
+2025-04-01,Brand N,BR363,Energy Drink,500,54.2,Retailer Scheme,Delhi,87.6
+2025-04-01,Brand X,BR364,Water,1500,20.68,None,Noida,96.3
+2025-04-01,Brand Y,BR365,Energy Drink,1000,104.11,None,Noida,85.4
+2025-04-01,Brand Z,BR366,CSD,1000,77.74,10% Off,Noida,95.1
+2025-04-01,Brand Q,BR367,CSD,330,25.48,None,Noida,76.3
+2025-04-01,Brand M,BR368,Juice,500,32.9,None,Noida,84.8
+2025-04-01,Brand N,BR369,CSD,500,42.29,None,Noida,95.3
+2025-04-01,Brand X,BR370,Energy Drink,250,27.13,Bundle,Chandigarh,99.0
+2025-04-01,Brand Y,BR371,Juice,250,18.0,None,Chandigarh,82.6
+2025-04-01,Brand Z,BR372,Sports Drink,750,65.53,None,Chandigarh,81.8
+2025-04-01,Brand Q,BR373,CSD,500,39.39,None,Chandigarh,92.0
+2025-04-01,Brand M,BR374,Water,1000,16.72,10% Off,Chandigarh,83.6
+2025-04-01,Brand N,BR375,Juice,1000,65.31,None,Chandigarh,86.1
+2025-04-01,Brand X,BR376,CSD,250,19.35,Bundle,Jaipur,94.1
+2025-04-01,Brand Y,BR377,Water,1500,21.95,10% Off,Jaipur,84.2
+2025-04-01,Brand Z,BR378,Juice,500,35.25,None,Jaipur,74.2
+2025-04-01,Brand Q,BR379,Sports Drink,750,64.39,None,Jaipur,78.9
+2025-04-01,Brand M,BR380,Juice,1500,97.67,Bundle,Jaipur,88.1
+2025-04-01,Brand N,BR381,CSD,750,57.37,10% Off,Jaipur,75.0
+2025-04-01,Brand X,BR382,Water,250,4.3,None,Mumbai,85.9
+2025-04-01,Brand Y,BR383,Juice,330,21.52,None,Mumbai,78.3
+2025-04-01,Brand Z,BR384,CSD,500,38.58,None,Mumbai,99.0
+2025-04-01,Brand Q,BR385,Water,250,6.69,None,Mumbai,99.0
+2025-04-01,Brand M,BR386,CSD,330,29.03,None,Mumbai,80.6
+2025-04-01,Brand N,BR387,CSD,1000,79.49,None,Mumbai,89.8
+2025-04-01,Brand X,BR388,Water,250,4.95,None,Pune,81.3
+2025-04-01,Brand Y,BR389,CSD,330,26.35,Bundle,Pune,85.8
+2025-04-01,Brand Z,BR390,Juice,750,53.75,10% Off,Pune,99.0
+2025-04-01,Brand Q,BR391,CSD,250,22.6,Bundle,Pune,84.7
+2025-04-01,Brand M,BR392,Juice,330,24.14,None,Pune,86.0
+2025-04-01,Brand N,BR393,CSD,1500,113.77,None,Pune,81.4
+2025-04-01,Brand X,BR394,Energy Drink,750,76.61,None,Ahmedabad,96.0
+2025-04-01,Brand Y,BR395,CSD,1500,115.08,10% Off,Ahmedabad,65.2
+2025-04-01,Brand Z,BR396,Water,500,8.71,None,Ahmedabad,84.9
+2025-04-01,Brand Q,BR397,CSD,750,56.32,None,Ahmedabad,87.7
+2025-04-01,Brand M,BR398,CSD,330,29.55,Retailer Scheme,Ahmedabad,83.4
+2025-04-01,Brand N,BR399,Water,500,8.88,Bundle,Ahmedabad,94.0
+2025-04-01,Brand X,BR400,Energy Drink,330,35.95,None,Bengaluru,96.4
+2025-04-01,Brand Y,BR401,Sports Drink,1000,86.06,10% Off,Bengaluru,78.1
+2025-04-01,Brand Z,BR402,CSD,330,28.57,None,Bengaluru,99.0
+2025-04-01,Brand Q,BR403,CSD,330,28.44,None,Bengaluru,78.0
+2025-04-01,Brand M,BR404,Juice,500,32.98,None,Bengaluru,97.0
+2025-04-01,Brand N,BR405,Juice,500,35.47,None,Bengaluru,89.0
+2025-04-01,Brand X,BR406,CSD,330,28.04,10% Off,Hyderabad,84.5
+2025-04-01,Brand Y,BR407,Energy Drink,500,54.18,None,Hyderabad,85.1
+2025-04-01,Brand Z,BR408,Water,330,4.99,None,Hyderabad,87.8
+2025-04-01,Brand Q,BR409,Juice,1500,101.89,Retailer Scheme,Hyderabad,89.5
+2025-04-01,Brand M,BR410,CSD,750,58.56,None,Hyderabad,81.6
+2025-04-01,Brand N,BR411,Water,1500,18.48,None,Hyderabad,86.4
+2025-04-01,Brand X,BR412,CSD,1500,113.03,None,Chennai,82.6
+2025-04-01,Brand Y,BR413,Juice,750,49.74,None,Chennai,79.5
+2025-04-01,Brand Z,BR414,CSD,1000,76.41,None,Chennai,82.3
+2025-04-01,Brand Q,BR415,Energy Drink,250,27.48,None,Chennai,80.0
+2025-04-01,Brand M,BR416,Energy Drink,1500,153.74,Bundle,Chennai,85.1
+2025-04-01,Brand N,BR417,Juice,500,33.43,None,Chennai,91.0
+2025-04-01,Brand X,BR418,CSD,1000,79.96,None,Kolkata,88.8
+2025-04-01,Brand Y,BR419,CSD,330,25.56,None,Kolkata,99.0
+2025-04-01,Brand Z,BR420,Water,250,6.0,Bundle,Kolkata,72.5
+2025-04-01,Brand Q,BR421,Juice,1500,102.14,None,Kolkata,91.3
+2025-04-01,Brand M,BR422,Sports Drink,500,46.66,None,Kolkata,88.0
+2025-04-01,Brand N,BR423,CSD,250,21.99,Retailer Scheme,Kolkata,93.7
+2025-04-01,Brand X,BR424,Energy Drink,750,78.58,None,Bhubaneswar,93.0
+2025-04-01,Brand Y,BR425,CSD,250,19.42,None,Bhubaneswar,86.8
+2025-04-01,Brand Z,BR426,CSD,500,37.55,None,Bhubaneswar,89.2
+2025-04-01,Brand Q,BR427,CSD,1000,77.17,None,Bhubaneswar,82.8
+2025-04-01,Brand M,BR428,Juice,1000,65.45,Retailer Scheme,Bhubaneswar,92.3
+2025-04-01,Brand N,BR429,CSD,500,39.29,None,Bhubaneswar,74.8
+2025-04-01,Brand X,BR430,CSD,500,38.62,None,Patna,93.4
+2025-04-01,Brand Y,BR431,Energy Drink,1500,154.58,None,Patna,87.8
+2025-04-01,Brand Z,BR432,Water,330,8.36,None,Patna,84.6
+2025-04-01,Brand Q,BR433,CSD,250,22.84,None,Patna,86.4
+2025-04-01,Brand M,BR434,CSD,250,22.32,Bundle,Patna,86.9
+2025-04-01,Brand N,BR435,Water,1000,12.77,None,Patna,97.1
+2025-05-01,Brand X,BR436,CSD,500,37.74,Bundle,Gurgaon,99.0
+2025-05-01,Brand Y,BR437,CSD,250,22.02,10% Off,Gurgaon,96.5
+2025-05-01,Brand Z,BR438,Juice,330,24.66,None,Gurgaon,84.0
+2025-05-01,Brand Q,BR439,CSD,250,20.6,10% Off,Gurgaon,92.4
+2025-05-01,Brand M,BR440,Juice,1000,67.36,10% Off,Gurgaon,92.7
+2025-05-01,Brand N,BR441,CSD,500,39.95,None,Gurgaon,81.5
+2025-05-01,Brand X,BR442,CSD,250,19.95,None,Delhi,79.2
+2025-05-01,Brand Y,BR443,CSD,330,26.32,None,Delhi,87.6
+2025-05-01,Brand Z,BR444,CSD,750,58.34,None,Delhi,93.7
+2025-05-01,Brand Q,BR445,CSD,750,59.27,10% Off,Delhi,76.7
+2025-05-01,Brand M,BR446,CSD,1000,79.78,None,Delhi,83.0
+2025-05-01,Brand N,BR447,Sports Drink,250,23.94,None,Delhi,92.0
+2025-05-01,Brand X,BR448,Energy Drink,250,28.66,None,Noida,88.3
+2025-05-01,Brand Y,BR449,CSD,250,22.79,None,Noida,97.9
+2025-05-01,Brand Z,BR450,Juice,500,33.07,10% Off,Noida,78.1
+2025-05-01,Brand Q,BR451,Juice,1000,68.27,Bundle,Noida,99.0
+2025-05-01,Brand M,BR452,Energy Drink,750,77.41,Bundle,Noida,77.2
+2025-05-01,Brand N,BR453,CSD,330,27.61,None,Noida,73.8
+2025-05-01,Brand X,BR454,CSD,750,56.44,None,Chandigarh,87.6
+2025-05-01,Brand Y,BR455,CSD,750,60.78,Bundle,Chandigarh,80.1
+2025-05-01,Brand Z,BR456,CSD,330,29.51,None,Chandigarh,87.7
+2025-05-01,Brand Q,BR457,CSD,1000,75.02,10% Off,Chandigarh,87.5
+2025-05-01,Brand M,BR458,Energy Drink,500,51.06,None,Chandigarh,86.6
+2025-05-01,Brand N,BR459,Sports Drink,250,22.15,None,Chandigarh,82.1
+2025-05-01,Brand X,BR460,CSD,500,41.41,None,Jaipur,91.0
+2025-05-01,Brand Y,BR461,Water,1000,14.99,10% Off,Jaipur,85.8
+2025-05-01,Brand Z,BR462,Water,1000,12.89,None,Jaipur,95.7
+2025-05-01,Brand Q,BR463,Water,330,8.03,Bundle,Jaipur,86.7
+2025-05-01,Brand M,BR464,Water,1000,13.77,None,Jaipur,81.2
+2025-05-01,Brand N,BR465,CSD,500,39.8,None,Jaipur,76.2
+2025-05-01,Brand X,BR466,Energy Drink,500,51.94,10% Off,Mumbai,86.8
+2025-05-01,Brand Y,BR467,Sports Drink,250,23.86,None,Mumbai,79.1
+2025-05-01,Brand Z,BR468,Juice,1500,99.9,None,Mumbai,78.6
+2025-05-01,Brand Q,BR469,Juice,1500,98.87,Retailer Scheme,Mumbai,91.7
+2025-05-01,Brand M,BR470,Water,330,6.08,10% Off,Mumbai,75.6
+2025-05-01,Brand N,BR471,CSD,750,60.79,None,Mumbai,97.9
+2025-05-01,Brand X,BR472,CSD,1000,77.51,Bundle,Pune,89.1
+2025-05-01,Brand Y,BR473,Juice,750,53.33,None,Pune,87.7
+2025-05-01,Brand Z,BR474,CSD,330,27.5,None,Pune,80.8
+2025-05-01,Brand Q,BR475,Energy Drink,1500,153.84,None,Pune,93.4
+2025-05-01,Brand M,BR476,Water,330,5.43,None,Pune,88.0
+2025-05-01,Brand N,BR477,Water,500,9.95,None,Pune,83.2
+2025-05-01,Brand X,BR478,CSD,500,38.82,None,Ahmedabad,89.4
+2025-05-01,Brand Y,BR479,Sports Drink,1500,127.6,10% Off,Ahmedabad,76.2
+2025-05-01,Brand Z,BR480,CSD,750,57.05,None,Ahmedabad,76.6
+2025-05-01,Brand Q,BR481,CSD,1000,75.11,None,Ahmedabad,80.2
+2025-05-01,Brand M,BR482,CSD,1500,117.24,Bundle,Ahmedabad,90.4
+2025-05-01,Brand N,BR483,Juice,1500,102.5,Retailer Scheme,Ahmedabad,88.0
+2025-05-01,Brand X,BR484,Sports Drink,1500,131.31,None,Bengaluru,95.3
+2025-05-01,Brand Y,BR485,CSD,1500,113.04,Bundle,Bengaluru,81.6
+2025-05-01,Brand Z,BR486,Sports Drink,1500,131.99,Bundle,Bengaluru,92.0
+2025-05-01,Brand Q,BR487,CSD,1500,116.22,None,Bengaluru,87.2
+2025-05-01,Brand M,BR488,Juice,750,50.41,None,Bengaluru,81.4
+2025-05-01,Brand N,BR489,CSD,250,21.26,None,Bengaluru,90.7
+2025-05-01,Brand X,BR490,Water,250,6.31,10% Off,Hyderabad,87.5
+2025-05-01,Brand Y,BR491,Juice,1000,65.12,None,Hyderabad,83.6
+2025-05-01,Brand Z,BR492,Water,330,6.47,None,Hyderabad,88.3
+2025-05-01,Brand Q,BR493,CSD,1000,78.66,10% Off,Hyderabad,87.1
+2025-05-01,Brand M,BR494,Energy Drink,1500,150.94,None,Hyderabad,86.9
+2025-05-01,Brand N,BR495,Sports Drink,750,65.97,None,Hyderabad,85.1
+2025-05-01,Brand X,BR496,Water,1000,14.66,Bundle,Chennai,78.9
+2025-05-01,Brand Y,BR497,Juice,330,25.13,Retailer Scheme,Chennai,88.5
+2025-05-01,Brand Z,BR498,Energy Drink,500,54.82,10% Off,Chennai,82.4
+2025-05-01,Brand Q,BR499,CSD,1500,116.74,None,Chennai,80.9
+2025-05-01,Brand M,BR500,Energy Drink,1000,103.11,None,Chennai,86.3
+2025-05-01,Brand N,BR501,CSD,330,27.67,None,Chennai,93.1
+2025-05-01,Brand X,BR502,Energy Drink,1500,153.02,None,Kolkata,89.3
+2025-05-01,Brand Y,BR503,CSD,500,40.23,None,Kolkata,84.3
+2025-05-01,Brand Z,BR504,CSD,1500,112.8,Bundle,Kolkata,84.0
+2025-05-01,Brand Q,BR505,Water,750,12.49,10% Off,Kolkata,92.5
+2025-05-01,Brand M,BR506,Water,750,12.58,None,Kolkata,71.2
+2025-05-01,Brand N,BR507,Energy Drink,250,27.56,None,Kolkata,93.6
+2025-05-01,Brand X,BR508,Sports Drink,500,46.85,None,Bhubaneswar,74.9
+2025-05-01,Brand Y,BR509,CSD,1000,78.36,None,Bhubaneswar,78.1
+2025-05-01,Brand Z,BR510,CSD,1500,114.31,10% Off,Bhubaneswar,84.4
+2025-05-01,Brand Q,BR511,CSD,250,18.85,None,Bhubaneswar,99.0
+2025-05-01,Brand M,BR512,Water,250,3.3,Bundle,Bhubaneswar,99.0
+2025-05-01,Brand N,BR513,Water,1000,13.76,None,Bhubaneswar,92.9
+2025-05-01,Brand X,BR514,Energy Drink,500,52.31,None,Patna,90.5
+2025-05-01,Brand Y,BR515,Energy Drink,1500,150.83,Retailer Scheme,Patna,75.0
+2025-05-01,Brand Z,BR516,CSD,250,19.7,None,Patna,89.1
+2025-05-01,Brand Q,BR517,Water,500,7.15,None,Patna,84.2
+2025-05-01,Brand M,BR518,Juice,250,20.15,None,Patna,82.3
+2025-05-01,Brand N,BR519,Water,1000,15.86,None,Patna,89.1
+2025-06-01,Brand X,BR520,CSD,1500,114.41,None,Gurgaon,84.7
+2025-06-01,Brand Y,BR521,Water,250,3.86,None,Gurgaon,94.1
+2025-06-01,Brand Z,BR522,Water,330,4.51,None,Gurgaon,74.4
+2025-06-01,Brand Q,BR523,CSD,1500,112.94,None,Gurgaon,88.5
+2025-06-01,Brand M,BR524,Juice,250,18.21,None,Gurgaon,81.8
+2025-06-01,Brand N,BR525,CSD,1500,112.73,10% Off,Gurgaon,85.1
+2025-06-01,Brand X,BR526,Juice,1500,99.17,Bundle,Delhi,90.1
+2025-06-01,Brand Y,BR527,Water,250,7.81,None,Delhi,80.2
+2025-06-01,Brand Z,BR528,Energy Drink,250,27.54,None,Delhi,89.1
+2025-06-01,Brand Q,BR529,CSD,1000,79.11,None,Delhi,86.5
+2025-06-01,Brand M,BR530,CSD,250,19.4,None,Delhi,83.4
+2025-06-01,Brand N,BR531,CSD,750,57.59,None,Delhi,84.7
+2025-06-01,Brand X,BR532,Water,250,7.73,10% Off,Noida,86.9
+2025-06-01,Brand Y,BR533,CSD,750,58.17,None,Noida,82.6
+2025-06-01,Brand Z,BR534,Energy Drink,500,53.24,None,Noida,88.0
+2025-06-01,Brand Q,BR535,CSD,1000,79.88,10% Off,Noida,86.1
+2025-06-01,Brand M,BR536,CSD,1500,115.25,Bundle,Noida,83.7
+2025-06-01,Brand N,BR537,Water,500,7.53,None,Noida,99.0
+2025-06-01,Brand X,BR538,Energy Drink,750,77.66,None,Chandigarh,90.9
+2025-06-01,Brand Y,BR539,Energy Drink,750,75.27,Retailer Scheme,Chandigarh,85.3
+2025-06-01,Brand Z,BR540,Juice,1500,98.06,None,Chandigarh,89.0
+2025-06-01,Brand Q,BR541,Water,330,4.0,10% Off,Chandigarh,80.8
+2025-06-01,Brand M,BR542,Juice,330,25.87,10% Off,Chandigarh,84.9
+2025-06-01,Brand N,BR543,Juice,500,35.86,None,Chandigarh,85.8
+2025-06-01,Brand X,BR544,CSD,1000,76.49,None,Jaipur,79.3
+2025-06-01,Brand Y,BR545,Water,1500,19.11,None,Jaipur,90.7
+2025-06-01,Brand Z,BR546,Energy Drink,330,36.42,None,Jaipur,84.5
+2025-06-01,Brand Q,BR547,CSD,250,23.35,None,Jaipur,85.5
+2025-06-01,Brand M,BR548,Juice,750,50.25,10% Off,Jaipur,84.0
+2025-06-01,Brand N,BR549,Water,750,10.61,10% Off,Jaipur,99.0
+2025-06-01,Brand X,BR550,Water,500,10.27,Bundle,Mumbai,83.4
+2025-06-01,Brand Y,BR551,CSD,330,29.22,Retailer Scheme,Mumbai,73.5
+2025-06-01,Brand Z,BR552,Juice,1500,102.07,10% Off,Mumbai,76.8
+2025-06-01,Brand Q,BR553,Energy Drink,1500,151.47,None,Mumbai,93.3
+2025-06-01,Brand M,BR554,CSD,1000,75.6,None,Mumbai,97.4
+2025-06-01,Brand N,BR555,CSD,750,58.45,None,Mumbai,83.2
+2025-06-01,Brand X,BR556,CSD,330,26.23,None,Pune,97.0
+2025-06-01,Brand Y,BR557,CSD,500,41.92,None,Pune,93.2
+2025-06-01,Brand Z,BR558,Sports Drink,250,21.43,None,Pune,86.7
+2025-06-01,Brand Q,BR559,Water,330,7.13,None,Pune,86.2
+2025-06-01,Brand M,BR560,CSD,500,42.03,None,Pune,89.3
+2025-06-01,Brand N,BR561,CSD,500,42.38,Bundle,Pune,94.1
+2025-06-01,Brand X,BR562,Sports Drink,250,24.5,None,Ahmedabad,90.8
+2025-06-01,Brand Y,BR563,CSD,1500,117.25,None,Ahmedabad,83.3
+2025-06-01,Brand Z,BR564,Juice,330,21.83,None,Ahmedabad,86.8
+2025-06-01,Brand Q,BR565,CSD,750,58.05,None,Ahmedabad,99.0
+2025-06-01,Brand M,BR566,CSD,500,37.54,None,Ahmedabad,89.8
+2025-06-01,Brand N,BR567,Juice,500,37.41,None,Ahmedabad,94.1
+2025-06-01,Brand X,BR568,CSD,1500,117.01,None,Bengaluru,91.8
+2025-06-01,Brand Y,BR569,Juice,1000,65.14,10% Off,Bengaluru,89.9
+2025-06-01,Brand Z,BR570,CSD,1500,112.59,None,Bengaluru,88.8
+2025-06-01,Brand Q,BR571,Juice,500,34.33,Retailer Scheme,Bengaluru,94.3
+2025-06-01,Brand M,BR572,Energy Drink,330,34.29,10% Off,Bengaluru,93.0
+2025-06-01,Brand N,BR573,Juice,500,36.73,None,Bengaluru,89.8
+2025-06-01,Brand X,BR574,CSD,750,57.05,None,Hyderabad,83.1
+2025-06-01,Brand Y,BR575,Juice,500,36.45,None,Hyderabad,90.7
+2025-06-01,Brand Z,BR576,Sports Drink,500,45.27,10% Off,Hyderabad,87.5
+2025-06-01,Brand Q,BR577,CSD,250,20.64,10% Off,Hyderabad,85.8
+2025-06-01,Brand M,BR578,CSD,750,56.98,10% Off,Hyderabad,99.0
+2025-06-01,Brand N,BR579,Energy Drink,1000,104.99,Bundle,Hyderabad,77.2
+2025-06-01,Brand X,BR580,CSD,750,59.34,None,Chennai,94.7
+2025-06-01,Brand Y,BR581,Juice,1500,99.7,10% Off,Chennai,82.0
+2025-06-01,Brand Z,BR582,Juice,1500,99.36,None,Chennai,88.9
+2025-06-01,Brand Q,BR583,CSD,1500,117.03,None,Chennai,99.0
+2025-06-01,Brand M,BR584,Water,250,7.11,None,Chennai,81.3
+2025-06-01,Brand N,BR585,Juice,1500,101.56,10% Off,Chennai,82.9
+2025-06-01,Brand X,BR586,CSD,500,40.58,None,Kolkata,87.9
+2025-06-01,Brand Y,BR587,Energy Drink,500,54.44,None,Kolkata,82.1
+2025-06-01,Brand Z,BR588,CSD,500,39.0,None,Kolkata,94.2
+2025-06-01,Brand Q,BR589,CSD,330,28.27,Retailer Scheme,Kolkata,84.3
+2025-06-01,Brand M,BR590,Energy Drink,1500,152.02,None,Kolkata,92.6
+2025-06-01,Brand N,BR591,CSD,750,59.25,None,Kolkata,78.7
+2025-06-01,Brand X,BR592,Energy Drink,1500,154.99,None,Bhubaneswar,75.4
+2025-06-01,Brand Y,BR593,CSD,1500,117.42,None,Bhubaneswar,86.4
+2025-06-01,Brand Z,BR594,Water,500,8.56,Bundle,Bhubaneswar,77.0
+2025-06-01,Brand Q,BR595,CSD,1000,77.87,Retailer Scheme,Bhubaneswar,98.6
+2025-06-01,Brand M,BR596,Juice,750,53.24,Bundle,Bhubaneswar,77.3
+2025-06-01,Brand N,BR597,Energy Drink,500,54.93,Bundle,Bhubaneswar,80.7
+2025-06-01,Brand X,BR598,Energy Drink,1000,103.89,None,Patna,90.9
+2025-06-01,Brand Y,BR599,Sports Drink,1000,85.33,None,Patna,83.9
+2025-06-01,Brand Z,BR600,Juice,1500,99.11,None,Patna,77.4
+2025-06-01,Brand Q,BR601,Energy Drink,1000,104.48,10% Off,Patna,99.0
+2025-06-01,Brand M,BR602,Water,750,12.84,None,Patna,81.0
+2025-06-01,Brand N,BR603,Sports Drink,1500,131.21,10% Off,Patna,86.6
+2025-07-01,Brand X,BR604,Juice,250,19.59,None,Gurgaon,86.5
+2025-07-01,Brand Y,BR605,Energy Drink,1000,102.08,None,Gurgaon,93.0
+2025-07-01,Brand Z,BR606,CSD,500,39.52,None,Gurgaon,91.2
+2025-07-01,Brand Q,BR607,Water,500,10.04,Bundle,Gurgaon,82.2
+2025-07-01,Brand M,BR608,Juice,1000,66.47,10% Off,Gurgaon,85.7
+2025-07-01,Brand N,BR609,CSD,330,28.17,None,Gurgaon,86.4
+2025-07-01,Brand X,BR610,CSD,1500,116.13,Bundle,Delhi,93.2
+2025-07-01,Brand Y,BR611,Sports Drink,500,46.72,Bundle,Delhi,79.8
+2025-07-01,Brand Z,BR612,Water,500,7.6,None,Delhi,99.0
+2025-07-01,Brand Q,BR613,CSD,330,28.46,10% Off,Delhi,82.7
+2025-07-01,Brand M,BR614,CSD,500,38.03,None,Delhi,87.9
+2025-07-01,Brand N,BR615,Water,1500,18.69,None,Delhi,79.9
+2025-07-01,Brand X,BR616,Juice,250,18.34,None,Noida,78.9
+2025-07-01,Brand Y,BR617,Sports Drink,750,64.03,None,Noida,81.9
+2025-07-01,Brand Z,BR618,Sports Drink,1500,132.24,None,Noida,81.2
+2025-07-01,Brand Q,BR619,Juice,500,37.01,None,Noida,85.1
+2025-07-01,Brand M,BR620,Juice,750,48.99,None,Noida,81.1
+2025-07-01,Brand N,BR621,CSD,500,41.69,10% Off,Noida,92.9
+2025-07-01,Brand X,BR622,Energy Drink,250,27.54,None,Chandigarh,82.5
+2025-07-01,Brand Y,BR623,CSD,750,59.76,None,Chandigarh,81.7
+2025-07-01,Brand Z,BR624,CSD,1500,116.93,None,Chandigarh,85.2
+2025-07-01,Brand Q,BR625,Sports Drink,750,66.63,None,Chandigarh,94.9
+2025-07-01,Brand M,BR626,Energy Drink,500,50.58,Bundle,Chandigarh,89.5
+2025-07-01,Brand N,BR627,CSD,250,18.76,Bundle,Chandigarh,87.3
+2025-07-01,Brand X,BR628,Juice,1500,99.98,None,Jaipur,78.0
+2025-07-01,Brand Y,BR629,Water,1500,22.75,10% Off,Jaipur,80.0
+2025-07-01,Brand Z,BR630,CSD,1500,115.36,None,Jaipur,79.1
+2025-07-01,Brand Q,BR631,CSD,500,39.36,Retailer Scheme,Jaipur,97.1
+2025-07-01,Brand M,BR632,CSD,750,56.4,None,Jaipur,91.7
+2025-07-01,Brand N,BR633,Water,500,10.57,None,Jaipur,82.0
+2025-07-01,Brand X,BR634,Water,330,5.6,None,Mumbai,84.0
+2025-07-01,Brand Y,BR635,Water,330,7.48,None,Mumbai,82.2
+2025-07-01,Brand Z,BR636,CSD,500,40.97,None,Mumbai,81.8
+2025-07-01,Brand Q,BR637,Sports Drink,750,65.02,None,Mumbai,91.2
+2025-07-01,Brand M,BR638,Juice,250,16.57,None,Mumbai,86.0
+2025-07-01,Brand N,BR639,Energy Drink,1000,101.93,10% Off,Mumbai,99.0
+2025-07-01,Brand X,BR640,CSD,500,39.09,10% Off,Pune,96.8
+2025-07-01,Brand Y,BR641,Juice,1500,101.0,None,Pune,97.2
+2025-07-01,Brand Z,BR642,Energy Drink,330,37.1,Bundle,Pune,92.7
+2025-07-01,Brand Q,BR643,CSD,250,19.86,None,Pune,85.0
+2025-07-01,Brand M,BR644,CSD,330,27.39,Retailer Scheme,Pune,92.2
+2025-07-01,Brand N,BR645,CSD,1500,112.7,None,Pune,85.6
+2025-07-01,Brand X,BR646,CSD,330,25.82,Bundle,Ahmedabad,99.0
+2025-07-01,Brand Y,BR647,Water,1000,15.81,Bundle,Ahmedabad,90.8
+2025-07-01,Brand Z,BR648,CSD,1500,116.47,Bundle,Ahmedabad,89.8
+2025-07-01,Brand Q,BR649,CSD,330,28.63,Bundle,Ahmedabad,88.9
+2025-07-01,Brand M,BR650,Juice,750,49.46,None,Ahmedabad,99.0
+2025-07-01,Brand N,BR651,CSD,330,27.51,10% Off,Ahmedabad,78.0
+2025-07-01,Brand X,BR652,CSD,500,39.61,None,Bengaluru,99.0
+2025-07-01,Brand Y,BR653,Juice,330,26.41,None,Bengaluru,86.7
+2025-07-01,Brand Z,BR654,CSD,1000,78.27,Retailer Scheme,Bengaluru,78.2
+2025-07-01,Brand Q,BR655,CSD,1500,117.18,None,Bengaluru,82.7
+2025-07-01,Brand M,BR656,CSD,330,25.48,None,Bengaluru,76.4
+2025-07-01,Brand N,BR657,CSD,330,27.0,Bundle,Bengaluru,92.6
+2025-07-01,Brand X,BR658,Water,1000,15.86,None,Hyderabad,80.7
+2025-07-01,Brand Y,BR659,CSD,500,39.34,None,Hyderabad,89.2
+2025-07-01,Brand Z,BR660,CSD,750,59.41,None,Hyderabad,95.9
+2025-07-01,Brand Q,BR661,Sports Drink,1000,87.56,10% Off,Hyderabad,83.3
+2025-07-01,Brand M,BR662,Sports Drink,250,26.21,Bundle,Hyderabad,86.1
+2025-07-01,Brand N,BR663,CSD,1500,113.37,None,Hyderabad,78.9
+2025-07-01,Brand X,BR664,CSD,500,42.18,None,Chennai,85.3
+2025-07-01,Brand Y,BR665,Water,750,11.01,None,Chennai,99.0
+2025-07-01,Brand Z,BR666,Energy Drink,500,52.34,10% Off,Chennai,93.4
+2025-07-01,Brand Q,BR667,Energy Drink,1000,102.64,10% Off,Chennai,86.1
+2025-07-01,Brand M,BR668,CSD,750,57.58,Retailer Scheme,Chennai,83.7
+2025-07-01,Brand N,BR669,CSD,330,29.57,None,Chennai,87.7
+2025-07-01,Brand X,BR670,Water,330,8.52,None,Kolkata,88.9
+2025-07-01,Brand Y,BR671,Energy Drink,1500,154.86,None,Kolkata,85.1
+2025-07-01,Brand Z,BR672,Energy Drink,750,79.98,None,Kolkata,91.7
+2025-07-01,Brand Q,BR673,CSD,330,28.1,None,Kolkata,81.3
+2025-07-01,Brand M,BR674,Juice,250,18.51,None,Kolkata,81.3
+2025-07-01,Brand N,BR675,CSD,250,23.0,None,Kolkata,90.6
+2025-07-01,Brand X,BR676,Juice,1500,97.62,Retailer Scheme,Bhubaneswar,79.8
+2025-07-01,Brand Y,BR677,Sports Drink,1500,131.67,None,Bhubaneswar,93.1
+2025-07-01,Brand Z,BR678,Water,500,8.49,None,Bhubaneswar,87.9
+2025-07-01,Brand Q,BR679,CSD,330,28.12,10% Off,Bhubaneswar,75.2
+2025-07-01,Brand M,BR680,Juice,500,34.37,None,Bhubaneswar,88.8
+2025-07-01,Brand N,BR681,Water,250,4.84,None,Bhubaneswar,76.2
+2025-07-01,Brand X,BR682,Energy Drink,750,75.16,None,Patna,92.9
+2025-07-01,Brand Y,BR683,CSD,750,58.37,None,Patna,86.3
+2025-07-01,Brand Z,BR684,Energy Drink,1500,152.04,None,Patna,99.0
+2025-07-01,Brand Q,BR685,CSD,330,25.87,None,Patna,95.5
+2025-07-01,Brand M,BR686,CSD,330,25.99,None,Patna,80.6
+2025-07-01,Brand N,BR687,CSD,250,21.67,None,Patna,73.9
+2025-08-01,Brand X,BR688,CSD,500,39.09,None,Gurgaon,82.7
+2025-08-01,Brand Y,BR689,CSD,750,60.4,None,Gurgaon,79.5
+2025-08-01,Brand Z,BR690,Juice,250,16.81,None,Gurgaon,99.0
+2025-08-01,Brand Q,BR691,CSD,1000,77.89,Retailer Scheme,Gurgaon,87.9
+2025-08-01,Brand M,BR692,CSD,500,38.3,None,Gurgaon,94.5
+2025-08-01,Brand N,BR693,CSD,1000,77.64,None,Gurgaon,86.0
+2025-08-01,Brand X,BR694,CSD,500,40.26,None,Delhi,86.7
+2025-08-01,Brand Y,BR695,Energy Drink,250,28.21,10% Off,Delhi,87.8
+2025-08-01,Brand Z,BR696,Sports Drink,250,23.39,None,Delhi,95.7
+2025-08-01,Brand Q,BR697,CSD,750,58.8,None,Delhi,90.2
+2025-08-01,Brand M,BR698,Energy Drink,750,75.9,None,Delhi,80.6
+2025-08-01,Brand N,BR699,Juice,1000,67.32,None,Delhi,99.0
+2025-08-01,Brand X,BR700,Sports Drink,1500,129.37,10% Off,Noida,86.0
+2025-08-01,Brand Y,BR701,CSD,250,22.08,None,Noida,84.8
+2025-08-01,Brand Z,BR702,CSD,330,26.92,10% Off,Noida,68.2
+2025-08-01,Brand Q,BR703,Water,330,7.86,None,Noida,92.4
+2025-08-01,Brand M,BR704,Energy Drink,250,27.13,10% Off,Noida,88.7
+2025-08-01,Brand N,BR705,Juice,250,17.43,None,Noida,88.7
+2025-08-01,Brand X,BR706,Water,250,4.37,10% Off,Chandigarh,85.2
+2025-08-01,Brand Y,BR707,CSD,750,56.48,10% Off,Chandigarh,84.0
+2025-08-01,Brand Z,BR708,Juice,250,18.95,None,Chandigarh,85.4
+2025-08-01,Brand Q,BR709,Energy Drink,330,37.15,None,Chandigarh,91.2
+2025-08-01,Brand M,BR710,Water,250,6.85,None,Chandigarh,92.5
+2025-08-01,Brand N,BR711,Juice,1000,67.19,None,Chandigarh,86.4
+2025-08-01,Brand X,BR712,Water,750,9.98,10% Off,Jaipur,94.6
+2025-08-01,Brand Y,BR713,Water,1500,22.32,None,Jaipur,87.4
+2025-08-01,Brand Z,BR714,Water,250,3.28,10% Off,Jaipur,84.5
+2025-08-01,Brand Q,BR715,Energy Drink,330,35.0,10% Off,Jaipur,89.4
+2025-08-01,Brand M,BR716,Sports Drink,500,46.78,10% Off,Jaipur,78.5
+2025-08-01,Brand N,BR717,Water,750,10.97,10% Off,Jaipur,89.6
+2025-08-01,Brand X,BR718,CSD,250,19.34,None,Mumbai,77.2
+2025-08-01,Brand Y,BR719,CSD,330,26.08,None,Mumbai,80.8
+2025-08-01,Brand Z,BR720,CSD,500,40.5,None,Mumbai,73.9
+2025-08-01,Brand Q,BR721,CSD,250,19.51,Bundle,Mumbai,86.8
+2025-08-01,Brand M,BR722,CSD,500,40.77,Retailer Scheme,Mumbai,99.0
+2025-08-01,Brand N,BR723,Water,1000,14.19,None,Mumbai,87.2
+2025-08-01,Brand X,BR724,CSD,750,57.92,Retailer Scheme,Pune,92.5
+2025-08-01,Brand Y,BR725,CSD,500,38.7,Retailer Scheme,Pune,99.0
+2025-08-01,Brand Z,BR726,Energy Drink,500,54.12,None,Pune,90.8
+2025-08-01,Brand Q,BR727,CSD,1500,114.48,10% Off,Pune,82.6
+2025-08-01,Brand M,BR728,Juice,750,52.44,None,Pune,83.6
+2025-08-01,Brand N,BR729,Sports Drink,750,65.95,None,Pune,88.0
+2025-08-01,Brand X,BR730,Juice,1500,97.96,None,Ahmedabad,83.6
+2025-08-01,Brand Y,BR731,CSD,250,20.95,None,Ahmedabad,84.1
+2025-08-01,Brand Z,BR732,CSD,250,21.29,10% Off,Ahmedabad,94.9
+2025-08-01,Brand Q,BR733,Juice,500,34.79,None,Ahmedabad,95.2
+2025-08-01,Brand M,BR734,Water,330,8.04,10% Off,Ahmedabad,76.5
+2025-08-01,Brand N,BR735,CSD,330,29.3,10% Off,Ahmedabad,82.3
+2025-08-01,Brand X,BR736,Water,250,6.93,10% Off,Bengaluru,84.8
+2025-08-01,Brand Y,BR737,Water,1500,20.91,None,Bengaluru,92.2
+2025-08-01,Brand Z,BR738,CSD,750,58.96,None,Bengaluru,96.0
+2025-08-01,Brand Q,BR739,Juice,1000,68.22,None,Bengaluru,99.0
+2025-08-01,Brand M,BR740,CSD,250,20.19,None,Bengaluru,84.7
+2025-08-01,Brand N,BR741,CSD,500,41.56,None,Bengaluru,85.1
+2025-08-01,Brand X,BR742,Energy Drink,750,79.28,None,Hyderabad,92.1
+2025-08-01,Brand Y,BR743,CSD,750,57.59,None,Hyderabad,83.2
+2025-08-01,Brand Z,BR744,Juice,1000,69.51,None,Hyderabad,87.0
+2025-08-01,Brand Q,BR745,Water,1000,16.24,None,Hyderabad,85.1
+2025-08-01,Brand M,BR746,CSD,500,39.62,None,Hyderabad,69.6
+2025-08-01,Brand N,BR747,Sports Drink,1000,89.55,Bundle,Hyderabad,88.9
+2025-08-01,Brand X,BR748,CSD,330,25.35,None,Chennai,86.7
+2025-08-01,Brand Y,BR749,CSD,250,18.89,Retailer Scheme,Chennai,96.9
+2025-08-01,Brand Z,BR750,Sports Drink,1500,129.24,None,Chennai,88.0
+2025-08-01,Brand Q,BR751,Juice,250,19.08,None,Chennai,79.2
+2025-08-01,Brand M,BR752,Juice,330,23.21,Bundle,Chennai,86.2
+2025-08-01,Brand N,BR753,CSD,250,23.46,Bundle,Chennai,73.4
+2025-08-01,Brand X,BR754,CSD,330,26.02,None,Kolkata,79.5
+2025-08-01,Brand Y,BR755,Juice,500,33.91,None,Kolkata,92.4
+2025-08-01,Brand Z,BR756,CSD,250,21.92,None,Kolkata,86.3
+2025-08-01,Brand Q,BR757,CSD,500,37.52,None,Kolkata,94.5
+2025-08-01,Brand M,BR758,Energy Drink,1500,153.64,10% Off,Kolkata,74.2
+2025-08-01,Brand N,BR759,CSD,250,20.64,None,Kolkata,86.3
+2025-08-01,Brand X,BR760,CSD,1500,117.39,None,Bhubaneswar,84.7
+2025-08-01,Brand Y,BR761,CSD,500,40.96,None,Bhubaneswar,94.7
+2025-08-01,Brand Z,BR762,Water,750,9.26,None,Bhubaneswar,92.7
+2025-08-01,Brand Q,BR763,Juice,500,32.96,None,Bhubaneswar,92.5
+2025-08-01,Brand M,BR764,Energy Drink,330,33.44,None,Bhubaneswar,98.8
+2025-08-01,Brand N,BR765,CSD,250,23.51,Bundle,Bhubaneswar,85.4
+2025-08-01,Brand X,BR766,CSD,750,59.67,None,Patna,97.3
+2025-08-01,Brand Y,BR767,Water,1500,20.14,None,Patna,80.7
+2025-08-01,Brand Z,BR768,CSD,750,57.25,None,Patna,80.4
+2025-08-01,Brand Q,BR769,Water,750,13.37,None,Patna,93.3
+2025-08-01,Brand M,BR770,Sports Drink,750,64.76,None,Patna,77.5
+2025-08-01,Brand N,BR771,Water,500,9.53,None,Patna,92.0
+2025-09-01,Brand X,BR772,Water,250,6.82,Retailer Scheme,Gurgaon,88.7
+2025-09-01,Brand Y,BR773,Sports Drink,750,65.22,Retailer Scheme,Gurgaon,95.5
+2025-09-01,Brand Z,BR774,CSD,1500,115.02,Bundle,Gurgaon,87.6
+2025-09-01,Brand Q,BR775,Sports Drink,330,29.16,Bundle,Gurgaon,88.4
+2025-09-01,Brand M,BR776,Water,1500,19.89,None,Gurgaon,91.6
+2025-09-01,Brand N,BR777,Water,1500,22.83,None,Gurgaon,83.4
+2025-09-01,Brand X,BR778,Sports Drink,330,31.52,None,Delhi,83.1
+2025-09-01,Brand Y,BR779,Water,750,13.23,10% Off,Delhi,91.3
+2025-09-01,Brand Z,BR780,Water,1000,14.7,None,Delhi,87.8
+2025-09-01,Brand Q,BR781,CSD,500,38.7,None,Delhi,85.1
+2025-09-01,Brand M,BR782,Juice,1000,68.56,None,Delhi,87.4
+2025-09-01,Brand N,BR783,Juice,1500,100.0,None,Delhi,99.0
+2025-09-01,Brand X,BR784,CSD,750,57.13,10% Off,Noida,84.9
+2025-09-01,Brand Y,BR785,Juice,1500,99.56,None,Noida,84.7
+2025-09-01,Brand Z,BR786,Juice,1000,68.17,None,Noida,76.0
+2025-09-01,Brand Q,BR787,Water,1000,15.68,None,Noida,87.7
+2025-09-01,Brand M,BR788,CSD,1500,113.72,10% Off,Noida,92.6
+2025-09-01,Brand N,BR789,Water,330,8.34,None,Noida,93.9
+2025-09-01,Brand X,BR790,CSD,250,20.65,None,Chandigarh,88.8
+2025-09-01,Brand Y,BR791,CSD,250,20.11,None,Chandigarh,94.7
+2025-09-01,Brand Z,BR792,Water,330,4.94,None,Chandigarh,93.1
+2025-09-01,Brand Q,BR793,CSD,1000,79.02,Bundle,Chandigarh,95.8
+2025-09-01,Brand M,BR794,CSD,750,58.02,None,Chandigarh,94.9
+2025-09-01,Brand N,BR795,Juice,500,34.92,Retailer Scheme,Chandigarh,99.0
+2025-09-01,Brand X,BR796,CSD,250,19.86,None,Jaipur,86.8
+2025-09-01,Brand Y,BR797,Sports Drink,1000,88.43,None,Jaipur,78.7
+2025-09-01,Brand Z,BR798,Sports Drink,500,46.41,Retailer Scheme,Jaipur,92.6
+2025-09-01,Brand Q,BR799,Juice,1000,66.7,None,Jaipur,93.5
+2025-09-01,Brand M,BR800,Sports Drink,250,25.98,10% Off,Jaipur,99.0
+2025-09-01,Brand N,BR801,Energy Drink,330,33.15,None,Jaipur,97.0
+2025-09-01,Brand X,BR802,CSD,250,19.41,None,Mumbai,99.0
+2025-09-01,Brand Y,BR803,Juice,330,24.39,None,Mumbai,92.3
+2025-09-01,Brand Z,BR804,CSD,1500,116.01,None,Mumbai,89.6
+2025-09-01,Brand Q,BR805,Juice,500,33.75,10% Off,Mumbai,78.3
+2025-09-01,Brand M,BR806,Water,500,8.77,None,Mumbai,90.2
+2025-09-01,Brand N,BR807,CSD,330,26.34,None,Mumbai,84.1
+2025-09-01,Brand X,BR808,CSD,330,27.52,None,Pune,89.5
+2025-09-01,Brand Y,BR809,Sports Drink,1000,88.3,None,Pune,88.4
+2025-09-01,Brand Z,BR810,CSD,1500,117.36,None,Pune,91.3
+2025-09-01,Brand Q,BR811,CSD,1000,77.28,Retailer Scheme,Pune,87.3
+2025-09-01,Brand M,BR812,CSD,1000,78.24,None,Pune,94.5
+2025-09-01,Brand N,BR813,Water,500,8.89,None,Pune,68.9
+2025-09-01,Brand X,BR814,Energy Drink,250,26.59,None,Ahmedabad,89.3
+2025-09-01,Brand Y,BR815,Juice,1000,66.27,None,Ahmedabad,96.4
+2025-09-01,Brand Z,BR816,Water,1000,16.94,None,Ahmedabad,99.0
+2025-09-01,Brand Q,BR817,CSD,750,57.28,10% Off,Ahmedabad,93.1
+2025-09-01,Brand M,BR818,CSD,250,22.7,None,Ahmedabad,99.0
+2025-09-01,Brand N,BR819,Water,1000,12.73,Bundle,Ahmedabad,89.2
+2025-09-01,Brand X,BR820,Energy Drink,1500,154.02,None,Bengaluru,88.0
+2025-09-01,Brand Y,BR821,Juice,330,22.38,None,Bengaluru,91.7
+2025-09-01,Brand Z,BR822,Water,250,7.84,Bundle,Bengaluru,88.0
+2025-09-01,Brand Q,BR823,Juice,1000,68.43,Bundle,Bengaluru,82.5
+2025-09-01,Brand M,BR824,Water,330,4.41,Retailer Scheme,Bengaluru,84.4
+2025-09-01,Brand N,BR825,Juice,1000,68.47,None,Bengaluru,80.2
+2025-09-01,Brand X,BR826,Water,1000,15.02,Retailer Scheme,Hyderabad,91.7
+2025-09-01,Brand Y,BR827,Juice,330,23.14,Bundle,Hyderabad,88.1
+2025-09-01,Brand Z,BR828,Water,250,4.3,10% Off,Hyderabad,85.5
+2025-09-01,Brand Q,BR829,Sports Drink,750,67.34,10% Off,Hyderabad,84.0
+2025-09-01,Brand M,BR830,Water,500,9.71,Retailer Scheme,Hyderabad,91.5
+2025-09-01,Brand N,BR831,CSD,1500,114.14,None,Hyderabad,93.5
+2025-09-01,Brand X,BR832,CSD,500,41.88,10% Off,Chennai,80.1
+2025-09-01,Brand Y,BR833,Water,330,5.3,10% Off,Chennai,79.0
+2025-09-01,Brand Z,BR834,Water,1500,18.35,10% Off,Chennai,94.7
+2025-09-01,Brand Q,BR835,Water,1000,15.0,10% Off,Chennai,78.4
+2025-09-01,Brand M,BR836,Juice,750,49.29,None,Chennai,91.8
+2025-09-01,Brand N,BR837,CSD,1500,113.88,None,Chennai,99.0
+2025-09-01,Brand X,BR838,Juice,1000,67.54,None,Kolkata,99.0
+2025-09-01,Brand Y,BR839,Juice,1500,98.93,10% Off,Kolkata,93.2
+2025-09-01,Brand Z,BR840,Water,1000,13.07,10% Off,Kolkata,93.0
+2025-09-01,Brand Q,BR841,Water,500,9.52,Bundle,Kolkata,99.0
+2025-09-01,Brand M,BR842,CSD,250,21.48,10% Off,Kolkata,71.7
+2025-09-01,Brand N,BR843,Water,750,13.2,None,Kolkata,84.7
+2025-09-01,Brand X,BR844,Energy Drink,1000,102.91,None,Bhubaneswar,93.9
+2025-09-01,Brand Y,BR845,Sports Drink,1500,129.92,None,Bhubaneswar,85.6
+2025-09-01,Brand Z,BR846,Juice,1000,66.31,Bundle,Bhubaneswar,96.7
+2025-09-01,Brand Q,BR847,CSD,750,60.21,None,Bhubaneswar,87.7
+2025-09-01,Brand M,BR848,Juice,750,49.73,Bundle,Bhubaneswar,88.9
+2025-09-01,Brand N,BR849,Juice,250,17.46,Retailer Scheme,Bhubaneswar,86.1
+2025-09-01,Brand X,BR850,CSD,250,22.96,None,Patna,84.3
+2025-09-01,Brand Y,BR851,Energy Drink,250,28.71,10% Off,Patna,84.2
+2025-09-01,Brand Z,BR852,CSD,1500,115.56,None,Patna,89.9
+2025-09-01,Brand Q,BR853,CSD,1000,75.19,None,Patna,82.6
+2025-09-01,Brand M,BR854,CSD,330,25.39,None,Patna,94.7
+2025-09-01,Brand N,BR855,CSD,500,40.0,None,Patna,92.6
+2025-10-01,Brand X,BR856,Energy Drink,500,53.73,None,Gurgaon,95.7
+2025-10-01,Brand Y,BR857,Water,330,6.28,None,Gurgaon,80.1
+2025-10-01,Brand Z,BR858,CSD,500,37.59,None,Gurgaon,76.1
+2025-10-01,Brand Q,BR859,Water,500,6.92,None,Gurgaon,88.0
+2025-10-01,Brand M,BR860,Water,1000,14.94,None,Gurgaon,99.0
+2025-10-01,Brand N,BR861,CSD,1000,78.47,None,Gurgaon,96.9
+2025-10-01,Brand X,BR862,CSD,250,18.92,Bundle,Delhi,84.1
+2025-10-01,Brand Y,BR863,Juice,500,32.72,None,Delhi,91.0
+2025-10-01,Brand Z,BR864,CSD,1500,113.81,None,Delhi,93.1
+2025-10-01,Brand Q,BR865,Energy Drink,1500,150.42,Retailer Scheme,Delhi,78.4
+2025-10-01,Brand M,BR866,CSD,1000,77.71,Bundle,Delhi,97.6
+2025-10-01,Brand N,BR867,Juice,1000,65.62,10% Off,Delhi,86.8
+2025-10-01,Brand X,BR868,Energy Drink,250,28.24,10% Off,Noida,87.4
+2025-10-01,Brand Y,BR869,CSD,1500,116.39,None,Noida,88.2
+2025-10-01,Brand Z,BR870,CSD,1000,79.85,10% Off,Noida,96.0
+2025-10-01,Brand Q,BR871,Sports Drink,1500,132.24,None,Noida,82.7
+2025-10-01,Brand M,BR872,Water,1500,19.37,None,Noida,76.1
+2025-10-01,Brand N,BR873,Juice,330,21.6,None,Noida,90.3
+2025-10-01,Brand X,BR874,CSD,250,20.4,10% Off,Chandigarh,73.7
+2025-10-01,Brand Y,BR875,CSD,750,59.79,None,Chandigarh,85.9
+2025-10-01,Brand Z,BR876,Water,500,6.3,None,Chandigarh,96.3
+2025-10-01,Brand Q,BR877,Energy Drink,250,26.8,None,Chandigarh,92.1
+2025-10-01,Brand M,BR878,CSD,330,26.24,10% Off,Chandigarh,95.3
+2025-10-01,Brand N,BR879,Energy Drink,1500,151.1,None,Chandigarh,92.3
+2025-10-01,Brand X,BR880,Juice,500,36.03,None,Jaipur,99.0
+2025-10-01,Brand Y,BR881,CSD,330,28.05,None,Jaipur,83.9
+2025-10-01,Brand Z,BR882,CSD,750,58.93,10% Off,Jaipur,90.8
+2025-10-01,Brand Q,BR883,CSD,750,60.8,None,Jaipur,84.9
+2025-10-01,Brand M,BR884,Water,330,4.48,Retailer Scheme,Jaipur,94.7
+2025-10-01,Brand N,BR885,Juice,1500,98.25,None,Jaipur,87.6
+2025-10-01,Brand X,BR886,Water,750,10.92,None,Mumbai,99.0
+2025-10-01,Brand Y,BR887,CSD,250,22.03,None,Mumbai,84.3
+2025-10-01,Brand Z,BR888,Juice,330,24.37,None,Mumbai,97.8
+2025-10-01,Brand Q,BR889,Juice,1500,97.87,None,Mumbai,92.2
+2025-10-01,Brand M,BR890,Water,250,7.79,None,Mumbai,87.8
+2025-10-01,Brand N,BR891,Water,250,4.53,Bundle,Mumbai,91.8
+2025-10-01,Brand X,BR892,CSD,750,58.04,None,Pune,89.8
+2025-10-01,Brand Y,BR893,Juice,500,35.62,None,Pune,90.5
+2025-10-01,Brand Z,BR894,Water,330,8.69,None,Pune,86.6
+2025-10-01,Brand Q,BR895,CSD,500,40.81,None,Pune,83.1
+2025-10-01,Brand M,BR896,CSD,330,29.52,None,Pune,85.7
+2025-10-01,Brand N,BR897,Juice,500,33.44,None,Pune,76.2
+2025-10-01,Brand X,BR898,Juice,330,24.54,None,Ahmedabad,93.9
+2025-10-01,Brand Y,BR899,CSD,750,60.39,None,Ahmedabad,79.4
+2025-10-01,Brand Z,BR900,Energy Drink,1000,102.55,Retailer Scheme,Ahmedabad,86.5
+2025-10-01,Brand Q,BR901,Energy Drink,1500,151.81,10% Off,Ahmedabad,92.5
+2025-10-01,Brand M,BR902,CSD,250,23.67,Retailer Scheme,Ahmedabad,93.9
+2025-10-01,Brand N,BR903,Juice,330,22.15,None,Ahmedabad,75.6
+2025-10-01,Brand X,BR904,Water,330,6.01,Bundle,Bengaluru,87.4
+2025-10-01,Brand Y,BR905,Sports Drink,750,68.12,None,Bengaluru,91.2
+2025-10-01,Brand Z,BR906,CSD,750,60.75,None,Bengaluru,88.4
+2025-10-01,Brand Q,BR907,CSD,1500,117.4,Bundle,Bengaluru,97.4
+2025-10-01,Brand M,BR908,Water,1500,22.42,None,Bengaluru,82.2
+2025-10-01,Brand N,BR909,CSD,1000,75.25,None,Bengaluru,73.7
+2025-10-01,Brand X,BR910,Juice,330,26.1,Bundle,Hyderabad,93.7
+2025-10-01,Brand Y,BR911,Water,250,5.14,None,Hyderabad,84.2
+2025-10-01,Brand Z,BR912,CSD,1500,115.76,None,Hyderabad,75.7
+2025-10-01,Brand Q,BR913,Water,1500,19.97,None,Hyderabad,86.9
+2025-10-01,Brand M,BR914,Energy Drink,330,37.07,None,Hyderabad,96.6
+2025-10-01,Brand N,BR915,Energy Drink,250,27.88,Retailer Scheme,Hyderabad,79.2
+2025-10-01,Brand X,BR916,Water,1000,16.23,None,Chennai,99.0
+2025-10-01,Brand Y,BR917,CSD,750,57.22,None,Chennai,82.1
+2025-10-01,Brand Z,BR918,CSD,1500,113.42,None,Chennai,88.6
+2025-10-01,Brand Q,BR919,Energy Drink,750,77.2,Bundle,Chennai,79.5
+2025-10-01,Brand M,BR920,Juice,1000,65.02,10% Off,Chennai,88.3
+2025-10-01,Brand N,BR921,Juice,1000,68.46,None,Chennai,87.1
+2025-10-01,Brand X,BR922,Energy Drink,250,26.48,Retailer Scheme,Kolkata,77.6
+2025-10-01,Brand Y,BR923,CSD,250,21.54,None,Kolkata,99.0
+2025-10-01,Brand Z,BR924,Juice,1000,65.35,Bundle,Kolkata,84.5
+2025-10-01,Brand Q,BR925,CSD,330,25.6,None,Kolkata,84.5
+2025-10-01,Brand M,BR926,CSD,330,27.86,None,Kolkata,94.8
+2025-10-01,Brand N,BR927,Water,1000,13.53,None,Kolkata,99.0
+2025-10-01,Brand X,BR928,Water,330,5.03,Retailer Scheme,Bhubaneswar,95.9
+2025-10-01,Brand Y,BR929,Sports Drink,250,22.39,Bundle,Bhubaneswar,79.6
+2025-10-01,Brand Z,BR930,CSD,250,19.82,None,Bhubaneswar,89.5
+2025-10-01,Brand Q,BR931,Energy Drink,500,53.11,None,Bhubaneswar,74.8
+2025-10-01,Brand M,BR932,Juice,750,49.59,None,Bhubaneswar,94.3
+2025-10-01,Brand N,BR933,Juice,1000,66.81,None,Bhubaneswar,76.6
+2025-10-01,Brand X,BR934,Sports Drink,1500,130.94,None,Patna,82.4
+2025-10-01,Brand Y,BR935,Water,750,11.57,None,Patna,88.0
+2025-10-01,Brand Z,BR936,Water,1000,14.99,10% Off,Patna,91.1
+2025-10-01,Brand Q,BR937,CSD,330,26.0,None,Patna,86.2
+2025-10-01,Brand M,BR938,CSD,500,42.16,Bundle,Patna,98.6
+2025-10-01,Brand N,BR939,Energy Drink,330,35.07,None,Patna,93.1
+2025-11-01,Brand X,BR940,Water,250,4.43,None,Gurgaon,92.5
+2025-11-01,Brand Y,BR941,CSD,1500,117.02,None,Gurgaon,79.4
+2025-11-01,Brand Z,BR942,CSD,330,28.03,None,Gurgaon,99.0
+2025-11-01,Brand Q,BR943,Water,500,9.07,None,Gurgaon,82.4
+2025-11-01,Brand M,BR944,Juice,500,36.93,10% Off,Gurgaon,99.0
+2025-11-01,Brand N,BR945,CSD,250,19.04,None,Gurgaon,99.0
+2025-11-01,Brand X,BR946,Juice,1500,101.69,None,Delhi,91.6
+2025-11-01,Brand Y,BR947,Juice,330,24.84,Bundle,Delhi,95.2
+2025-11-01,Brand Z,BR948,Energy Drink,250,26.8,None,Delhi,66.4
+2025-11-01,Brand Q,BR949,CSD,500,38.78,None,Delhi,86.6
+2025-11-01,Brand M,BR950,Juice,250,16.77,10% Off,Delhi,95.7
+2025-11-01,Brand N,BR951,CSD,1500,117.21,None,Delhi,94.5
+2025-11-01,Brand X,BR952,CSD,330,25.46,None,Noida,79.5
+2025-11-01,Brand Y,BR953,Juice,330,22.75,Bundle,Noida,85.9
+2025-11-01,Brand Z,BR954,Juice,330,24.91,Retailer Scheme,Noida,70.2
+2025-11-01,Brand Q,BR955,CSD,250,22.3,None,Noida,90.9
+2025-11-01,Brand M,BR956,Energy Drink,250,25.8,None,Noida,74.8
+2025-11-01,Brand N,BR957,CSD,750,60.32,10% Off,Noida,95.9
+2025-11-01,Brand X,BR958,Juice,330,24.0,None,Chandigarh,96.3
+2025-11-01,Brand Y,BR959,Sports Drink,250,25.49,None,Chandigarh,84.7
+2025-11-01,Brand Z,BR960,Water,330,4.4,None,Chandigarh,91.6
+2025-11-01,Brand Q,BR961,Energy Drink,330,33.21,10% Off,Chandigarh,86.5
+2025-11-01,Brand M,BR962,Juice,500,35.68,None,Chandigarh,89.7
+2025-11-01,Brand N,BR963,Energy Drink,1500,150.75,None,Chandigarh,80.0
+2025-11-01,Brand X,BR964,Juice,330,24.07,None,Jaipur,92.4
+2025-11-01,Brand Y,BR965,Juice,1000,65.07,None,Jaipur,76.5
+2025-11-01,Brand Z,BR966,CSD,1000,78.9,Retailer Scheme,Jaipur,75.2
+2025-11-01,Brand Q,BR967,Juice,250,20.75,None,Jaipur,87.1
+2025-11-01,Brand M,BR968,CSD,750,60.44,None,Jaipur,86.5
+2025-11-01,Brand N,BR969,Sports Drink,500,47.29,Bundle,Jaipur,89.9
+2025-11-01,Brand X,BR970,CSD,750,60.77,None,Mumbai,83.5
+2025-11-01,Brand Y,BR971,CSD,330,26.97,None,Mumbai,99.0
+2025-11-01,Brand Z,BR972,Energy Drink,500,51.99,None,Mumbai,89.1
+2025-11-01,Brand Q,BR973,CSD,250,23.23,10% Off,Mumbai,89.6
+2025-11-01,Brand M,BR974,CSD,1500,117.13,10% Off,Mumbai,89.4
+2025-11-01,Brand N,BR975,Juice,750,53.61,10% Off,Mumbai,95.0
+2025-11-01,Brand X,BR976,CSD,250,22.59,None,Pune,92.0
+2025-11-01,Brand Y,BR977,CSD,750,57.26,None,Pune,91.1
+2025-11-01,Brand Z,BR978,Water,1500,22.72,None,Pune,93.2
+2025-11-01,Brand Q,BR979,CSD,1000,79.74,Retailer Scheme,Pune,75.2
+2025-11-01,Brand M,BR980,CSD,330,28.08,None,Pune,75.5
+2025-11-01,Brand N,BR981,CSD,1500,116.79,None,Pune,87.5
+2025-11-01,Brand X,BR982,CSD,330,27.56,10% Off,Ahmedabad,86.6
+2025-11-01,Brand Y,BR983,CSD,330,29.47,None,Ahmedabad,92.1
+2025-11-01,Brand Z,BR984,CSD,250,19.22,None,Ahmedabad,88.1
+2025-11-01,Brand Q,BR985,Juice,1500,101.82,None,Ahmedabad,92.1
+2025-11-01,Brand M,BR986,Juice,1000,65.28,None,Ahmedabad,79.3
+2025-11-01,Brand N,BR987,CSD,750,57.95,Retailer Scheme,Ahmedabad,87.9
+2025-11-01,Brand X,BR988,CSD,1000,75.68,None,Bengaluru,78.6
+2025-11-01,Brand Y,BR989,Energy Drink,330,35.4,Retailer Scheme,Bengaluru,90.7
+2025-11-01,Brand Z,BR990,Juice,250,17.41,None,Bengaluru,74.9
+2025-11-01,Brand Q,BR991,Water,1500,22.76,None,Bengaluru,90.4
+2025-11-01,Brand M,BR992,Water,1500,20.8,Bundle,Bengaluru,77.7
+2025-11-01,Brand N,BR993,CSD,250,23.24,Bundle,Bengaluru,85.3
+2025-11-01,Brand X,BR994,Energy Drink,250,26.39,None,Hyderabad,94.3
+2025-11-01,Brand Y,BR995,Sports Drink,750,63.88,10% Off,Hyderabad,89.6
+2025-11-01,Brand Z,BR996,Sports Drink,250,25.13,Bundle,Hyderabad,76.5
+2025-11-01,Brand Q,BR997,CSD,1000,78.51,10% Off,Hyderabad,83.3
+2025-11-01,Brand M,BR998,CSD,1500,115.23,None,Hyderabad,77.5
+2025-11-01,Brand N,BR999,CSD,330,28.83,None,Hyderabad,76.1
+2025-11-01,Brand X,BR100,CSD,330,28.95,None,Chennai,88.8
+2025-11-01,Brand Y,BR101,CSD,1500,115.44,None,Chennai,91.9
+2025-11-01,Brand Z,BR102,Juice,500,37.33,None,Chennai,91.1
+2025-11-01,Brand Q,BR103,CSD,330,28.35,None,Chennai,92.2
+2025-11-01,Brand M,BR104,Sports Drink,250,24.63,None,Chennai,87.9
+2025-11-01,Brand N,BR105,CSD,1500,114.31,None,Chennai,86.1
+2025-11-01,Brand X,BR106,CSD,1500,112.51,None,Kolkata,80.5
+2025-11-01,Brand Y,BR107,Energy Drink,250,26.2,None,Kolkata,84.9
+2025-11-01,Brand Z,BR108,Juice,1000,68.82,None,Kolkata,78.8
+2025-11-01,Brand Q,BR109,CSD,250,22.3,None,Kolkata,82.1
+2025-11-01,Brand M,BR110,Juice,250,17.91,Bundle,Kolkata,88.6
+2025-11-01,Brand N,BR111,CSD,500,40.63,None,Kolkata,87.2
+2025-11-01,Brand X,BR112,CSD,500,38.48,None,Bhubaneswar,99.0
+2025-11-01,Brand Y,BR113,Water,1500,19.32,None,Bhubaneswar,78.6
+2025-11-01,Brand Z,BR114,CSD,1000,79.74,None,Bhubaneswar,87.1
+2025-11-01,Brand Q,BR115,Juice,250,18.32,None,Bhubaneswar,78.0
+2025-11-01,Brand M,BR116,CSD,750,57.47,None,Bhubaneswar,85.3
+2025-11-01,Brand N,BR117,Juice,1500,99.94,None,Bhubaneswar,85.6
+2025-11-01,Brand X,BR118,Energy Drink,750,76.94,10% Off,Patna,93.9
+2025-11-01,Brand Y,BR119,CSD,330,28.4,None,Patna,84.9
+2025-11-01,Brand Z,BR120,CSD,250,23.56,None,Patna,86.7
+2025-11-01,Brand Q,BR121,Water,500,8.96,None,Patna,85.0
+2025-11-01,Brand M,BR122,Energy Drink,500,52.96,None,Patna,78.2
+2025-11-01,Brand N,BR123,Juice,500,34.32,None,Patna,83.4
+2025-12-01,Brand X,BR124,Juice,250,19.07,10% Off,Gurgaon,85.3
+2025-12-01,Brand Y,BR125,Water,250,4.6,None,Gurgaon,88.5
+2025-12-01,Brand Z,BR126,CSD,750,56.26,None,Gurgaon,91.9
+2025-12-01,Brand Q,BR127,Water,1500,22.33,None,Gurgaon,86.4
+2025-12-01,Brand M,BR128,CSD,750,58.4,None,Gurgaon,86.2
+2025-12-01,Brand N,BR129,Juice,500,34.96,10% Off,Gurgaon,76.0
+2025-12-01,Brand X,BR130,CSD,1500,112.92,None,Delhi,91.8
+2025-12-01,Brand Y,BR131,CSD,1000,79.19,None,Delhi,83.1
+2025-12-01,Brand Z,BR132,Water,1000,12.85,None,Delhi,93.2
+2025-12-01,Brand Q,BR133,Water,750,11.05,10% Off,Delhi,97.2
+2025-12-01,Brand M,BR134,Juice,1000,69.2,None,Delhi,86.7
+2025-12-01,Brand N,BR135,Water,750,11.29,Retailer Scheme,Delhi,80.8
+2025-12-01,Brand X,BR136,Sports Drink,750,68.41,Retailer Scheme,Noida,87.9
+2025-12-01,Brand Y,BR137,Energy Drink,750,76.05,Bundle,Noida,90.4
+2025-12-01,Brand Z,BR138,Energy Drink,1000,103.58,None,Noida,85.8
+2025-12-01,Brand Q,BR139,Juice,1500,102.39,10% Off,Noida,84.1
+2025-12-01,Brand M,BR140,Juice,330,24.2,None,Noida,91.9
+2025-12-01,Brand N,BR141,Juice,1000,68.46,Bundle,Noida,91.5
+2025-12-01,Brand X,BR142,Water,250,4.97,None,Chandigarh,85.6
+2025-12-01,Brand Y,BR143,CSD,750,60.01,None,Chandigarh,76.4
+2025-12-01,Brand Z,BR144,Juice,1500,102.04,None,Chandigarh,91.2
+2025-12-01,Brand Q,BR145,CSD,750,59.77,Bundle,Chandigarh,82.6
+2025-12-01,Brand M,BR146,CSD,330,29.43,Bundle,Chandigarh,89.5
+2025-12-01,Brand N,BR147,Energy Drink,750,77.94,None,Chandigarh,89.1
+2025-12-01,Brand X,BR148,CSD,500,40.39,None,Jaipur,74.8
+2025-12-01,Brand Y,BR149,Water,500,7.52,10% Off,Jaipur,88.6
+2025-12-01,Brand Z,BR150,Juice,330,25.0,Bundle,Jaipur,91.6
+2025-12-01,Brand Q,BR151,CSD,750,60.66,10% Off,Jaipur,92.5
+2025-12-01,Brand M,BR152,Energy Drink,330,36.23,None,Jaipur,88.8
+2025-12-01,Brand N,BR153,CSD,500,38.67,None,Jaipur,74.2
+2025-12-01,Brand X,BR154,Energy Drink,1500,152.72,Bundle,Mumbai,96.9
+2025-12-01,Brand Y,BR155,Energy Drink,1000,103.78,None,Mumbai,90.9
+2025-12-01,Brand Z,BR156,CSD,500,42.2,None,Mumbai,79.6
+2025-12-01,Brand Q,BR157,CSD,1500,113.28,None,Mumbai,82.5
+2025-12-01,Brand M,BR158,CSD,250,19.39,None,Mumbai,89.6
+2025-12-01,Brand N,BR159,Water,1500,20.06,10% Off,Mumbai,92.8
+2025-12-01,Brand X,BR160,CSD,500,38.13,None,Pune,84.6
+2025-12-01,Brand Y,BR161,Sports Drink,1000,89.9,None,Pune,93.8
+2025-12-01,Brand Z,BR162,CSD,1500,114.62,None,Pune,75.5
+2025-12-01,Brand Q,BR163,Energy Drink,750,77.67,Bundle,Pune,80.7
+2025-12-01,Brand M,BR164,CSD,750,57.39,Bundle,Pune,73.5
+2025-12-01,Brand N,BR165,Sports Drink,1000,87.25,None,Pune,81.7
+2025-12-01,Brand X,BR166,CSD,330,29.67,10% Off,Ahmedabad,98.6
+2025-12-01,Brand Y,BR167,Water,330,6.4,None,Ahmedabad,99.0
+2025-12-01,Brand Z,BR168,Water,500,6.04,Bundle,Ahmedabad,89.6
+2025-12-01,Brand Q,BR169,CSD,500,38.71,10% Off,Ahmedabad,83.5
+2025-12-01,Brand M,BR170,Energy Drink,1000,104.89,None,Ahmedabad,86.4
+2025-12-01,Brand N,BR171,CSD,330,29.7,Retailer Scheme,Ahmedabad,91.3
+2025-12-01,Brand X,BR172,Water,750,10.05,None,Bengaluru,77.1
+2025-12-01,Brand Y,BR173,Water,250,6.08,None,Bengaluru,84.0
+2025-12-01,Brand Z,BR174,Juice,250,16.63,None,Bengaluru,98.0
+2025-12-01,Brand Q,BR175,CSD,1500,115.39,10% Off,Bengaluru,80.7
+2025-12-01,Brand M,BR176,CSD,1500,113.13,None,Bengaluru,82.8
+2025-12-01,Brand N,BR177,CSD,1500,116.59,None,Bengaluru,88.1
+2025-12-01,Brand X,BR178,CSD,330,29.45,None,Hyderabad,90.0
+2025-12-01,Brand Y,BR179,CSD,750,57.11,Retailer Scheme,Hyderabad,83.6
+2025-12-01,Brand Z,BR180,Sports Drink,1000,87.31,None,Hyderabad,88.5
+2025-12-01,Brand Q,BR181,Water,330,4.47,None,Hyderabad,92.3
+2025-12-01,Brand M,BR182,Juice,1000,66.7,None,Hyderabad,99.0
+2025-12-01,Brand N,BR183,CSD,1000,75.33,Bundle,Hyderabad,87.1
+2025-12-01,Brand X,BR184,CSD,500,38.82,None,Chennai,87.7
+2025-12-01,Brand Y,BR185,Water,500,10.95,None,Chennai,98.7
+2025-12-01,Brand Z,BR186,CSD,330,24.97,Retailer Scheme,Chennai,84.2
+2025-12-01,Brand Q,BR187,CSD,1000,79.29,None,Chennai,78.7
+2025-12-01,Brand M,BR188,Water,1500,18.39,None,Chennai,89.8
+2025-12-01,Brand N,BR189,Water,1500,20.64,Bundle,Chennai,95.5
+2025-12-01,Brand X,BR190,Sports Drink,1000,87.26,None,Kolkata,90.5
+2025-12-01,Brand Y,BR191,CSD,500,42.16,None,Kolkata,87.3
+2025-12-01,Brand Z,BR192,Water,1000,13.0,None,Kolkata,77.9
+2025-12-01,Brand Q,BR193,CSD,330,25.65,Bundle,Kolkata,87.6
+2025-12-01,Brand M,BR194,CSD,1500,116.24,Retailer Scheme,Kolkata,96.6
+2025-12-01,Brand N,BR195,Juice,330,25.08,None,Kolkata,79.4
+2025-12-01,Brand X,BR196,CSD,500,41.0,None,Bhubaneswar,86.3
+2025-12-01,Brand Y,BR197,Juice,250,16.38,None,Bhubaneswar,85.3
+2025-12-01,Brand Z,BR198,Water,250,4.3,None,Bhubaneswar,83.1
+2025-12-01,Brand Q,BR199,CSD,500,41.7,None,Bhubaneswar,89.7
+2025-12-01,Brand M,BR200,Sports Drink,750,66.75,None,Bhubaneswar,91.1
+2025-12-01,Brand N,BR201,Water,250,6.01,None,Bhubaneswar,91.0
+2025-12-01,Brand X,BR202,Energy Drink,1500,151.48,10% Off,Patna,81.2
+2025-12-01,Brand Y,BR203,Water,250,4.3,None,Patna,76.5
+2025-12-01,Brand Z,BR204,Sports Drink,1500,132.23,None,Patna,89.8
+2025-12-01,Brand Q,BR205,CSD,330,28.39,None,Patna,84.5
+2025-12-01,Brand M,BR206,Water,500,6.63,None,Patna,99.0
+2025-12-01,Brand N,BR207,Juice,250,20.94,None,Patna,99.0
+2026-01-01,Brand X,BR208,CSD,1000,77.91,None,Gurgaon,99.0
+2026-01-01,Brand Y,BR209,CSD,1000,76.67,None,Gurgaon,81.4
+2026-01-01,Brand Z,BR210,Sports Drink,250,23.24,None,Gurgaon,92.0
+2026-01-01,Brand Q,BR211,Water,250,6.63,10% Off,Gurgaon,94.1
+2026-01-01,Brand M,BR212,Juice,750,50.63,Bundle,Gurgaon,93.3
+2026-01-01,Brand N,BR213,Juice,1500,100.39,10% Off,Gurgaon,85.5
+2026-01-01,Brand X,BR214,Energy Drink,250,28.55,None,Delhi,97.0
+2026-01-01,Brand Y,BR215,Energy Drink,330,33.98,Bundle,Delhi,88.0
+2026-01-01,Brand Z,BR216,Juice,750,53.47,None,Delhi,88.9
+2026-01-01,Brand Q,BR217,CSD,250,20.53,None,Delhi,77.2
+2026-01-01,Brand M,BR218,CSD,330,26.85,None,Delhi,92.5
+2026-01-01,Brand N,BR219,Juice,250,19.74,None,Delhi,86.2
+2026-01-01,Brand X,BR220,Energy Drink,500,53.04,None,Noida,91.3
+2026-01-01,Brand Y,BR221,Water,1000,14.2,None,Noida,89.6
+2026-01-01,Brand Z,BR222,CSD,500,40.75,10% Off,Noida,89.3
+2026-01-01,Brand Q,BR223,CSD,330,29.26,None,Noida,87.7
+2026-01-01,Brand M,BR224,Water,500,10.0,10% Off,Noida,93.5
+2026-01-01,Brand N,BR225,Energy Drink,750,79.12,Bundle,Noida,86.6
+2026-01-01,Brand X,BR226,CSD,250,20.04,None,Chandigarh,77.8
+2026-01-01,Brand Y,BR227,Juice,250,18.35,None,Chandigarh,92.0
+2026-01-01,Brand Z,BR228,Juice,330,24.22,None,Chandigarh,82.3
+2026-01-01,Brand Q,BR229,Sports Drink,1500,127.72,None,Chandigarh,78.7
+2026-01-01,Brand M,BR230,CSD,1000,78.85,Retailer Scheme,Chandigarh,80.8
+2026-01-01,Brand N,BR231,Sports Drink,250,22.87,10% Off,Chandigarh,90.0
+2026-01-01,Brand X,BR232,Juice,330,22.86,10% Off,Jaipur,87.3
+2026-01-01,Brand Y,BR233,Energy Drink,500,51.3,None,Jaipur,73.1
+2026-01-01,Brand Z,BR234,CSD,330,26.17,10% Off,Jaipur,85.3
+2026-01-01,Brand Q,BR235,Water,1500,19.69,10% Off,Jaipur,96.2
+2026-01-01,Brand M,BR236,Juice,1500,100.52,None,Jaipur,84.8
+2026-01-01,Brand N,BR237,CSD,330,27.67,None,Jaipur,86.8
+2026-01-01,Brand X,BR238,Water,250,4.28,None,Mumbai,95.3
+2026-01-01,Brand Y,BR239,Water,330,4.99,None,Mumbai,93.6
+2026-01-01,Brand Z,BR240,Water,750,13.13,Bundle,Mumbai,95.2
+2026-01-01,Brand Q,BR241,CSD,1000,75.46,None,Mumbai,68.6
+2026-01-01,Brand M,BR242,Water,500,8.56,None,Mumbai,99.0
+2026-01-01,Brand N,BR243,CSD,330,27.35,Retailer Scheme,Mumbai,92.5
+2026-01-01,Brand X,BR244,Sports Drink,330,30.92,None,Pune,99.0
+2026-01-01,Brand Y,BR245,Sports Drink,250,25.68,None,Pune,82.5
+2026-01-01,Brand Z,BR246,CSD,250,21.87,Bundle,Pune,75.7
+2026-01-01,Brand Q,BR247,CSD,500,42.37,Bundle,Pune,88.1
+2026-01-01,Brand M,BR248,CSD,750,60.61,10% Off,Pune,86.1
+2026-01-01,Brand N,BR249,Water,250,4.07,None,Pune,92.6
+2026-01-01,Brand X,BR250,Energy Drink,330,34.21,Retailer Scheme,Ahmedabad,95.5
+2026-01-01,Brand Y,BR251,Water,1500,19.72,10% Off,Ahmedabad,87.4
+2026-01-01,Brand Z,BR252,CSD,1500,114.46,10% Off,Ahmedabad,86.3
+2026-01-01,Brand Q,BR253,CSD,750,59.01,None,Ahmedabad,91.7
+2026-01-01,Brand M,BR254,CSD,750,57.41,None,Ahmedabad,86.2
+2026-01-01,Brand N,BR255,Energy Drink,750,76.11,Bundle,Ahmedabad,85.6
+2026-01-01,Brand X,BR256,Juice,500,34.41,Bundle,Bengaluru,95.3
+2026-01-01,Brand Y,BR257,Juice,330,24.81,None,Bengaluru,96.8
+2026-01-01,Brand Z,BR258,CSD,500,40.94,None,Bengaluru,95.6
+2026-01-01,Brand Q,BR259,Sports Drink,1000,89.88,10% Off,Bengaluru,86.8
+2026-01-01,Brand M,BR260,CSD,750,57.26,None,Bengaluru,73.0
+2026-01-01,Brand N,BR261,Energy Drink,1000,101.96,None,Bengaluru,87.0
+2026-01-01,Brand X,BR262,Energy Drink,750,79.82,None,Hyderabad,82.7
+2026-01-01,Brand Y,BR263,Water,250,6.45,None,Hyderabad,87.1
+2026-01-01,Brand Z,BR264,Energy Drink,750,77.96,10% Off,Hyderabad,83.3
+2026-01-01,Brand Q,BR265,CSD,1500,115.2,None,Hyderabad,87.9
+2026-01-01,Brand M,BR266,Juice,750,49.13,None,Hyderabad,80.7
+2026-01-01,Brand N,BR267,CSD,750,60.72,Bundle,Hyderabad,79.0
+2026-01-01,Brand X,BR268,Water,330,7.09,10% Off,Chennai,96.6
+2026-01-01,Brand Y,BR269,CSD,1000,77.86,None,Chennai,81.2
+2026-01-01,Brand Z,BR270,CSD,500,40.2,None,Chennai,88.0
+2026-01-01,Brand Q,BR271,CSD,330,26.71,10% Off,Chennai,94.7
+2026-01-01,Brand M,BR272,CSD,500,38.77,None,Chennai,94.4
+2026-01-01,Brand N,BR273,Juice,250,20.03,None,Chennai,93.6
+2026-01-01,Brand X,BR274,Water,1500,20.55,None,Kolkata,90.1
+2026-01-01,Brand Y,BR275,CSD,1000,75.17,None,Kolkata,93.1
+2026-01-01,Brand Z,BR276,Sports Drink,330,30.05,10% Off,Kolkata,97.6
+2026-01-01,Brand Q,BR277,Sports Drink,1000,89.64,None,Kolkata,91.0
+2026-01-01,Brand M,BR278,CSD,250,20.62,None,Kolkata,75.1
+2026-01-01,Brand N,BR279,Water,500,8.07,None,Kolkata,84.3
+2026-01-01,Brand X,BR280,Juice,750,51.87,None,Bhubaneswar,92.9
+2026-01-01,Brand Y,BR281,Juice,250,20.26,None,Bhubaneswar,83.6
+2026-01-01,Brand Z,BR282,CSD,1000,78.34,Bundle,Bhubaneswar,99.0
+2026-01-01,Brand Q,BR283,Juice,1000,69.25,None,Bhubaneswar,87.6
+2026-01-01,Brand M,BR284,CSD,750,56.82,None,Bhubaneswar,88.6
+2026-01-01,Brand N,BR285,CSD,330,29.37,None,Bhubaneswar,95.9
+2026-01-01,Brand X,BR286,Juice,1000,69.52,10% Off,Patna,86.7
+2026-01-01,Brand Y,BR287,Juice,500,35.1,None,Patna,89.2
+2026-01-01,Brand Z,BR288,Energy Drink,1000,103.12,Retailer Scheme,Patna,94.3
+2026-01-01,Brand Q,BR289,CSD,750,57.31,10% Off,Patna,77.7
+2026-01-01,Brand M,BR290,CSD,250,20.99,None,Patna,86.0
+2026-01-01,Brand N,BR291,CSD,250,19.76,10% Off,Patna,93.8
+2026-02-01,Brand X,BR292,CSD,250,18.86,None,Gurgaon,88.5
+2026-02-01,Brand Y,BR293,CSD,250,23.65,Retailer Scheme,Gurgaon,98.3
+2026-02-01,Brand Z,BR294,Water,330,5.26,Retailer Scheme,Gurgaon,77.0
+2026-02-01,Brand Q,BR295,Water,250,5.97,None,Gurgaon,76.2
+2026-02-01,Brand M,BR296,Juice,1500,99.0,None,Gurgaon,93.4
+2026-02-01,Brand N,BR297,Water,1500,19.85,None,Gurgaon,94.1
+2026-02-01,Brand X,BR298,CSD,330,26.74,None,Delhi,86.6
+2026-02-01,Brand Y,BR299,Juice,330,23.13,10% Off,Delhi,90.8
+2026-02-01,Brand Z,BR300,CSD,1000,78.19,Retailer Scheme,Delhi,93.2
+2026-02-01,Brand Q,BR301,Energy Drink,750,79.8,None,Delhi,82.3
+2026-02-01,Brand M,BR302,CSD,750,58.39,10% Off,Delhi,83.1
+2026-02-01,Brand N,BR303,Water,1500,22.87,10% Off,Delhi,89.3
+2026-02-01,Brand X,BR304,Energy Drink,750,78.34,None,Noida,94.3
+2026-02-01,Brand Y,BR305,Juice,1000,68.04,None,Noida,79.8
+2026-02-01,Brand Z,BR306,Juice,750,49.94,10% Off,Noida,86.6
+2026-02-01,Brand Q,BR307,Juice,750,49.06,10% Off,Noida,86.3
+2026-02-01,Brand M,BR308,CSD,330,29.01,Retailer Scheme,Noida,90.9
+2026-02-01,Brand N,BR309,Juice,750,51.62,None,Noida,87.9
+2026-02-01,Brand X,BR310,Energy Drink,1500,152.07,None,Chandigarh,84.2
+2026-02-01,Brand Y,BR311,Sports Drink,500,46.56,None,Chandigarh,96.7
+2026-02-01,Brand Z,BR312,Water,250,4.55,None,Chandigarh,84.2
+2026-02-01,Brand Q,BR313,CSD,750,60.17,None,Chandigarh,86.0
+2026-02-01,Brand M,BR314,Juice,1000,66.64,Bundle,Chandigarh,76.9
+2026-02-01,Brand N,BR315,Water,1500,22.6,None,Chandigarh,83.0
+2026-02-01,Brand X,BR316,CSD,750,57.59,10% Off,Jaipur,91.6
+2026-02-01,Brand Y,BR317,CSD,1000,75.69,None,Jaipur,90.2
+2026-02-01,Brand Z,BR318,CSD,330,28.24,None,Jaipur,92.2
+2026-02-01,Brand Q,BR319,Water,500,6.81,Bundle,Jaipur,91.9
+2026-02-01,Brand M,BR320,CSD,500,42.25,10% Off,Jaipur,99.0
+2026-02-01,Brand N,BR321,CSD,330,28.03,None,Jaipur,82.8
+2026-02-01,Brand X,BR322,CSD,1000,76.15,Bundle,Mumbai,76.7
+2026-02-01,Brand Y,BR323,Sports Drink,1500,128.54,None,Mumbai,80.6
+2026-02-01,Brand Z,BR324,CSD,330,29.37,None,Mumbai,83.1
+2026-02-01,Brand Q,BR325,CSD,250,21.79,None,Mumbai,81.2
+2026-02-01,Brand M,BR326,Water,1000,16.47,10% Off,Mumbai,88.7
+2026-02-01,Brand N,BR327,CSD,1500,113.05,None,Mumbai,96.8
+2026-02-01,Brand X,BR328,Sports Drink,1500,132.13,Bundle,Pune,98.8
+2026-02-01,Brand Y,BR329,Sports Drink,330,30.65,None,Pune,91.5
+2026-02-01,Brand Z,BR330,Water,1000,15.34,None,Pune,99.0
+2026-02-01,Brand Q,BR331,Water,1000,13.86,Bundle,Pune,85.5
+2026-02-01,Brand M,BR332,CSD,1000,75.3,None,Pune,76.6
+2026-02-01,Brand N,BR333,CSD,1000,79.79,None,Pune,95.4
+2026-02-01,Brand X,BR334,CSD,1500,117.47,None,Ahmedabad,75.1
+2026-02-01,Brand Y,BR335,CSD,500,39.32,None,Ahmedabad,82.7
+2026-02-01,Brand Z,BR336,CSD,250,23.47,None,Ahmedabad,91.6
+2026-02-01,Brand Q,BR337,Juice,330,22.29,None,Ahmedabad,87.3
+2026-02-01,Brand M,BR338,CSD,1500,113.27,None,Ahmedabad,86.7
+2026-02-01,Brand N,BR339,CSD,1500,112.87,None,Ahmedabad,79.7
+2026-02-01,Brand X,BR340,Water,250,4.96,None,Bengaluru,87.9
+2026-02-01,Brand Y,BR341,Water,500,6.26,None,Bengaluru,95.0
+2026-02-01,Brand Z,BR342,CSD,330,26.72,None,Bengaluru,88.1
+2026-02-01,Brand Q,BR343,CSD,330,25.44,None,Bengaluru,82.2
+2026-02-01,Brand M,BR344,CSD,750,59.9,10% Off,Bengaluru,79.3
+2026-02-01,Brand N,BR345,CSD,750,60.42,None,Bengaluru,82.3
+2026-02-01,Brand X,BR346,Energy Drink,500,53.44,None,Hyderabad,90.7
+2026-02-01,Brand Y,BR347,Sports Drink,500,43.5,None,Hyderabad,90.4
+2026-02-01,Brand Z,BR348,Water,750,12.83,None,Hyderabad,82.4
+2026-02-01,Brand Q,BR349,Water,1000,13.25,None,Hyderabad,72.5
+2026-02-01,Brand M,BR350,Juice,250,20.05,10% Off,Hyderabad,90.9
+2026-02-01,Brand N,BR351,Juice,250,19.09,None,Hyderabad,81.7
+2026-02-01,Brand X,BR352,CSD,500,39.33,None,Chennai,92.8
+2026-02-01,Brand Y,BR353,CSD,500,37.92,Retailer Scheme,Chennai,82.7
+2026-02-01,Brand Z,BR354,Water,1500,22.14,None,Chennai,81.1
+2026-02-01,Brand Q,BR355,Juice,1500,102.2,Bundle,Chennai,89.1
+2026-02-01,Brand M,BR356,CSD,750,59.58,Bundle,Chennai,99.0
+2026-02-01,Brand N,BR357,CSD,250,23.57,None,Chennai,93.2
+2026-02-01,Brand X,BR358,CSD,250,23.42,None,Kolkata,89.0
+2026-02-01,Brand Y,BR359,CSD,500,38.47,None,Kolkata,90.5
+2026-02-01,Brand Z,BR360,Water,750,12.66,Retailer Scheme,Kolkata,75.7
+2026-02-01,Brand Q,BR361,Juice,750,50.5,None,Kolkata,80.1
+2026-02-01,Brand M,BR362,Water,250,5.44,Bundle,Kolkata,70.4
+2026-02-01,Brand N,BR363,CSD,1500,113.28,None,Kolkata,99.0
+2026-02-01,Brand X,BR364,CSD,500,42.37,None,Bhubaneswar,98.7
+2026-02-01,Brand Y,BR365,Energy Drink,750,78.63,None,Bhubaneswar,90.7
+2026-02-01,Brand Z,BR366,Water,250,4.33,None,Bhubaneswar,88.9
+2026-02-01,Brand Q,BR367,CSD,1000,76.86,None,Bhubaneswar,77.1
+2026-02-01,Brand M,BR368,CSD,750,58.36,Retailer Scheme,Bhubaneswar,86.5
+2026-02-01,Brand N,BR369,Energy Drink,330,36.74,None,Bhubaneswar,99.0
+2026-02-01,Brand X,BR370,Juice,330,26.08,Retailer Scheme,Patna,88.9
+2026-02-01,Brand Y,BR371,Energy Drink,500,51.61,Retailer Scheme,Patna,84.0
+2026-02-01,Brand Z,BR372,Juice,250,18.61,None,Patna,75.7
+2026-02-01,Brand Q,BR373,Water,1500,20.97,None,Patna,97.7
+2026-02-01,Brand M,BR374,Water,1000,13.97,None,Patna,87.5
+2026-02-01,Brand N,BR375,CSD,1500,115.02,None,Patna,75.7
+2026-03-01,Brand X,BR376,Juice,500,33.03,Retailer Scheme,Gurgaon,81.5
+2026-03-01,Brand Y,BR377,Juice,750,49.59,Bundle,Gurgaon,79.1
+2026-03-01,Brand Z,BR378,CSD,500,39.51,Retailer Scheme,Gurgaon,87.1
+2026-03-01,Brand Q,BR379,Energy Drink,500,54.57,None,Gurgaon,89.5
+2026-03-01,Brand M,BR380,CSD,750,58.0,None,Gurgaon,84.5
+2026-03-01,Brand N,BR381,CSD,500,38.75,None,Gurgaon,93.4
+2026-03-01,Brand X,BR382,CSD,1000,78.71,Bundle,Delhi,88.6
+2026-03-01,Brand Y,BR383,Energy Drink,250,29.75,None,Delhi,95.4
+2026-03-01,Brand Z,BR384,Sports Drink,330,30.35,None,Delhi,85.5
+2026-03-01,Brand Q,BR385,Water,1500,18.04,None,Delhi,99.0
+2026-03-01,Brand M,BR386,Sports Drink,1500,130.94,None,Delhi,84.0
+2026-03-01,Brand N,BR387,Energy Drink,1000,102.08,None,Delhi,81.7
+2026-03-01,Brand X,BR388,Energy Drink,500,53.37,None,Noida,80.8
+2026-03-01,Brand Y,BR389,Energy Drink,500,51.39,Bundle,Noida,86.5
+2026-03-01,Brand Z,BR390,Water,250,3.01,10% Off,Noida,76.0
+2026-03-01,Brand Q,BR391,Juice,330,23.17,None,Noida,90.1
+2026-03-01,Brand M,BR392,Juice,1000,68.52,10% Off,Noida,74.7
+2026-03-01,Brand N,BR393,Juice,500,34.47,None,Noida,89.1
+2026-03-01,Brand X,BR394,CSD,500,38.6,10% Off,Chandigarh,78.5
+2026-03-01,Brand Y,BR395,Juice,250,18.57,None,Chandigarh,85.3
+2026-03-01,Brand Z,BR396,Sports Drink,500,46.26,None,Chandigarh,92.2
+2026-03-01,Brand Q,BR397,CSD,1000,75.6,None,Chandigarh,99.0
+2026-03-01,Brand M,BR398,Sports Drink,750,67.21,None,Chandigarh,80.5
+2026-03-01,Brand N,BR399,CSD,750,59.59,None,Chandigarh,86.9
+2026-03-01,Brand X,BR400,CSD,1500,114.35,10% Off,Jaipur,82.9
+2026-03-01,Brand Y,BR401,CSD,330,29.6,10% Off,Jaipur,81.9
+2026-03-01,Brand Z,BR402,Energy Drink,330,37.47,None,Jaipur,83.0
+2026-03-01,Brand Q,BR403,Water,750,10.58,None,Jaipur,93.8
+2026-03-01,Brand M,BR404,CSD,500,37.66,10% Off,Jaipur,84.6
+2026-03-01,Brand N,BR405,Juice,1500,99.04,None,Jaipur,99.0
+2026-03-01,Brand X,BR406,CSD,250,19.77,None,Mumbai,90.9
+2026-03-01,Brand Y,BR407,Water,250,5.74,None,Mumbai,80.9
+2026-03-01,Brand Z,BR408,Energy Drink,500,54.59,None,Mumbai,85.4
+2026-03-01,Brand Q,BR409,Juice,500,36.85,None,Mumbai,82.4
+2026-03-01,Brand M,BR410,Energy Drink,1500,151.53,None,Mumbai,93.6
+2026-03-01,Brand N,BR411,Juice,500,34.64,None,Mumbai,76.5
+2026-03-01,Brand X,BR412,Sports Drink,500,42.68,10% Off,Pune,78.6
+2026-03-01,Brand Y,BR413,CSD,330,27.47,10% Off,Pune,83.9
+2026-03-01,Brand Z,BR414,CSD,500,37.82,10% Off,Pune,92.8
+2026-03-01,Brand Q,BR415,CSD,750,60.94,None,Pune,96.6
+2026-03-01,Brand M,BR416,Water,750,13.33,Retailer Scheme,Pune,97.7
+2026-03-01,Brand N,BR417,Juice,750,49.82,10% Off,Pune,91.7
+2026-03-01,Brand X,BR418,Juice,500,36.0,None,Ahmedabad,87.4
+2026-03-01,Brand Y,BR419,CSD,250,21.59,None,Ahmedabad,93.6
+2026-03-01,Brand Z,BR420,CSD,250,22.76,None,Ahmedabad,80.0
+2026-03-01,Brand Q,BR421,Juice,250,18.63,None,Ahmedabad,75.1
+2026-03-01,Brand M,BR422,Sports Drink,750,64.71,10% Off,Ahmedabad,91.1
+2026-03-01,Brand N,BR423,CSD,1500,115.7,10% Off,Ahmedabad,81.0
+2026-03-01,Brand X,BR424,CSD,1500,112.9,Bundle,Bengaluru,87.5
+2026-03-01,Brand Y,BR425,CSD,330,27.67,Retailer Scheme,Bengaluru,88.8
+2026-03-01,Brand Z,BR426,Water,250,4.06,None,Bengaluru,89.7
+2026-03-01,Brand Q,BR427,CSD,750,59.67,Retailer Scheme,Bengaluru,94.6
+2026-03-01,Brand M,BR428,CSD,250,22.89,Bundle,Bengaluru,93.8
+2026-03-01,Brand N,BR429,Juice,750,49.3,None,Bengaluru,89.4
+2026-03-01,Brand X,BR430,CSD,500,39.5,None,Hyderabad,84.9
+2026-03-01,Brand Y,BR431,Water,1500,21.67,None,Hyderabad,88.8
+2026-03-01,Brand Z,BR432,CSD,750,57.07,None,Hyderabad,83.8
+2026-03-01,Brand Q,BR433,Sports Drink,1000,87.83,None,Hyderabad,86.6
+2026-03-01,Brand M,BR434,Water,500,9.36,None,Hyderabad,99.0
+2026-03-01,Brand N,BR435,CSD,1500,114.27,None,Hyderabad,89.3
+2026-03-01,Brand X,BR436,CSD,750,60.41,None,Chennai,91.2
+2026-03-01,Brand Y,BR437,Juice,750,51.3,None,Chennai,83.1
+2026-03-01,Brand Z,BR438,Energy Drink,500,53.13,10% Off,Chennai,95.1
+2026-03-01,Brand Q,BR439,CSD,500,38.2,Bundle,Chennai,93.3
+2026-03-01,Brand M,BR440,CSD,1500,112.62,Retailer Scheme,Chennai,93.4
+2026-03-01,Brand N,BR441,CSD,500,37.75,None,Chennai,89.5
+2026-03-01,Brand X,BR442,Juice,250,20.77,None,Kolkata,95.2
+2026-03-01,Brand Y,BR443,Sports Drink,500,46.91,Bundle,Kolkata,96.9
+2026-03-01,Brand Z,BR444,Water,500,10.04,None,Kolkata,90.0
+2026-03-01,Brand Q,BR445,CSD,500,38.5,Retailer Scheme,Kolkata,87.2
+2026-03-01,Brand M,BR446,Energy Drink,250,27.63,10% Off,Kolkata,94.3
+2026-03-01,Brand N,BR447,Juice,250,20.23,None,Kolkata,81.7
+2026-03-01,Brand X,BR448,CSD,330,28.12,None,Bhubaneswar,83.0
+2026-03-01,Brand Y,BR449,CSD,500,38.08,None,Bhubaneswar,87.6
+2026-03-01,Brand Z,BR450,CSD,250,23.23,None,Bhubaneswar,75.8
+2026-03-01,Brand Q,BR451,Energy Drink,500,50.8,None,Bhubaneswar,93.8
+2026-03-01,Brand M,BR452,Juice,330,22.31,Bundle,Bhubaneswar,81.3
+2026-03-01,Brand N,BR453,Juice,250,20.76,None,Bhubaneswar,84.7
+2026-03-01,Brand X,BR454,Energy Drink,330,35.42,None,Patna,86.5
+2026-03-01,Brand Y,BR455,CSD,330,26.61,None,Patna,88.3
+2026-03-01,Brand Z,BR456,CSD,250,21.52,None,Patna,85.6
+2026-03-01,Brand Q,BR457,CSD,1000,79.91,None,Patna,87.5
+2026-03-01,Brand M,BR458,Energy Drink,250,25.6,10% Off,Patna,87.6
+2026-03-01,Brand N,BR459,Juice,750,52.53,None,Patna,84.9
+2026-04-01,Brand X,BR460,CSD,750,57.92,Bundle,Gurgaon,82.6
+2026-04-01,Brand Y,BR461,CSD,1000,75.59,None,Gurgaon,95.6
+2026-04-01,Brand Z,BR462,Juice,750,50.86,None,Gurgaon,73.3
+2026-04-01,Brand Q,BR463,Juice,750,51.49,Bundle,Gurgaon,86.6
+2026-04-01,Brand M,BR464,Juice,1000,66.03,10% Off,Gurgaon,84.7
+2026-04-01,Brand N,BR465,CSD,1500,114.53,10% Off,Gurgaon,90.9
+2026-04-01,Brand X,BR466,Sports Drink,330,31.23,None,Delhi,77.8
+2026-04-01,Brand Y,BR467,Juice,1000,67.88,Bundle,Delhi,84.5
+2026-04-01,Brand Z,BR468,Juice,500,36.12,None,Delhi,87.3
+2026-04-01,Brand Q,BR469,Juice,250,20.43,None,Delhi,95.5
+2026-04-01,Brand M,BR470,Sports Drink,750,65.8,10% Off,Delhi,90.3
+2026-04-01,Brand N,BR471,Sports Drink,1500,129.61,None,Delhi,79.7
+2026-04-01,Brand X,BR472,Juice,250,18.73,Bundle,Noida,84.6
+2026-04-01,Brand Y,BR473,Water,250,5.83,None,Noida,94.2
+2026-04-01,Brand Z,BR474,CSD,1500,113.04,None,Noida,79.6
+2026-04-01,Brand Q,BR475,Energy Drink,750,76.56,None,Noida,87.4
+2026-04-01,Brand M,BR476,Juice,330,22.31,Bundle,Noida,87.9
+2026-04-01,Brand N,BR477,CSD,1000,76.93,10% Off,Noida,85.3
+2026-04-01,Brand X,BR478,CSD,500,42.37,None,Chandigarh,99.0
+2026-04-01,Brand Y,BR479,Sports Drink,330,30.96,None,Chandigarh,85.1
+2026-04-01,Brand Z,BR480,Energy Drink,330,35.15,None,Chandigarh,91.1
+2026-04-01,Brand Q,BR481,Sports Drink,750,66.58,None,Chandigarh,82.6
+2026-04-01,Brand M,BR482,Water,250,6.35,10% Off,Chandigarh,91.7
+2026-04-01,Brand N,BR483,Energy Drink,500,52.17,None,Chandigarh,94.1
+2026-04-01,Brand X,BR484,Energy Drink,330,35.24,None,Jaipur,83.9
+2026-04-01,Brand Y,BR485,CSD,250,22.26,None,Jaipur,87.6
+2026-04-01,Brand Z,BR486,CSD,1000,75.3,None,Jaipur,81.7
+2026-04-01,Brand Q,BR487,Sports Drink,250,23.95,10% Off,Jaipur,80.0
+2026-04-01,Brand M,BR488,CSD,1500,115.24,10% Off,Jaipur,95.3
+2026-04-01,Brand N,BR489,Juice,250,20.03,None,Jaipur,84.1
+2026-04-01,Brand X,BR490,Juice,500,37.41,Retailer Scheme,Mumbai,71.1
+2026-04-01,Brand Y,BR491,Juice,250,20.23,None,Mumbai,99.0
+2026-04-01,Brand Z,BR492,CSD,500,40.02,Bundle,Mumbai,82.4
+2026-04-01,Brand Q,BR493,Juice,750,49.6,None,Mumbai,86.3
+2026-04-01,Brand M,BR494,CSD,250,21.69,None,Mumbai,99.0
+2026-04-01,Brand N,BR495,Energy Drink,750,79.17,Bundle,Mumbai,87.0
+2026-04-01,Brand X,BR496,CSD,1000,79.66,None,Pune,86.9
+2026-04-01,Brand Y,BR497,Juice,500,36.63,10% Off,Pune,79.4
+2026-04-01,Brand Z,BR498,Energy Drink,250,25.94,None,Pune,76.6
+2026-04-01,Brand Q,BR499,CSD,1000,78.56,None,Pune,86.8
+2026-04-01,Brand M,BR500,CSD,330,29.15,Bundle,Pune,90.5
+2026-04-01,Brand N,BR501,Energy Drink,250,28.41,None,Pune,90.1
+2026-04-01,Brand X,BR502,CSD,500,40.93,None,Ahmedabad,84.6
+2026-04-01,Brand Y,BR503,CSD,330,27.25,None,Ahmedabad,88.1
+2026-04-01,Brand Z,BR504,Water,250,6.18,None,Ahmedabad,75.1
+2026-04-01,Brand Q,BR505,Sports Drink,1000,86.47,Bundle,Ahmedabad,91.2
+2026-04-01,Brand M,BR506,Juice,750,49.19,None,Ahmedabad,89.1
+2026-04-01,Brand N,BR507,Water,1500,22.14,Bundle,Ahmedabad,99.0
+2026-04-01,Brand X,BR508,Sports Drink,500,47.22,None,Bengaluru,88.1
+2026-04-01,Brand Y,BR509,Water,500,10.28,None,Bengaluru,81.4
+2026-04-01,Brand Z,BR510,Water,1500,19.67,None,Bengaluru,87.6
+2026-04-01,Brand Q,BR511,Water,250,3.47,None,Bengaluru,85.7
+2026-04-01,Brand M,BR512,CSD,500,38.9,10% Off,Bengaluru,91.0
+2026-04-01,Brand N,BR513,CSD,1000,79.21,None,Bengaluru,88.2
+2026-04-01,Brand X,BR514,Juice,330,24.73,None,Hyderabad,79.2
+2026-04-01,Brand Y,BR515,CSD,1500,117.33,Bundle,Hyderabad,76.5
+2026-04-01,Brand Z,BR516,Juice,330,23.16,None,Hyderabad,89.8
+2026-04-01,Brand Q,BR517,CSD,500,40.26,None,Hyderabad,97.7
+2026-04-01,Brand M,BR518,Water,1500,21.95,10% Off,Hyderabad,88.6
+2026-04-01,Brand N,BR519,CSD,330,25.92,None,Hyderabad,93.7
+2026-04-01,Brand X,BR520,Water,1500,22.82,Bundle,Chennai,95.1
+2026-04-01,Brand Y,BR521,Juice,250,19.21,10% Off,Chennai,89.9
+2026-04-01,Brand Z,BR522,CSD,330,24.79,None,Chennai,82.3
+2026-04-01,Brand Q,BR523,CSD,750,56.38,None,Chennai,89.4
+2026-04-01,Brand M,BR524,CSD,750,60.66,None,Chennai,96.4
+2026-04-01,Brand N,BR525,Energy Drink,1500,153.23,10% Off,Chennai,91.7
+2026-04-01,Brand X,BR526,CSD,1500,116.32,None,Kolkata,93.2
+2026-04-01,Brand Y,BR527,Energy Drink,1000,103.92,10% Off,Kolkata,84.8
+2026-04-01,Brand Z,BR528,CSD,750,58.35,None,Kolkata,86.6
+2026-04-01,Brand Q,BR529,CSD,330,28.74,None,Kolkata,87.2
+2026-04-01,Brand M,BR530,Juice,1000,69.69,None,Kolkata,87.6
+2026-04-01,Brand N,BR531,Water,750,9.86,None,Kolkata,96.2
+2026-04-01,Brand X,BR532,CSD,250,22.57,None,Bhubaneswar,71.6
+2026-04-01,Brand Y,BR533,Sports Drink,1000,86.54,None,Bhubaneswar,88.2
+2026-04-01,Brand Z,BR534,CSD,500,39.11,Retailer Scheme,Bhubaneswar,87.4
+2026-04-01,Brand Q,BR535,CSD,500,39.56,None,Bhubaneswar,78.4
+2026-04-01,Brand M,BR536,Water,500,10.32,10% Off,Bhubaneswar,92.7
+2026-04-01,Brand N,BR537,Water,1000,12.11,None,Bhubaneswar,82.9
+2026-04-01,Brand X,BR538,Energy Drink,330,35.17,10% Off,Patna,85.5
+2026-04-01,Brand Y,BR539,CSD,500,40.9,None,Patna,99.0
+2026-04-01,Brand Z,BR540,Sports Drink,250,21.8,10% Off,Patna,95.1
+2026-04-01,Brand Q,BR541,Juice,500,36.46,None,Patna,92.0
+2026-04-01,Brand M,BR542,Sports Drink,250,25.96,None,Patna,90.7
+2026-04-01,Brand N,BR543,Energy Drink,750,75.45,None,Patna,86.8
+2026-05-01,Brand X,BR544,Sports Drink,1500,128.26,None,Gurgaon,99.0
+2026-05-01,Brand Y,BR545,Juice,500,37.37,None,Gurgaon,93.6
+2026-05-01,Brand Z,BR546,CSD,1500,113.49,None,Gurgaon,82.8
+2026-05-01,Brand Q,BR547,Water,1500,18.39,Retailer Scheme,Gurgaon,78.2
+2026-05-01,Brand M,BR548,Juice,250,21.01,None,Gurgaon,92.0
+2026-05-01,Brand N,BR549,Water,750,13.46,None,Gurgaon,87.6
+2026-05-01,Brand X,BR550,Juice,750,52.03,Bundle,Delhi,78.0
+2026-05-01,Brand Y,BR551,CSD,500,40.26,10% Off,Delhi,91.0
+2026-05-01,Brand Z,BR552,Energy Drink,1000,104.6,None,Delhi,86.1
+2026-05-01,Brand Q,BR553,CSD,500,40.78,None,Delhi,91.7
+2026-05-01,Brand M,BR554,Sports Drink,250,24.54,None,Delhi,91.1
+2026-05-01,Brand N,BR555,CSD,750,60.47,None,Delhi,83.7
+2026-05-01,Brand X,BR556,CSD,330,28.02,None,Noida,92.4
+2026-05-01,Brand Y,BR557,Energy Drink,500,52.52,10% Off,Noida,84.5
+2026-05-01,Brand Z,BR558,Energy Drink,750,76.95,Bundle,Noida,85.0
+2026-05-01,Brand Q,BR559,Juice,1000,67.52,None,Noida,84.3
+2026-05-01,Brand M,BR560,Sports Drink,330,30.66,None,Noida,95.9
+2026-05-01,Brand N,BR561,CSD,500,39.3,None,Noida,86.0
+2026-05-01,Brand X,BR562,Energy Drink,250,27.24,None,Chandigarh,97.6
+2026-05-01,Brand Y,BR563,CSD,500,41.51,None,Chandigarh,99.0
+2026-05-01,Brand Z,BR564,Water,750,11.08,None,Chandigarh,82.8
+2026-05-01,Brand Q,BR565,Water,750,9.13,None,Chandigarh,67.6
+2026-05-01,Brand M,BR566,CSD,330,26.17,Retailer Scheme,Chandigarh,95.3
+2026-05-01,Brand N,BR567,Juice,250,17.41,None,Chandigarh,85.6
+2026-05-01,Brand X,BR568,Juice,750,52.72,None,Jaipur,81.9
+2026-05-01,Brand Y,BR569,CSD,750,58.5,None,Jaipur,83.9
+2026-05-01,Brand Z,BR570,Sports Drink,250,22.65,None,Jaipur,85.1
+2026-05-01,Brand Q,BR571,Water,750,13.05,None,Jaipur,97.1
+2026-05-01,Brand M,BR572,CSD,250,18.85,None,Jaipur,89.1
+2026-05-01,Brand N,BR573,Juice,500,33.37,None,Jaipur,97.0
+2026-05-01,Brand X,BR574,CSD,750,60.38,10% Off,Mumbai,91.5
+2026-05-01,Brand Y,BR575,CSD,1000,77.75,Retailer Scheme,Mumbai,85.8
+2026-05-01,Brand Z,BR576,Juice,1000,68.87,None,Mumbai,85.3
+2026-05-01,Brand Q,BR577,CSD,1000,79.19,None,Mumbai,91.9
+2026-05-01,Brand M,BR578,CSD,330,29.46,None,Mumbai,93.7
+2026-05-01,Brand N,BR579,Juice,1500,97.82,None,Mumbai,95.0
+2026-05-01,Brand X,BR580,CSD,500,41.5,Retailer Scheme,Pune,86.2
+2026-05-01,Brand Y,BR581,Energy Drink,500,53.54,None,Pune,89.2
+2026-05-01,Brand Z,BR582,Energy Drink,1000,101.04,10% Off,Pune,92.1
+2026-05-01,Brand Q,BR583,CSD,330,29.41,Bundle,Pune,85.3
+2026-05-01,Brand M,BR584,Water,250,5.02,None,Pune,80.1
+2026-05-01,Brand N,BR585,CSD,1000,79.44,None,Pune,82.4
+2026-05-01,Brand X,BR586,Juice,750,51.78,None,Ahmedabad,86.3
+2026-05-01,Brand Y,BR587,CSD,750,58.88,None,Ahmedabad,92.6
+2026-05-01,Brand Z,BR588,Sports Drink,250,22.05,None,Ahmedabad,96.8
+2026-05-01,Brand Q,BR589,CSD,750,60.82,Retailer Scheme,Ahmedabad,78.5
+2026-05-01,Brand M,BR590,Juice,330,24.23,None,Ahmedabad,83.8
+2026-05-01,Brand N,BR591,CSD,750,56.28,None,Ahmedabad,85.5
+2026-05-01,Brand X,BR592,CSD,750,56.34,None,Bengaluru,93.6
+2026-05-01,Brand Y,BR593,Water,1000,15.89,None,Bengaluru,84.3
+2026-05-01,Brand Z,BR594,Juice,1500,98.31,None,Bengaluru,85.0
+2026-05-01,Brand Q,BR595,Sports Drink,330,31.04,10% Off,Bengaluru,78.1
+2026-05-01,Brand M,BR596,CSD,250,22.16,None,Bengaluru,91.4
+2026-05-01,Brand N,BR597,CSD,750,57.65,None,Bengaluru,86.9
+2026-05-01,Brand X,BR598,CSD,1500,115.35,None,Hyderabad,83.4
+2026-05-01,Brand Y,BR599,CSD,250,19.95,None,Hyderabad,86.2
+2026-05-01,Brand Z,BR600,Energy Drink,500,54.73,None,Hyderabad,95.9
+2026-05-01,Brand Q,BR601,Sports Drink,500,46.8,10% Off,Hyderabad,81.0
+2026-05-01,Brand M,BR602,Energy Drink,330,34.44,None,Hyderabad,82.1
+2026-05-01,Brand N,BR603,CSD,750,58.89,Bundle,Hyderabad,96.8
+2026-05-01,Brand X,BR604,Water,330,6.46,10% Off,Chennai,88.5
+2026-05-01,Brand Y,BR605,Juice,500,37.3,None,Chennai,92.7
+2026-05-01,Brand Z,BR606,CSD,1500,114.47,None,Chennai,90.8
+2026-05-01,Brand Q,BR607,Juice,500,35.31,10% Off,Chennai,87.8
+2026-05-01,Brand M,BR608,CSD,250,23.39,Retailer Scheme,Chennai,85.6
+2026-05-01,Brand N,BR609,CSD,1500,113.31,None,Chennai,93.8
+2026-05-01,Brand X,BR610,Energy Drink,330,35.75,None,Kolkata,96.1
+2026-05-01,Brand Y,BR611,CSD,1000,75.53,None,Kolkata,95.6
+2026-05-01,Brand Z,BR612,Sports Drink,1000,88.09,10% Off,Kolkata,79.7
+2026-05-01,Brand Q,BR613,CSD,750,58.08,Bundle,Kolkata,97.1
+2026-05-01,Brand M,BR614,CSD,250,23.59,Bundle,Kolkata,85.5
+2026-05-01,Brand N,BR615,CSD,1500,114.58,None,Kolkata,82.7
+2026-05-01,Brand X,BR616,CSD,1000,75.68,None,Bhubaneswar,86.8
+2026-05-01,Brand Y,BR617,Water,500,10.17,10% Off,Bhubaneswar,93.8
+2026-05-01,Brand Z,BR618,CSD,1500,116.6,None,Bhubaneswar,91.8
+2026-05-01,Brand Q,BR619,Juice,1000,68.47,Bundle,Bhubaneswar,86.2
+2026-05-01,Brand M,BR620,Energy Drink,1000,103.74,None,Bhubaneswar,93.9
+2026-05-01,Brand N,BR621,CSD,330,26.07,Bundle,Bhubaneswar,89.0
+2026-05-01,Brand X,BR622,CSD,750,59.46,10% Off,Patna,84.0
+2026-05-01,Brand Y,BR623,Water,330,4.15,None,Patna,83.0
+2026-05-01,Brand Z,BR624,Energy Drink,250,25.98,None,Patna,90.9
+2026-05-01,Brand Q,BR625,Juice,500,37.16,10% Off,Patna,87.4
+2026-05-01,Brand M,BR626,CSD,250,22.45,None,Patna,78.4
+2026-05-01,Brand N,BR627,Water,250,4.15,10% Off,Patna,93.9
+2026-06-01,Brand X,BR628,Water,1000,12.56,None,Gurgaon,84.6
+2026-06-01,Brand Y,BR629,CSD,750,60.99,None,Gurgaon,99.0
+2026-06-01,Brand Z,BR630,CSD,500,38.06,None,Gurgaon,78.2
+2026-06-01,Brand Q,BR631,Sports Drink,330,29.34,Retailer Scheme,Gurgaon,86.7
+2026-06-01,Brand M,BR632,CSD,1000,75.91,10% Off,Gurgaon,83.1
+2026-06-01,Brand N,BR633,CSD,750,56.29,10% Off,Gurgaon,81.2
+2026-06-01,Brand X,BR634,CSD,750,57.82,10% Off,Delhi,84.6
+2026-06-01,Brand Y,BR635,Juice,330,26.32,None,Delhi,99.0
+2026-06-01,Brand Z,BR636,Water,250,4.71,Retailer Scheme,Delhi,89.0
+2026-06-01,Brand Q,BR637,CSD,250,21.27,None,Delhi,82.5
+2026-06-01,Brand M,BR638,Water,250,6.73,None,Delhi,75.2
+2026-06-01,Brand N,BR639,Juice,1500,100.26,None,Delhi,76.0
+2026-06-01,Brand X,BR640,CSD,500,41.22,None,Noida,84.2
+2026-06-01,Brand Y,BR641,Sports Drink,750,67.06,10% Off,Noida,83.6
+2026-06-01,Brand Z,BR642,CSD,1500,115.54,None,Noida,86.4
+2026-06-01,Brand Q,BR643,CSD,1500,115.75,10% Off,Noida,72.1
+2026-06-01,Brand M,BR644,Sports Drink,330,32.05,Retailer Scheme,Noida,87.4
+2026-06-01,Brand N,BR645,Energy Drink,500,53.55,None,Noida,95.2
+2026-06-01,Brand X,BR646,CSD,500,41.46,None,Chandigarh,99.0
+2026-06-01,Brand Y,BR647,Energy Drink,250,25.73,10% Off,Chandigarh,74.7
+2026-06-01,Brand Z,BR648,Water,1000,15.39,None,Chandigarh,82.4
+2026-06-01,Brand Q,BR649,CSD,750,59.94,10% Off,Chandigarh,82.0
+2026-06-01,Brand M,BR650,Energy Drink,500,51.5,None,Chandigarh,89.0
+2026-06-01,Brand N,BR651,Juice,750,53.12,None,Chandigarh,79.5
+2026-06-01,Brand X,BR652,CSD,1000,76.52,None,Jaipur,99.0
+2026-06-01,Brand Y,BR653,Juice,250,17.47,None,Jaipur,88.3
+2026-06-01,Brand Z,BR654,CSD,750,60.59,None,Jaipur,87.1
+2026-06-01,Brand Q,BR655,CSD,1500,113.74,None,Jaipur,99.0
+2026-06-01,Brand M,BR656,Sports Drink,1000,87.08,None,Jaipur,87.9
+2026-06-01,Brand N,BR657,Water,750,10.84,Bundle,Jaipur,90.8
+2026-06-01,Brand X,BR658,Juice,250,20.74,None,Mumbai,82.7
+2026-06-01,Brand Y,BR659,Juice,1000,67.28,None,Mumbai,78.4
+2026-06-01,Brand Z,BR660,Water,1000,15.47,None,Mumbai,83.7
+2026-06-01,Brand Q,BR661,CSD,500,41.47,None,Mumbai,99.0
+2026-06-01,Brand M,BR662,Sports Drink,750,66.89,None,Mumbai,92.4
+2026-06-01,Brand N,BR663,Juice,750,53.47,10% Off,Mumbai,89.9
+2026-06-01,Brand X,BR664,Juice,250,20.26,None,Pune,81.2
+2026-06-01,Brand Y,BR665,Water,330,5.96,10% Off,Pune,94.4
+2026-06-01,Brand Z,BR666,CSD,1000,79.75,None,Pune,78.5
+2026-06-01,Brand Q,BR667,CSD,1500,115.12,None,Pune,77.0
+2026-06-01,Brand M,BR668,CSD,330,24.86,None,Pune,84.1
+2026-06-01,Brand N,BR669,CSD,500,38.8,10% Off,Pune,99.0
+2026-06-01,Brand X,BR670,Juice,1500,100.61,Retailer Scheme,Ahmedabad,99.0
+2026-06-01,Brand Y,BR671,Energy Drink,250,25.78,None,Ahmedabad,84.8
+2026-06-01,Brand Z,BR672,CSD,330,27.67,Retailer Scheme,Ahmedabad,83.3
+2026-06-01,Brand Q,BR673,CSD,250,20.56,None,Ahmedabad,76.5
+2026-06-01,Brand M,BR674,Juice,330,24.12,None,Ahmedabad,88.5
+2026-06-01,Brand N,BR675,CSD,750,56.26,10% Off,Ahmedabad,89.1
+2026-06-01,Brand X,BR676,Sports Drink,500,46.74,None,Bengaluru,93.5
+2026-06-01,Brand Y,BR677,CSD,1500,114.31,None,Bengaluru,94.4
+2026-06-01,Brand Z,BR678,CSD,1500,113.2,None,Bengaluru,86.6
+2026-06-01,Brand Q,BR679,CSD,1500,114.69,10% Off,Bengaluru,91.9
+2026-06-01,Brand M,BR680,Sports Drink,1000,87.43,None,Bengaluru,83.1
+2026-06-01,Brand N,BR681,CSD,1000,78.19,Bundle,Bengaluru,91.8
+2026-06-01,Brand X,BR682,Juice,750,51.37,None,Hyderabad,84.4
+2026-06-01,Brand Y,BR683,CSD,1500,112.72,Retailer Scheme,Hyderabad,91.2
+2026-06-01,Brand Z,BR684,CSD,250,23.11,None,Hyderabad,90.6
+2026-06-01,Brand Q,BR685,Energy Drink,1000,102.28,None,Hyderabad,88.5
+2026-06-01,Brand M,BR686,CSD,250,19.13,None,Hyderabad,93.6
+2026-06-01,Brand N,BR687,CSD,500,41.36,None,Hyderabad,77.0
+2026-06-01,Brand X,BR688,Water,330,7.26,None,Chennai,80.5
+2026-06-01,Brand Y,BR689,Energy Drink,750,78.25,10% Off,Chennai,86.1
+2026-06-01,Brand Z,BR690,CSD,1000,77.13,None,Chennai,77.9
+2026-06-01,Brand Q,BR691,CSD,250,20.8,None,Chennai,85.2
+2026-06-01,Brand M,BR692,Sports Drink,750,66.43,Retailer Scheme,Chennai,85.4
+2026-06-01,Brand N,BR693,Juice,330,21.7,None,Chennai,97.2
+2026-06-01,Brand X,BR694,Energy Drink,250,26.49,None,Kolkata,89.0
+2026-06-01,Brand Y,BR695,Juice,500,37.44,None,Kolkata,95.2
+2026-06-01,Brand Z,BR696,Juice,750,52.06,None,Kolkata,90.1
+2026-06-01,Brand Q,BR697,Water,330,6.05,None,Kolkata,84.3
+2026-06-01,Brand M,BR698,CSD,500,38.61,10% Off,Kolkata,88.9
+2026-06-01,Brand N,BR699,Juice,1500,101.23,None,Kolkata,93.1
+2026-06-01,Brand X,BR700,Juice,500,33.8,None,Bhubaneswar,96.4
+2026-06-01,Brand Y,BR701,Sports Drink,1500,128.31,None,Bhubaneswar,87.1
+2026-06-01,Brand Z,BR702,Juice,1500,98.27,None,Bhubaneswar,76.5
+2026-06-01,Brand Q,BR703,CSD,500,41.15,None,Bhubaneswar,76.0
+2026-06-01,Brand M,BR704,Water,750,12.21,Retailer Scheme,Bhubaneswar,85.7
+2026-06-01,Brand N,BR705,Juice,1000,65.35,None,Bhubaneswar,71.6
+2026-06-01,Brand X,BR706,Water,500,6.58,None,Patna,99.0
+2026-06-01,Brand Y,BR707,Energy Drink,500,53.17,Bundle,Patna,92.2
+2026-06-01,Brand Z,BR708,Juice,330,24.31,10% Off,Patna,83.6
+2026-06-01,Brand Q,BR709,CSD,250,22.18,10% Off,Patna,80.2
+2026-06-01,Brand M,BR710,Juice,250,17.14,10% Off,Patna,95.2
+2026-06-01,Brand N,BR711,Juice,500,36.13,None,Patna,80.2
+2026-07-01,Brand X,BR712,Sports Drink,1000,83.4,None,Gurgaon,85.9
+2026-07-01,Brand Y,BR713,Water,330,6.48,10% Off,Gurgaon,87.6
+2026-07-01,Brand Z,BR714,Juice,330,20.86,10% Off,Gurgaon,93.8
+2026-07-01,Brand Q,BR715,Water,330,6.84,10% Off,Gurgaon,97.3
+2026-07-01,Brand M,BR716,Water,750,9.97,None,Gurgaon,99.0
+2026-07-01,Brand N,BR717,CSD,330,23.25,Bundle,Gurgaon,99.0
+2026-07-01,Brand X,BR718,Energy Drink,330,34.51,None,Delhi,88.0
+2026-07-01,Brand Y,BR719,Sports Drink,250,25.78,None,Delhi,95.1
+2026-07-01,Brand Z,BR720,Water,330,6.02,None,Delhi,83.3
+2026-07-01,Brand Q,BR721,Water,330,8.28,None,Delhi,75.3
+2026-07-01,Brand M,BR722,CSD,1000,77.54,10% Off,Delhi,83.3
+2026-07-01,Brand N,BR723,Juice,1500,100.08,None,Delhi,82.4
+2026-07-01,Brand X,BR724,Water,500,6.03,10% Off,Noida,83.6
+2026-07-01,Brand Y,BR725,Juice,250,19.44,None,Noida,81.3
+2026-07-01,Brand Z,BR726,CSD,250,19.29,None,Noida,84.8
+2026-07-01,Brand Q,BR727,Juice,330,23.84,None,Noida,92.3
+2026-07-01,Brand M,BR728,CSD,500,38.8,None,Noida,99.0
+2026-07-01,Brand N,BR729,Juice,750,50.71,10% Off,Noida,75.9
+2026-07-01,Brand X,BR730,Juice,330,24.14,None,Chandigarh,79.0
+2026-07-01,Brand Y,BR731,CSD,500,37.57,None,Chandigarh,82.5
+2026-07-01,Brand Z,BR732,Water,330,5.38,None,Chandigarh,93.4
+2026-07-01,Brand Q,BR733,Energy Drink,750,79.95,None,Chandigarh,86.6
+2026-07-01,Brand M,BR734,Juice,1000,65.29,None,Chandigarh,82.9
+2026-07-01,Brand N,BR735,CSD,250,20.35,Retailer Scheme,Chandigarh,93.0
+2026-07-01,Brand X,BR736,Water,500,7.61,None,Jaipur,94.7
+2026-07-01,Brand Y,BR737,CSD,750,58.15,None,Jaipur,87.9
+2026-07-01,Brand Z,BR738,Juice,1000,68.42,Bundle,Jaipur,82.3
+2026-07-01,Brand Q,BR739,Juice,750,49.99,10% Off,Jaipur,89.9
+2026-07-01,Brand M,BR740,CSD,750,58.55,None,Jaipur,86.4
+2026-07-01,Brand N,BR741,Juice,1000,68.22,None,Jaipur,86.3
+2026-07-01,Brand X,BR742,Juice,500,34.11,Retailer Scheme,Mumbai,84.4
+2026-07-01,Brand Y,BR743,Energy Drink,750,79.74,None,Mumbai,94.5
+2026-07-01,Brand Z,BR744,CSD,330,29.65,None,Mumbai,89.7
+2026-07-01,Brand Q,BR745,CSD,500,38.1,Bundle,Mumbai,95.2
+2026-07-01,Brand M,BR746,Water,250,4.72,10% Off,Mumbai,97.4
+2026-07-01,Brand N,BR747,CSD,500,38.54,Retailer Scheme,Mumbai,91.2
+2026-07-01,Brand X,BR748,Water,250,3.93,None,Pune,84.5
+2026-07-01,Brand Y,BR749,CSD,330,27.2,Retailer Scheme,Pune,95.3
+2026-07-01,Brand Z,BR750,CSD,500,40.32,None,Pune,91.3
+2026-07-01,Brand Q,BR751,Juice,750,50.88,10% Off,Pune,99.0
+2026-07-01,Brand M,BR752,CSD,1500,113.86,Bundle,Pune,90.2
+2026-07-01,Brand N,BR753,Juice,250,17.64,None,Pune,92.9
+2026-07-01,Brand X,BR754,CSD,1500,117.46,None,Ahmedabad,90.0
+2026-07-01,Brand Y,BR755,Juice,330,26.07,None,Ahmedabad,87.3
+2026-07-01,Brand Z,BR756,Water,1000,12.38,Bundle,Ahmedabad,86.2
+2026-07-01,Brand Q,BR757,Energy Drink,1000,103.28,None,Ahmedabad,90.1
+2026-07-01,Brand M,BR758,Energy Drink,1500,152.28,Bundle,Ahmedabad,91.6
+2026-07-01,Brand N,BR759,CSD,250,22.19,None,Ahmedabad,96.1
+2026-07-01,Brand X,BR760,Juice,1500,100.48,None,Bengaluru,90.2
+2026-07-01,Brand Y,BR761,CSD,250,23.2,None,Bengaluru,84.8
+2026-07-01,Brand Z,BR762,Juice,1500,97.83,Bundle,Bengaluru,85.7
+2026-07-01,Brand Q,BR763,CSD,750,58.0,None,Bengaluru,78.7
+2026-07-01,Brand M,BR764,Water,500,10.93,None,Bengaluru,99.0
+2026-07-01,Brand N,BR765,CSD,500,38.41,None,Bengaluru,84.2
+2026-07-01,Brand X,BR766,Energy Drink,250,25.64,Retailer Scheme,Hyderabad,94.8
+2026-07-01,Brand Y,BR767,Water,1000,15.64,10% Off,Hyderabad,89.9
+2026-07-01,Brand Z,BR768,Juice,1000,68.89,None,Hyderabad,90.1
+2026-07-01,Brand Q,BR769,CSD,1500,115.86,None,Hyderabad,87.2
+2026-07-01,Brand M,BR770,CSD,1000,78.88,None,Hyderabad,82.5
+2026-07-01,Brand N,BR771,CSD,1500,115.97,None,Hyderabad,81.2
+2026-07-01,Brand X,BR772,Sports Drink,1500,128.18,Bundle,Chennai,99.0
+2026-07-01,Brand Y,BR773,Energy Drink,500,53.04,None,Chennai,88.8
+2026-07-01,Brand Z,BR774,CSD,1000,78.88,None,Chennai,95.9
+2026-07-01,Brand Q,BR775,Juice,330,25.78,10% Off,Chennai,97.7
+2026-07-01,Brand M,BR776,Water,1000,13.23,None,Chennai,85.1
+2026-07-01,Brand N,BR777,CSD,750,56.89,None,Chennai,91.0
+2026-07-01,Brand X,BR778,Water,500,9.91,None,Kolkata,88.3
+2026-07-01,Brand Y,BR779,CSD,750,57.53,None,Kolkata,79.9
+2026-07-01,Brand Z,BR780,CSD,330,24.91,None,Kolkata,86.7
+2026-07-01,Brand Q,BR781,Juice,750,52.88,None,Kolkata,92.1
+2026-07-01,Brand M,BR782,CSD,500,40.03,None,Kolkata,84.5
+2026-07-01,Brand N,BR783,Energy Drink,330,34.63,None,Kolkata,85.7
+2026-07-01,Brand X,BR784,Juice,1500,97.56,10% Off,Bhubaneswar,86.8
+2026-07-01,Brand Y,BR785,Energy Drink,250,25.18,None,Bhubaneswar,99.0
+2026-07-01,Brand Z,BR786,Juice,1000,68.96,None,Bhubaneswar,75.2
+2026-07-01,Brand Q,BR787,Energy Drink,330,35.45,None,Bhubaneswar,91.5
+2026-07-01,Brand M,BR788,CSD,330,25.5,None,Bhubaneswar,86.2
+2026-07-01,Brand N,BR789,Water,250,4.79,None,Bhubaneswar,83.5
+2026-07-01,Brand X,BR790,Water,250,3.83,None,Patna,86.1
+2026-07-01,Brand Y,BR791,Sports Drink,250,21.81,10% Off,Patna,92.7
+2026-07-01,Brand Z,BR792,CSD,1000,76.38,None,Patna,93.1
+2026-07-01,Brand Q,BR793,Juice,1500,100.25,10% Off,Patna,89.3
+2026-07-01,Brand M,BR794,Juice,750,49.8,None,Patna,95.6
+2026-07-01,Brand N,BR795,CSD,250,20.47,None,Patna,96.9
+2026-08-01,Brand X,BR796,Energy Drink,1500,141.72,None,Gurgaon,98.7
+2026-08-01,Brand Y,BR797,CSD,750,54.27,None,Gurgaon,89.2
+2026-08-01,Brand Z,BR798,CSD,750,52.91,10% Off,Gurgaon,96.5
+2026-08-01,Brand Q,BR799,Juice,1500,90.85,10% Off,Gurgaon,96.5
+2026-08-01,Brand M,BR800,Water,500,5.75,10% Off,Gurgaon,87.3
+2026-08-01,Brand N,BR801,CSD,500,36.5,None,Gurgaon,82.0
+2026-08-01,Brand X,BR802,CSD,1000,78.59,10% Off,Delhi,73.8
+2026-08-01,Brand Y,BR803,CSD,750,56.91,None,Delhi,88.5
+2026-08-01,Brand Z,BR804,Energy Drink,1000,103.93,None,Delhi,90.1
+2026-08-01,Brand Q,BR805,Energy Drink,1000,103.58,None,Delhi,79.7
+2026-08-01,Brand M,BR806,Water,1500,18.02,None,Delhi,95.3
+2026-08-01,Brand N,BR807,CSD,330,24.88,None,Delhi,89.1
+2026-08-01,Brand X,BR808,Water,250,3.98,Bundle,Noida,97.4
+2026-08-01,Brand Y,BR809,Energy Drink,500,50.28,None,Noida,90.6
+2026-08-01,Brand Z,BR810,Juice,750,51.41,None,Noida,80.5
+2026-08-01,Brand Q,BR811,CSD,1000,75.2,None,Noida,91.2
+2026-08-01,Brand M,BR812,CSD,330,28.76,Retailer Scheme,Noida,92.7
+2026-08-01,Brand N,BR813,Sports Drink,1000,87.46,10% Off,Noida,84.2
+2026-08-01,Brand X,BR814,Energy Drink,1000,103.64,None,Chandigarh,77.9
+2026-08-01,Brand Y,BR815,CSD,1000,78.75,None,Chandigarh,88.7
+2026-08-01,Brand Z,BR816,Energy Drink,1000,102.53,None,Chandigarh,81.0
+2026-08-01,Brand Q,BR817,CSD,1500,117.13,None,Chandigarh,95.8
+2026-08-01,Brand M,BR818,CSD,750,61.2,Retailer Scheme,Chandigarh,85.1
+2026-08-01,Brand N,BR819,Juice,500,34.3,Retailer Scheme,Chandigarh,99.0
+2026-08-01,Brand X,BR820,Water,500,6.63,Retailer Scheme,Jaipur,73.1
+2026-08-01,Brand Y,BR821,Water,1000,13.82,None,Jaipur,88.9
+2026-08-01,Brand Z,BR822,Sports Drink,330,29.17,10% Off,Jaipur,98.0
+2026-08-01,Brand Q,BR823,Energy Drink,750,77.66,10% Off,Jaipur,81.8
+2026-08-01,Brand M,BR824,CSD,750,58.14,None,Jaipur,86.9
+2026-08-01,Brand N,BR825,Juice,750,51.15,None,Jaipur,85.2
+2026-08-01,Brand X,BR826,Energy Drink,500,53.82,None,Mumbai,83.2
+2026-08-01,Brand Y,BR827,Water,1000,13.37,None,Mumbai,89.7
+2026-08-01,Brand Z,BR828,Sports Drink,250,23.94,Retailer Scheme,Mumbai,78.9
+2026-08-01,Brand Q,BR829,Juice,1000,66.68,Bundle,Mumbai,87.2
+2026-08-01,Brand M,BR830,CSD,1000,78.92,None,Mumbai,91.6
+2026-08-01,Brand N,BR831,CSD,1500,115.7,None,Mumbai,86.5
+2026-08-01,Brand X,BR832,Energy Drink,1500,150.04,None,Pune,81.0
+2026-08-01,Brand Y,BR833,Sports Drink,500,45.8,None,Pune,95.2
+2026-08-01,Brand Z,BR834,CSD,250,19.6,None,Pune,93.1
+2026-08-01,Brand Q,BR835,CSD,750,59.87,None,Pune,80.7
+2026-08-01,Brand M,BR836,Energy Drink,250,27.84,10% Off,Pune,78.9
+2026-08-01,Brand N,BR837,CSD,330,26.76,Bundle,Pune,81.3
+2026-08-01,Brand X,BR838,CSD,1000,78.47,Bundle,Ahmedabad,91.8
+2026-08-01,Brand Y,BR839,Energy Drink,750,79.28,None,Ahmedabad,89.9
+2026-08-01,Brand Z,BR840,Energy Drink,750,78.89,10% Off,Ahmedabad,93.5
+2026-08-01,Brand Q,BR841,Energy Drink,1000,102.73,None,Ahmedabad,85.7
+2026-08-01,Brand M,BR842,Juice,250,19.86,None,Ahmedabad,81.5
+2026-08-01,Brand N,BR843,CSD,1000,77.07,None,Ahmedabad,94.4
+2026-08-01,Brand X,BR844,Sports Drink,750,67.7,None,Bengaluru,84.1
+2026-08-01,Brand Y,BR845,CSD,500,41.65,None,Bengaluru,89.3
+2026-08-01,Brand Z,BR846,CSD,500,38.19,None,Bengaluru,77.2
+2026-08-01,Brand Q,BR847,Energy Drink,750,76.19,None,Bengaluru,84.0
+2026-08-01,Brand M,BR848,Juice,750,50.1,Retailer Scheme,Bengaluru,95.1
+2026-08-01,Brand N,BR849,Energy Drink,500,50.83,None,Bengaluru,83.0
+2026-08-01,Brand X,BR850,CSD,330,26.71,None,Hyderabad,93.7
+2026-08-01,Brand Y,BR851,Sports Drink,330,29.02,Retailer Scheme,Hyderabad,71.7
+2026-08-01,Brand Z,BR852,Juice,500,35.48,None,Hyderabad,84.1
+2026-08-01,Brand Q,BR853,Juice,330,21.96,None,Hyderabad,86.8
+2026-08-01,Brand M,BR854,Sports Drink,750,65.1,Retailer Scheme,Hyderabad,99.0
+2026-08-01,Brand N,BR855,Water,1500,21.33,None,Hyderabad,79.8
+2026-08-01,Brand X,BR856,Juice,250,18.24,None,Chennai,92.7
+2026-08-01,Brand Y,BR857,Juice,330,23.56,None,Chennai,95.4
+2026-08-01,Brand Z,BR858,Energy Drink,250,28.99,None,Chennai,82.9
+2026-08-01,Brand Q,BR859,Energy Drink,1500,154.92,10% Off,Chennai,85.4
+2026-08-01,Brand M,BR860,Juice,1000,67.83,None,Chennai,89.0
+2026-08-01,Brand N,BR861,CSD,330,25.15,None,Chennai,77.6
+2026-08-01,Brand X,BR862,CSD,500,38.01,10% Off,Kolkata,84.8
+2026-08-01,Brand Y,BR863,Sports Drink,1000,89.84,Retailer Scheme,Kolkata,96.9
+2026-08-01,Brand Z,BR864,Sports Drink,1500,130.9,None,Kolkata,91.7
+2026-08-01,Brand Q,BR865,Sports Drink,750,67.51,None,Kolkata,86.9
+2026-08-01,Brand M,BR866,CSD,330,28.13,Retailer Scheme,Kolkata,88.8
+2026-08-01,Brand N,BR867,Water,1000,12.9,None,Kolkata,92.1
+2026-08-01,Brand X,BR868,Juice,1000,67.24,None,Bhubaneswar,93.4
+2026-08-01,Brand Y,BR869,Juice,750,52.74,None,Bhubaneswar,84.1
+2026-08-01,Brand Z,BR870,CSD,250,23.08,10% Off,Bhubaneswar,98.7
+2026-08-01,Brand Q,BR871,Juice,1000,66.19,None,Bhubaneswar,97.2
+2026-08-01,Brand M,BR872,CSD,250,21.73,None,Bhubaneswar,92.7
+2026-08-01,Brand N,BR873,Water,1500,18.79,Bundle,Bhubaneswar,82.1
+2026-08-01,Brand X,BR874,CSD,1500,117.29,None,Patna,80.9
+2026-08-01,Brand Y,BR875,CSD,750,57.51,None,Patna,85.7
+2026-08-01,Brand Z,BR876,CSD,750,59.88,None,Patna,88.4
+2026-08-01,Brand Q,BR877,Sports Drink,250,22.41,Bundle,Patna,75.6
+2026-08-01,Brand M,BR878,Juice,1500,100.58,None,Patna,91.5
+2026-08-01,Brand N,BR879,Sports Drink,330,31.35,10% Off,Patna,97.0
+2026-09-01,Brand X,BR880,Water,330,5.21,None,Gurgaon,97.0
+2026-09-01,Brand Y,BR881,Water,1000,14.96,None,Gurgaon,88.3
+2026-09-01,Brand Z,BR882,CSD,1500,108.74,Bundle,Gurgaon,87.4
+2026-09-01,Brand Q,BR883,Juice,500,34.21,None,Gurgaon,95.1
+2026-09-01,Brand M,BR884,CSD,750,53.85,None,Gurgaon,91.9
+2026-09-01,Brand N,BR885,Juice,750,48.8,10% Off,Gurgaon,96.1
+2026-09-01,Brand X,BR886,Energy Drink,330,35.8,None,Delhi,92.2
+2026-09-01,Brand Y,BR887,Energy Drink,750,77.96,None,Delhi,95.6
+2026-09-01,Brand Z,BR888,CSD,1500,114.89,10% Off,Delhi,80.1
+2026-09-01,Brand Q,BR889,Water,500,9.0,None,Delhi,89.6
+2026-09-01,Brand M,BR890,CSD,1000,75.68,10% Off,Delhi,85.5
+2026-09-01,Brand N,BR891,CSD,1000,77.04,None,Delhi,87.3
+2026-09-01,Brand X,BR892,Juice,1500,98.39,None,Noida,94.1
+2026-09-01,Brand Y,BR893,Water,1000,13.4,10% Off,Noida,94.8
+2026-09-01,Brand Z,BR894,Juice,1500,98.14,None,Noida,97.8
+2026-09-01,Brand Q,BR895,CSD,1000,76.06,Bundle,Noida,91.0
+2026-09-01,Brand M,BR896,Sports Drink,1500,131.41,Bundle,Noida,87.2
+2026-09-01,Brand N,BR897,Sports Drink,1000,87.75,Bundle,Noida,86.2
+2026-09-01,Brand X,BR898,Water,1500,18.12,None,Chandigarh,75.9
+2026-09-01,Brand Y,BR899,Energy Drink,1500,153.94,None,Chandigarh,97.4
+2026-09-01,Brand Z,BR900,CSD,1500,117.05,Bundle,Chandigarh,85.7
+2026-09-01,Brand Q,BR901,Juice,750,53.15,None,Chandigarh,91.5
+2026-09-01,Brand M,BR902,Energy Drink,1000,104.12,10% Off,Chandigarh,92.8
+2026-09-01,Brand N,BR903,Energy Drink,1500,154.96,Bundle,Chandigarh,79.3
+2026-09-01,Brand X,BR904,Energy Drink,500,52.93,None,Jaipur,81.5
+2026-09-01,Brand Y,BR905,Water,250,7.81,None,Jaipur,98.8
+2026-09-01,Brand Z,BR906,Energy Drink,1500,154.74,None,Jaipur,90.0
+2026-09-01,Brand Q,BR907,Juice,750,50.32,None,Jaipur,83.9
+2026-09-01,Brand M,BR908,CSD,500,41.82,None,Jaipur,87.1
+2026-09-01,Brand N,BR909,CSD,1000,78.96,None,Jaipur,95.6
+2026-09-01,Brand X,BR910,Energy Drink,250,28.88,10% Off,Mumbai,94.5
+2026-09-01,Brand Y,BR911,Juice,500,36.98,None,Mumbai,77.7
+2026-09-01,Brand Z,BR912,Water,330,5.88,None,Mumbai,99.0
+2026-09-01,Brand Q,BR913,Sports Drink,330,30.05,10% Off,Mumbai,94.8
+2026-09-01,Brand M,BR914,Juice,1500,100.7,10% Off,Mumbai,86.9
+2026-09-01,Brand N,BR915,Water,750,12.69,Retailer Scheme,Mumbai,79.7
+2026-09-01,Brand X,BR916,Water,250,7.4,None,Pune,95.4
+2026-09-01,Brand Y,BR917,Juice,500,36.88,Bundle,Pune,91.3
+2026-09-01,Brand Z,BR918,Energy Drink,330,36.61,10% Off,Pune,77.8
+2026-09-01,Brand Q,BR919,Juice,1500,102.28,10% Off,Pune,86.4
+2026-09-01,Brand M,BR920,Water,330,4.85,None,Pune,99.0
+2026-09-01,Brand N,BR921,Juice,500,37.25,None,Pune,88.1
+2026-09-01,Brand X,BR922,Juice,500,32.82,None,Ahmedabad,82.8
+2026-09-01,Brand Y,BR923,Energy Drink,330,35.78,None,Ahmedabad,80.9
+2026-09-01,Brand Z,BR924,CSD,1000,75.45,None,Ahmedabad,99.0
+2026-09-01,Brand Q,BR925,Juice,750,51.59,Retailer Scheme,Ahmedabad,93.9
+2026-09-01,Brand M,BR926,Water,500,7.95,None,Ahmedabad,97.9
+2026-09-01,Brand N,BR927,CSD,500,37.91,Retailer Scheme,Ahmedabad,89.7
+2026-09-01,Brand X,BR928,Juice,1000,68.24,None,Bengaluru,96.8
+2026-09-01,Brand Y,BR929,Juice,250,19.91,Bundle,Bengaluru,82.1
+2026-09-01,Brand Z,BR930,Water,1500,18.87,None,Bengaluru,89.1
+2026-09-01,Brand Q,BR931,Energy Drink,750,78.47,None,Bengaluru,90.0
+2026-09-01,Brand M,BR932,CSD,330,25.65,None,Bengaluru,97.7
+2026-09-01,Brand N,BR933,CSD,750,56.94,Retailer Scheme,Bengaluru,90.2
+2026-09-01,Brand X,BR934,CSD,1500,113.24,None,Hyderabad,83.6
+2026-09-01,Brand Y,BR935,Water,330,6.96,None,Hyderabad,88.4
+2026-09-01,Brand Z,BR936,Juice,750,52.64,Retailer Scheme,Hyderabad,76.3
+2026-09-01,Brand Q,BR937,Energy Drink,750,77.98,None,Hyderabad,71.8
+2026-09-01,Brand M,BR938,Juice,1000,69.05,None,Hyderabad,93.8
+2026-09-01,Brand N,BR939,CSD,750,59.21,None,Hyderabad,85.4
+2026-09-01,Brand X,BR940,CSD,1000,78.99,None,Chennai,86.2
+2026-09-01,Brand Y,BR941,CSD,1000,79.88,None,Chennai,93.8
+2026-09-01,Brand Z,BR942,Juice,1500,99.45,None,Chennai,97.8
+2026-09-01,Brand Q,BR943,CSD,500,38.25,None,Chennai,91.7
+2026-09-01,Brand M,BR944,Water,1000,12.68,None,Chennai,99.0
+2026-09-01,Brand N,BR945,Energy Drink,330,35.99,10% Off,Chennai,91.5
+2026-09-01,Brand X,BR946,Juice,1500,100.24,Retailer Scheme,Kolkata,90.1
+2026-09-01,Brand Y,BR947,CSD,1500,113.42,None,Kolkata,89.7
+2026-09-01,Brand Z,BR948,CSD,330,29.16,None,Kolkata,79.0
+2026-09-01,Brand Q,BR949,Juice,750,53.53,None,Kolkata,94.7
+2026-09-01,Brand M,BR950,Water,1000,13.27,10% Off,Kolkata,70.9
+2026-09-01,Brand N,BR951,CSD,250,19.78,None,Kolkata,83.9
+2026-09-01,Brand X,BR952,Energy Drink,1000,101.07,10% Off,Bhubaneswar,88.2
+2026-09-01,Brand Y,BR953,Water,1000,13.94,None,Bhubaneswar,82.5
+2026-09-01,Brand Z,BR954,Water,1500,22.27,None,Bhubaneswar,84.8
+2026-09-01,Brand Q,BR955,CSD,330,27.73,Bundle,Bhubaneswar,99.0
+2026-09-01,Brand M,BR956,CSD,1000,75.34,None,Bhubaneswar,95.7
+2026-09-01,Brand N,BR957,CSD,1000,77.36,None,Bhubaneswar,83.2
+2026-09-01,Brand X,BR958,CSD,250,19.2,None,Patna,84.7
+2026-09-01,Brand Y,BR959,Juice,1000,67.03,None,Patna,79.1
+2026-09-01,Brand Z,BR960,Water,750,11.02,None,Patna,92.9
+2026-09-01,Brand Q,BR961,Energy Drink,1500,153.24,Bundle,Patna,86.3
+2026-09-01,Brand M,BR962,Sports Drink,250,24.0,None,Patna,74.2
+2026-09-01,Brand N,BR963,CSD,1500,116.87,None,Patna,88.7
+2026-10-01,Brand X,BR964,CSD,750,56.33,None,Gurgaon,91.1
+2026-10-01,Brand Y,BR965,Energy Drink,330,36.87,None,Gurgaon,94.7
+2026-10-01,Brand Z,BR966,Sports Drink,500,42.61,Bundle,Gurgaon,87.5
+2026-10-01,Brand Q,BR967,Energy Drink,1000,101.52,None,Gurgaon,85.4
+2026-10-01,Brand M,BR968,CSD,1500,116.9,None,Gurgaon,99.0
+2026-10-01,Brand N,BR969,CSD,330,28.2,None,Gurgaon,88.0
+2026-10-01,Brand X,BR970,CSD,1500,113.36,Retailer Scheme,Delhi,93.0
+2026-10-01,Brand Y,BR971,Energy Drink,750,77.45,Bundle,Delhi,84.2
+2026-10-01,Brand Z,BR972,Juice,330,25.06,None,Delhi,92.8
+2026-10-01,Brand Q,BR973,Water,750,13.69,None,Delhi,77.8
+2026-10-01,Brand M,BR974,Water,1000,15.17,10% Off,Delhi,84.8
+2026-10-01,Brand N,BR975,CSD,250,18.87,10% Off,Delhi,79.5
+2026-10-01,Brand X,BR976,Juice,250,18.75,None,Noida,83.8
+2026-10-01,Brand Y,BR977,CSD,250,19.51,10% Off,Noida,96.8
+2026-10-01,Brand Z,BR978,Juice,750,48.99,None,Noida,83.7
+2026-10-01,Brand Q,BR979,Juice,250,19.24,None,Noida,93.0
+2026-10-01,Brand M,BR980,Juice,1500,101.38,None,Noida,98.6
+2026-10-01,Brand N,BR981,CSD,250,18.93,None,Noida,87.8
+2026-10-01,Brand X,BR982,Energy Drink,250,28.92,None,Chandigarh,95.0
+2026-10-01,Brand Y,BR983,Juice,330,24.98,None,Chandigarh,91.7
+2026-10-01,Brand Z,BR984,CSD,1000,78.76,Bundle,Chandigarh,88.8
+2026-10-01,Brand Q,BR985,CSD,1500,113.72,Bundle,Chandigarh,93.3
+2026-10-01,Brand M,BR986,Juice,330,23.42,None,Chandigarh,99.0
+2026-10-01,Brand N,BR987,CSD,750,56.85,None,Chandigarh,83.5
+2026-10-01,Brand X,BR988,CSD,1000,76.19,10% Off,Jaipur,81.3
+2026-10-01,Brand Y,BR989,CSD,1000,76.51,None,Jaipur,80.9
+2026-10-01,Brand Z,BR990,CSD,250,20.35,None,Jaipur,95.0
+2026-10-01,Brand Q,BR991,Water,1500,18.88,Bundle,Jaipur,95.9
+2026-10-01,Brand M,BR992,Juice,1500,98.44,None,Jaipur,84.2
+2026-10-01,Brand N,BR993,CSD,1000,79.51,None,Jaipur,73.0
+2026-10-01,Brand X,BR994,Juice,750,52.67,10% Off,Mumbai,83.3
+2026-10-01,Brand Y,BR995,CSD,500,39.22,None,Mumbai,91.8
+2026-10-01,Brand Z,BR996,CSD,1500,117.24,None,Mumbai,87.5
+2026-10-01,Brand Q,BR997,CSD,1500,113.69,10% Off,Mumbai,89.3
+2026-10-01,Brand M,BR998,Energy Drink,750,77.03,Bundle,Mumbai,84.3
+2026-10-01,Brand N,BR999,Sports Drink,1000,89.07,None,Mumbai,95.1
+2026-10-01,Brand X,BR100,Water,500,8.21,None,Pune,90.4
+2026-10-01,Brand Y,BR101,CSD,1000,76.17,None,Pune,92.1
+2026-10-01,Brand Z,BR102,CSD,250,20.59,None,Pune,89.1
+2026-10-01,Brand Q,BR103,CSD,1500,115.0,None,Pune,91.7
+2026-10-01,Brand M,BR104,Energy Drink,750,78.1,None,Pune,91.2
+2026-10-01,Brand N,BR105,CSD,750,58.28,None,Pune,81.5
+2026-10-01,Brand X,BR106,Sports Drink,330,30.21,Bundle,Ahmedabad,90.6
+2026-10-01,Brand Y,BR107,Juice,750,50.07,None,Ahmedabad,93.5
+2026-10-01,Brand Z,BR108,Water,250,5.68,Bundle,Ahmedabad,96.1
+2026-10-01,Brand Q,BR109,Energy Drink,1500,151.1,None,Ahmedabad,90.9
+2026-10-01,Brand M,BR110,CSD,1000,79.34,Bundle,Ahmedabad,81.2
+2026-10-01,Brand N,BR111,Energy Drink,500,53.74,None,Ahmedabad,82.3
+2026-10-01,Brand X,BR112,CSD,1500,114.55,None,Bengaluru,85.0
+2026-10-01,Brand Y,BR113,Energy Drink,1000,103.74,10% Off,Bengaluru,89.3
+2026-10-01,Brand Z,BR114,Water,250,3.03,10% Off,Bengaluru,87.1
+2026-10-01,Brand Q,BR115,CSD,250,20.47,None,Bengaluru,80.1
+2026-10-01,Brand M,BR116,Energy Drink,330,35.2,None,Bengaluru,80.1
+2026-10-01,Brand N,BR117,CSD,250,21.1,None,Bengaluru,73.3
+2026-10-01,Brand X,BR118,CSD,750,59.99,None,Hyderabad,66.2
+2026-10-01,Brand Y,BR119,Energy Drink,750,79.81,None,Hyderabad,87.1
+2026-10-01,Brand Z,BR120,Water,750,10.9,10% Off,Hyderabad,99.0
+2026-10-01,Brand Q,BR121,Energy Drink,250,26.75,None,Hyderabad,99.0
+2026-10-01,Brand M,BR122,Juice,1500,100.55,None,Hyderabad,81.2
+2026-10-01,Brand N,BR123,Juice,1500,98.91,None,Hyderabad,89.0
+2026-10-01,Brand X,BR124,CSD,750,56.96,Retailer Scheme,Chennai,77.7
+2026-10-01,Brand Y,BR125,CSD,250,23.56,None,Chennai,78.8
+2026-10-01,Brand Z,BR126,Sports Drink,500,46.55,None,Chennai,79.6
+2026-10-01,Brand Q,BR127,CSD,1000,79.79,None,Chennai,86.4
+2026-10-01,Brand M,BR128,Water,1000,13.09,10% Off,Chennai,86.7
+2026-10-01,Brand N,BR129,CSD,330,24.84,None,Chennai,89.8
+2026-10-01,Brand X,BR130,CSD,1000,77.19,None,Kolkata,92.6
+2026-10-01,Brand Y,BR131,Juice,1500,102.17,None,Kolkata,85.6
+2026-10-01,Brand Z,BR132,Energy Drink,750,75.69,Bundle,Kolkata,88.3
+2026-10-01,Brand Q,BR133,Energy Drink,500,50.59,None,Kolkata,80.3
+2026-10-01,Brand M,BR134,Energy Drink,750,75.34,None,Kolkata,78.6
+2026-10-01,Brand N,BR135,CSD,250,22.58,None,Kolkata,77.5
+2026-10-01,Brand X,BR136,Water,750,12.93,None,Bhubaneswar,92.5
+2026-10-01,Brand Y,BR137,CSD,250,22.23,None,Bhubaneswar,85.6
+2026-10-01,Brand Z,BR138,Juice,250,16.52,None,Bhubaneswar,74.9
+2026-10-01,Brand Q,BR139,CSD,750,59.87,None,Bhubaneswar,87.6
+2026-10-01,Brand M,BR140,Juice,750,50.99,None,Bhubaneswar,79.3
+2026-10-01,Brand N,BR141,CSD,1500,113.29,None,Bhubaneswar,99.0
+2026-10-01,Brand X,BR142,Energy Drink,750,76.48,None,Patna,83.9
+2026-10-01,Brand Y,BR143,Energy Drink,1500,152.51,None,Patna,92.8
+2026-10-01,Brand Z,BR144,Energy Drink,1000,101.65,None,Patna,95.6
+2026-10-01,Brand Q,BR145,CSD,500,42.35,None,Patna,81.3
+2026-10-01,Brand M,BR146,Sports Drink,1500,129.87,None,Patna,88.5
+2026-10-01,Brand N,BR147,CSD,500,39.36,10% Off,Patna,91.9
+2026-11-01,Brand X,BR148,CSD,750,59.62,Retailer Scheme,Gurgaon,88.8
+2026-11-01,Brand Y,BR149,CSD,250,22.0,None,Gurgaon,90.5
+2026-11-01,Brand Z,BR150,CSD,330,24.76,None,Gurgaon,78.7
+2026-11-01,Brand Q,BR151,Water,750,12.09,Retailer Scheme,Gurgaon,91.9
+2026-11-01,Brand M,BR152,CSD,330,25.97,Retailer Scheme,Gurgaon,84.6
+2026-11-01,Brand N,BR153,Water,750,10.88,None,Gurgaon,90.4
+2026-11-01,Brand X,BR154,Juice,250,19.78,None,Delhi,94.4
+2026-11-01,Brand Y,BR155,Energy Drink,330,35.79,10% Off,Delhi,92.7
+2026-11-01,Brand Z,BR156,Juice,750,50.59,Retailer Scheme,Delhi,90.4
+2026-11-01,Brand Q,BR157,Juice,750,49.59,10% Off,Delhi,92.5
+2026-11-01,Brand M,BR158,CSD,1500,115.03,None,Delhi,92.8
+2026-11-01,Brand N,BR159,Energy Drink,1500,151.6,None,Delhi,98.5
+2026-11-01,Brand X,BR160,CSD,1000,79.56,Retailer Scheme,Noida,87.8
+2026-11-01,Brand Y,BR161,CSD,250,21.42,None,Noida,89.1
+2026-11-01,Brand Z,BR162,CSD,750,60.58,None,Noida,94.5
+2026-11-01,Brand Q,BR163,Juice,330,23.4,Bundle,Noida,84.6
+2026-11-01,Brand M,BR164,CSD,330,28.89,None,Noida,78.7
+2026-11-01,Brand N,BR165,Juice,330,21.73,None,Noida,91.5
+2026-11-01,Brand X,BR166,CSD,500,38.99,None,Chandigarh,86.6
+2026-11-01,Brand Y,BR167,Water,250,3.39,None,Chandigarh,79.5
+2026-11-01,Brand Z,BR168,Water,750,9.16,None,Chandigarh,91.5
+2026-11-01,Brand Q,BR169,CSD,250,23.34,None,Chandigarh,98.0
+2026-11-01,Brand M,BR170,Water,750,12.58,None,Chandigarh,76.6
+2026-11-01,Brand N,BR171,Juice,750,51.88,None,Chandigarh,95.2
+2026-11-01,Brand X,BR172,Water,330,6.62,None,Jaipur,70.2
+2026-11-01,Brand Y,BR173,CSD,250,21.6,Retailer Scheme,Jaipur,85.2
+2026-11-01,Brand Z,BR174,Juice,1000,68.19,None,Jaipur,99.0
+2026-11-01,Brand Q,BR175,CSD,1000,79.13,Retailer Scheme,Jaipur,85.7
+2026-11-01,Brand M,BR176,CSD,330,27.73,None,Jaipur,88.6
+2026-11-01,Brand N,BR177,CSD,1500,116.24,None,Jaipur,93.3
+2026-11-01,Brand X,BR178,Water,330,5.36,10% Off,Mumbai,76.0
+2026-11-01,Brand Y,BR179,CSD,1500,117.38,Bundle,Mumbai,88.5
+2026-11-01,Brand Z,BR180,Juice,250,16.41,None,Mumbai,88.4
+2026-11-01,Brand Q,BR181,CSD,750,58.18,None,Mumbai,99.0
+2026-11-01,Brand M,BR182,Energy Drink,250,29.41,10% Off,Mumbai,79.3
+2026-11-01,Brand N,BR183,CSD,330,25.65,None,Mumbai,85.3
+2026-11-01,Brand X,BR184,Juice,500,33.21,None,Pune,81.5
+2026-11-01,Brand Y,BR185,Energy Drink,250,26.83,None,Pune,80.8
+2026-11-01,Brand Z,BR186,Water,500,8.14,None,Pune,95.9
+2026-11-01,Brand Q,BR187,CSD,330,29.42,Bundle,Pune,88.2
+2026-11-01,Brand M,BR188,Water,250,7.18,None,Pune,84.1
+2026-11-01,Brand N,BR189,Sports Drink,1500,129.82,10% Off,Pune,84.4
+2026-11-01,Brand X,BR190,Sports Drink,1500,132.36,10% Off,Ahmedabad,84.1
+2026-11-01,Brand Y,BR191,CSD,1500,115.71,Retailer Scheme,Ahmedabad,84.7
+2026-11-01,Brand Z,BR192,Juice,250,20.62,None,Ahmedabad,79.1
+2026-11-01,Brand Q,BR193,CSD,500,38.73,None,Ahmedabad,86.2
+2026-11-01,Brand M,BR194,CSD,330,27.19,None,Ahmedabad,85.5
+2026-11-01,Brand N,BR195,Juice,330,21.6,None,Ahmedabad,82.7
+2026-11-01,Brand X,BR196,Water,500,6.04,None,Bengaluru,89.1
+2026-11-01,Brand Y,BR197,Water,750,12.53,10% Off,Bengaluru,89.7
+2026-11-01,Brand Z,BR198,Energy Drink,500,50.59,None,Bengaluru,84.1
+2026-11-01,Brand Q,BR199,CSD,330,27.49,None,Bengaluru,87.0
+2026-11-01,Brand M,BR200,Juice,1500,100.98,Bundle,Bengaluru,99.0
+2026-11-01,Brand N,BR201,CSD,1500,112.66,Bundle,Bengaluru,99.0
+2026-11-01,Brand X,BR202,CSD,330,26.99,None,Hyderabad,80.6
+2026-11-01,Brand Y,BR203,CSD,330,28.17,10% Off,Hyderabad,81.6
+2026-11-01,Brand Z,BR204,Sports Drink,750,68.2,None,Hyderabad,80.6
+2026-11-01,Brand Q,BR205,Water,500,7.5,10% Off,Hyderabad,95.4
+2026-11-01,Brand M,BR206,CSD,1500,117.37,None,Hyderabad,85.2
+2026-11-01,Brand N,BR207,Juice,500,36.72,None,Hyderabad,89.7
+2026-11-01,Brand X,BR208,Sports Drink,250,24.5,None,Chennai,99.0
+2026-11-01,Brand Y,BR209,Sports Drink,250,23.21,None,Chennai,87.9
+2026-11-01,Brand Z,BR210,Juice,250,19.81,10% Off,Chennai,92.9
+2026-11-01,Brand Q,BR211,CSD,500,41.58,None,Chennai,91.6
+2026-11-01,Brand M,BR212,Juice,330,22.97,None,Chennai,83.9
+2026-11-01,Brand N,BR213,Energy Drink,1500,154.96,None,Chennai,95.4
+2026-11-01,Brand X,BR214,Energy Drink,1500,154.54,None,Kolkata,82.1
+2026-11-01,Brand Y,BR215,Energy Drink,250,27.43,10% Off,Kolkata,97.4
+2026-11-01,Brand Z,BR216,Water,1500,21.61,None,Kolkata,83.9
+2026-11-01,Brand Q,BR217,CSD,750,58.87,10% Off,Kolkata,84.7
+2026-11-01,Brand M,BR218,Juice,330,25.25,Bundle,Kolkata,80.4
+2026-11-01,Brand N,BR219,CSD,500,41.63,None,Kolkata,81.5
+2026-11-01,Brand X,BR220,CSD,500,37.62,Bundle,Bhubaneswar,85.0
+2026-11-01,Brand Y,BR221,Water,330,4.36,None,Bhubaneswar,71.0
+2026-11-01,Brand Z,BR222,Juice,1500,99.18,None,Bhubaneswar,86.4
+2026-11-01,Brand Q,BR223,Energy Drink,250,29.59,None,Bhubaneswar,84.4
+2026-11-01,Brand M,BR224,Energy Drink,250,26.99,None,Bhubaneswar,93.5
+2026-11-01,Brand N,BR225,Energy Drink,330,37.44,None,Bhubaneswar,91.0
+2026-11-01,Brand X,BR226,Energy Drink,250,27.31,None,Patna,83.0
+2026-11-01,Brand Y,BR227,Juice,250,17.69,Bundle,Patna,84.8
+2026-11-01,Brand Z,BR228,CSD,500,42.0,None,Patna,86.4
+2026-11-01,Brand Q,BR229,Juice,500,35.3,Retailer Scheme,Patna,98.4
+2026-11-01,Brand M,BR230,CSD,250,20.55,None,Patna,82.2
+2026-11-01,Brand N,BR231,CSD,1000,75.22,None,Patna,83.0
+2026-12-01,Brand X,BR232,CSD,1500,113.05,None,Gurgaon,80.1
+2026-12-01,Brand Y,BR233,Energy Drink,1000,100.7,None,Gurgaon,77.6
+2026-12-01,Brand Z,BR234,Juice,750,50.57,None,Gurgaon,90.1
+2026-12-01,Brand Q,BR235,Sports Drink,1500,130.54,Retailer Scheme,Gurgaon,89.4
+2026-12-01,Brand M,BR236,Sports Drink,500,44.04,Retailer Scheme,Gurgaon,97.0
+2026-12-01,Brand N,BR237,Energy Drink,500,50.33,None,Gurgaon,95.3
+2026-12-01,Brand X,BR238,CSD,250,20.07,None,Delhi,99.0
+2026-12-01,Brand Y,BR239,Energy Drink,1000,102.04,None,Delhi,87.5
+2026-12-01,Brand Z,BR240,Energy Drink,250,29.96,None,Delhi,86.2
+2026-12-01,Brand Q,BR241,Energy Drink,750,76.96,None,Delhi,78.9
+2026-12-01,Brand M,BR242,CSD,1000,75.45,10% Off,Delhi,92.9
+2026-12-01,Brand N,BR243,CSD,330,27.66,10% Off,Delhi,88.8
+2026-12-01,Brand X,BR244,Sports Drink,750,68.35,None,Noida,92.6
+2026-12-01,Brand Y,BR245,CSD,330,28.68,None,Noida,80.0
+2026-12-01,Brand Z,BR246,CSD,500,41.68,None,Noida,90.5
+2026-12-01,Brand Q,BR247,Water,750,13.64,Retailer Scheme,Noida,89.4
+2026-12-01,Brand M,BR248,CSD,330,27.93,None,Noida,89.0
+2026-12-01,Brand N,BR249,CSD,1000,79.97,None,Noida,83.2
+2026-12-01,Brand X,BR250,Sports Drink,500,42.67,None,Chandigarh,96.3
+2026-12-01,Brand Y,BR251,Energy Drink,500,54.17,Bundle,Chandigarh,99.0
+2026-12-01,Brand Z,BR252,Sports Drink,1000,89.29,10% Off,Chandigarh,80.2
+2026-12-01,Brand Q,BR253,CSD,330,29.33,None,Chandigarh,93.0
+2026-12-01,Brand M,BR254,CSD,500,39.89,None,Chandigarh,67.9
+2026-12-01,Brand N,BR255,Water,1500,21.94,10% Off,Chandigarh,92.7
+2026-12-01,Brand X,BR256,Water,500,6.98,None,Jaipur,74.9
+2026-12-01,Brand Y,BR257,CSD,250,21.77,None,Jaipur,84.3
+2026-12-01,Brand Z,BR258,Energy Drink,330,34.79,Retailer Scheme,Jaipur,78.8
+2026-12-01,Brand Q,BR259,Sports Drink,1500,130.48,None,Jaipur,86.5
+2026-12-01,Brand M,BR260,Water,1000,15.38,None,Jaipur,93.9
+2026-12-01,Brand N,BR261,Water,1000,13.74,None,Jaipur,75.0
+2026-12-01,Brand X,BR262,Water,330,5.04,10% Off,Mumbai,85.5
+2026-12-01,Brand Y,BR263,CSD,1500,114.11,10% Off,Mumbai,84.4
+2026-12-01,Brand Z,BR264,CSD,500,40.82,None,Mumbai,99.0
+2026-12-01,Brand Q,BR265,Water,1000,15.38,10% Off,Mumbai,91.0
+2026-12-01,Brand M,BR266,Water,1500,21.71,Bundle,Mumbai,79.8
+2026-12-01,Brand N,BR267,Water,330,4.59,Bundle,Mumbai,84.7
+2026-12-01,Brand X,BR268,Energy Drink,1500,154.09,None,Pune,98.9
+2026-12-01,Brand Y,BR269,CSD,750,59.69,None,Pune,93.0
+2026-12-01,Brand Z,BR270,CSD,1000,75.15,Bundle,Pune,81.6
+2026-12-01,Brand Q,BR271,CSD,1000,76.68,None,Pune,86.1
+2026-12-01,Brand M,BR272,CSD,330,27.08,None,Pune,86.4
+2026-12-01,Brand N,BR273,Juice,1000,66.8,None,Pune,84.2
+2026-12-01,Brand X,BR274,Energy Drink,330,33.59,Bundle,Ahmedabad,76.0
+2026-12-01,Brand Y,BR275,Energy Drink,330,34.04,None,Ahmedabad,83.3
+2026-12-01,Brand Z,BR276,Juice,250,16.37,None,Ahmedabad,97.7
+2026-12-01,Brand Q,BR277,Water,330,4.43,None,Ahmedabad,85.3
+2026-12-01,Brand M,BR278,CSD,1500,113.83,None,Ahmedabad,87.3
+2026-12-01,Brand N,BR279,Water,330,8.06,None,Ahmedabad,89.0
+2026-12-01,Brand X,BR280,CSD,500,40.13,None,Bengaluru,99.0
+2026-12-01,Brand Y,BR281,Energy Drink,500,52.12,None,Bengaluru,88.1
+2026-12-01,Brand Z,BR282,Water,1000,15.31,Retailer Scheme,Bengaluru,95.7
+2026-12-01,Brand Q,BR283,CSD,750,58.96,None,Bengaluru,83.8
+2026-12-01,Brand M,BR284,CSD,750,56.91,Bundle,Bengaluru,86.2
+2026-12-01,Brand N,BR285,CSD,1500,113.61,None,Bengaluru,88.1
+2026-12-01,Brand X,BR286,Sports Drink,500,43.61,None,Hyderabad,82.6
+2026-12-01,Brand Y,BR287,CSD,1000,78.0,None,Hyderabad,86.6
+2026-12-01,Brand Z,BR288,CSD,1500,114.81,None,Hyderabad,94.2
+2026-12-01,Brand Q,BR289,CSD,1000,76.94,None,Hyderabad,82.4
+2026-12-01,Brand M,BR290,Energy Drink,250,27.78,None,Hyderabad,88.0
+2026-12-01,Brand N,BR291,Water,330,8.81,Retailer Scheme,Hyderabad,93.0
+2026-12-01,Brand X,BR292,Juice,750,50.32,None,Chennai,82.2
+2026-12-01,Brand Y,BR293,CSD,500,40.1,Retailer Scheme,Chennai,95.7
+2026-12-01,Brand Z,BR294,CSD,330,27.15,None,Chennai,88.5
+2026-12-01,Brand Q,BR295,Energy Drink,500,53.58,None,Chennai,86.8
+2026-12-01,Brand M,BR296,CSD,250,22.4,None,Chennai,73.9
+2026-12-01,Brand N,BR297,CSD,330,28.4,None,Chennai,85.4
+2026-12-01,Brand X,BR298,Juice,1000,66.01,None,Kolkata,90.6
+2026-12-01,Brand Y,BR299,CSD,250,21.0,None,Kolkata,99.0
+2026-12-01,Brand Z,BR300,CSD,1500,116.56,None,Kolkata,92.0
+2026-12-01,Brand Q,BR301,Energy Drink,500,51.91,10% Off,Kolkata,95.9
+2026-12-01,Brand M,BR302,Water,1000,16.92,None,Kolkata,79.5
+2026-12-01,Brand N,BR303,CSD,330,26.57,Retailer Scheme,Kolkata,87.1
+2026-12-01,Brand X,BR304,CSD,1000,77.49,None,Bhubaneswar,96.5
+2026-12-01,Brand Y,BR305,Juice,750,51.12,None,Bhubaneswar,81.8
+2026-12-01,Brand Z,BR306,CSD,1500,114.67,None,Bhubaneswar,94.8
+2026-12-01,Brand Q,BR307,CSD,250,22.98,None,Bhubaneswar,93.1
+2026-12-01,Brand M,BR308,Juice,1000,65.78,Bundle,Bhubaneswar,89.9
+2026-12-01,Brand N,BR309,Juice,330,24.29,Bundle,Bhubaneswar,85.7
+2026-12-01,Brand X,BR310,Sports Drink,500,45.59,None,Patna,81.1
+2026-12-01,Brand Y,BR311,CSD,250,23.01,None,Patna,99.0
+2026-12-01,Brand Z,BR312,CSD,1500,115.55,Bundle,Patna,92.4
+2026-12-01,Brand Q,BR313,Water,750,13.8,None,Patna,90.4
+2026-12-01,Brand M,BR314,Juice,1500,101.86,None,Patna,85.1
+2026-12-01,Brand N,BR315,CSD,750,57.99,None,Patna,88.3

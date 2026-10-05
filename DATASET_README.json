@@ -1,0 +1,28 @@
+{
+  "dataset": "AI Business Growth Advisor \u2014 Synthetic FMCG/Retail Dataset",
+  "seed": 42,
+  "period": "2025-01-01 to 2026-12-01",
+  "rows": {
+    "sales_data.csv": 30000,
+    "product_data.csv": 34,
+    "outlet_data.csv": 750,
+    "promotion_data.csv": 120,
+    "competitor_data.csv": 2016
+  },
+  "unique_products": 34,
+  "unique_outlets": 750,
+  "embedded_scenarios": [
+    "Gurgaon Q3 2026 availability shock for five key SKUs",
+    "Gurgaon Q3 2026 competitor price/availability pressure",
+    "Promotion-driven sales lift",
+    "Outlet type/tier variation",
+    "Seasonality and regional variation"
+  ],
+  "sanity_check": {
+    "gurgaon_q2_revenue": 247844.62,
+    "gurgaon_q3_revenue": 181130.78,
+    "gurgaon_q3_revenue_change_pct": -26.92,
+    "key_sku_availability_q2_avg": 89.61,
+    "key_sku_availability_q3_avg": 69.11
+  }
+}
