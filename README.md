@@ -16,7 +16,7 @@ An AI-powered business intelligence and decision-support application designed fo
 ## 🚀 Live Application
 
 **Streamlit App:**  
-https://enterprise-mcp-it-app-tf2378nowrlsfq7ege7ytt.streamlit.app/
+http://localhost:8501/
 
 The application allows users to:
 
