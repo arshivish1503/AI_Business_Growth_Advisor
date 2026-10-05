@@ -1,10 +1,19 @@
-import ollama
+import os
+
+# Ollama is optional.
+# The application can run without it on Streamlit Cloud.
+try:
+    import ollama
+    OLLAMA_AVAILABLE = True
+except ImportError:
+    ollama = None
+    OLLAMA_AVAILABLE = False
 
 
 class StrategyAgent:
 
     def __init__(self):
-        self.model = "llama3.2:3b"
+        self.model = os.getenv("OLLAMA_MODEL", "llama3.2:3b")
 
     # =========================================================
     # HELPER: Convert DataFrame / list / dictionary to records
@@ -17,11 +26,8 @@ class StrategyAgent:
 
         # Pandas DataFrame
         if hasattr(data, "to_dict"):
-
             try:
-                return data.to_dict(
-                    orient="records"
-                )
+                return data.to_dict(orient="records")
             except Exception:
                 pass
 
@@ -35,11 +41,89 @@ class StrategyAgent:
 
         # Single dictionary
         if isinstance(data, dict):
-
-            # Sometimes a single record is returned
             return [data]
 
         return []
+
+    # =========================================================
+    # OPTIONAL OLLAMA DIAGNOSIS
+    # =========================================================
+
+    def _generate_llm_diagnosis(self, prompt, fallback_diagnosis):
+
+        """
+        Try Ollama first.
+
+        LOCAL:
+            Ollama available -> Llama 3.2:3b generates diagnosis.
+
+        CLOUD:
+            Ollama unavailable -> deterministic fallback diagnosis.
+
+        This allows the same application to work both locally
+        and on Streamlit Cloud without requiring an external API.
+        """
+
+        # -----------------------------------------------------
+        # Try Ollama
+        # -----------------------------------------------------
+
+        if OLLAMA_AVAILABLE:
+
+            try:
+
+                print(
+                    "[Strategy Agent] Attempting Ollama "
+                    f"with model {self.model}..."
+                )
+
+                response = ollama.chat(
+                    model=self.model,
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": prompt
+                        }
+                    ],
+                    options={
+                        "num_predict": 300,
+                        "temperature": 0.1
+                    },
+                    stream=False
+                )
+
+                executive_diagnosis = (
+                    response["message"]["content"].strip()
+                )
+
+                if executive_diagnosis:
+
+                    print(
+                        "[Strategy Agent] Ollama diagnosis "
+                        "generated successfully."
+                    )
+
+                    return executive_diagnosis
+
+            except Exception as e:
+
+                print(
+                    "[Strategy Agent] Ollama unavailable. "
+                    f"Using fallback diagnosis. Error: {e}"
+                )
+
+        else:
+
+            print(
+                "[Strategy Agent] Ollama package unavailable. "
+                "Using fallback diagnosis."
+            )
+
+        # -----------------------------------------------------
+        # Cloud / fallback mode
+        # -----------------------------------------------------
+
+        return fallback_diagnosis
 
     # =========================================================
     # MAIN STRATEGY FUNCTION
@@ -138,9 +222,7 @@ class StrategyAgent:
                 and availability <= -10
             ):
 
-                availability_skus.append(
-                    record
-                )
+                availability_skus.append(record)
 
             # Sales decline without major
             # availability deterioration
@@ -150,9 +232,7 @@ class StrategyAgent:
                 and availability > -10
             ):
 
-                investigation_skus.append(
-                    record
-                )
+                investigation_skus.append(record)
 
         # =====================================================
         # 3. PROMOTION ANALYSIS
@@ -563,41 +643,58 @@ Rules:
             "[Strategy Agent] Generating executive diagnosis..."
         )
 
-        try:
+        # =====================================================
+        # CLOUD-SAFE FALLBACK DIAGNOSIS
+        # =====================================================
 
-            response = ollama.chat(
-                model=self.model,
-                messages=[
-                    {
-                        "role": "user",
-                        "content": prompt
-                    }
-                ],
-                options={
-                    "num_predict": 300,
-                    "temperature": 0.1
-                },
-                stream=False
+        fallback_diagnosis = (
+            f"Revenue declined {revenue_change:.2f}% from Q2 to Q3, "
+            f"while units declined {units_change:.2f}% and overall "
+            f"availability changed by {availability_change:.2f} "
+            f"percentage points. "
+        )
+
+        if availability_skus:
+
+            fallback_diagnosis += (
+                "The strongest availability-related SKU signals "
+                "are "
+                + ", ".join(
+                    sku["SKU_ID"]
+                    for sku in availability_skus[:3]
+                )
+                + ". "
             )
 
-            executive_diagnosis = (
-                response["message"]["content"]
+        if investigation_skus:
+
+            fallback_diagnosis += (
+                "Additional investigation is required for "
+                + ", ".join(
+                    sku["SKU_ID"]
+                    for sku in investigation_skus[:3]
+                )
+                + ", where sales declined without major "
+                "availability deterioration. "
             )
 
-        except Exception as e:
+        if top_outlet_types:
 
-            print(
-                f"[Strategy Agent] LLM error: {e}"
+            fallback_diagnosis += (
+                "At the outlet-type level, the largest observed "
+                "decline is in "
+                + top_outlet_types[0].get(
+                    "Outlet_Type",
+                    "the highest-priority outlet type"
+                )
+                + "."
             )
 
-            executive_diagnosis = (
-                f"Revenue declined "
-                f"{revenue_change:.2f}% from Q2 to Q3, "
-                f"while units declined "
-                f"{units_change:.2f}%. "
-                f"Overall availability changed by "
-                f"{availability_change:.2f} percentage points."
-            )
+        # Try Ollama, otherwise use fallback
+        executive_diagnosis = self._generate_llm_diagnosis(
+            prompt,
+            fallback_diagnosis
+        )
 
         # =====================================================
         # 15. DETERMINISTIC ACTIONS
@@ -758,14 +855,12 @@ Rules:
         strategy = []
 
         # Executive diagnosis
-
         strategy.append(
             "## 1. EXECUTIVE DIAGNOSIS\n\n"
             + executive_diagnosis.strip()
         )
 
         # Top actions
-
         strategy.append(
             "\n## 2. TOP 5 ACTIONS\n"
         )
@@ -790,7 +885,6 @@ Rules:
             )
 
         # SKU priorities
-
         strategy.append(
             f"""
 ## 3. SKU PRIORITIES
@@ -806,7 +900,6 @@ Rules:
         )
 
         # Customer / outlet priorities
-
         strategy.append(
             f"""
 ## 4. CUSTOMER / OUTLET PRIORITIES
@@ -822,7 +915,6 @@ Rules:
         )
 
         # Warnings
-
         strategy.append(
             """
 ## 5. WHAT MANAGEMENT SHOULD NOT DO
@@ -836,7 +928,6 @@ Rules:
         )
 
         # 30-day plan
-
         strategy.append(
             """
 ## 6. 30-DAY ACTION PLAN
@@ -852,7 +943,6 @@ Rules:
         )
 
         # Next question
-
         strategy.append(
             """
 ## 7. NEXT MANAGEMENT QUESTION
