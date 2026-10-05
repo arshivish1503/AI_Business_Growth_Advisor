@@ -4,12 +4,6 @@
 
 An AI-powered business intelligence and decision-support application designed for **FMCG and Retail** businesses. The system combines structured business analytics, specialised AI agents, market intelligence and strategic reasoning to convert raw sales data into actionable management recommendations.
 
-> **Project:** AI Business Growth Advisor  
-> **Student:** Arshika Vishwakarma  
-> **Roll No.:** 065070  
-> **Program:** PGDM-BDA, FORE School of Management  
-> **Course:** Agentic AI for Business Automation  
-> **Term:** 04 | Academic Year 2026–27
 
 ---
 
