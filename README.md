@@ -16,7 +16,7 @@ An AI-powered business intelligence and decision-support application designed fo
 ## 🚀 Live Application
 
 **Streamlit App:**  
-http://localhost:8501/
+(https://aibusinessgrowthadvisor-cojbkzaxzgsdgmelxzvnu5.streamlit.app/)
 
 The application allows users to:
 
@@ -430,13 +430,6 @@ Do not upload:
 - Private business data
 - Confidential customer information
 
----
-
-## 📄 Project Report
-
-The complete academic project report is available in the `docs/` folder.
-
-**[View Project Report](docs/AI_Business_Growth_Advisor_Project_Report.pdf)**
 
 ---
 
@@ -475,15 +468,6 @@ The project demonstrates the application of:
 - Decision-support systems
 - Local LLM inference
 - FMCG/Retail business intelligence
-
----
-
-## 👩‍💻 Author
-
-**Arshika Vishwakarma**  
-Roll No. 065070  
-PGDM-BDA  
-FORE School of Management
 
 ---
 
